@@ -1,0 +1,1516 @@
+season,week,game,proj_home_score,proj_away_score,proj_margin,proj_total,spread_home,total_line,actual_margin,actual_total
+2024,1,Florida State Seminoles @ Georgia Tech Yellow Jackets,21.5,30.6,-9.1,52.1,10.666666666666666,54.833333333333336,3.0,45.0
+2024,1,SMU Mustangs @ Nevada Wolf Pack,23.8,33.1,-9.3,56.9,27.5,55.833333333333336,-5.0,53.0
+2024,1,Coastal Carolina Chanticleers @ Jacksonville State Gamecocks,29.2,24.8,4.3,54.0,-3.5,55.166666666666664,-28.0,82.0
+2024,1,North Carolina Tar Heels @ Minnesota Golden Gophers,29.2,27.1,2.1,56.3,0.3333333333333333,51.833333333333336,-2.0,36.0
+2024,1,Temple Owls @ Oklahoma Sooners,39.3,20.4,18.9,59.7,-43.0,58.166666666666664,48.0,54.0
+2024,1,Florida Atlantic Owls @ Michigan State Spartans,26.2,23.9,2.2,50.1,-12.0,45.5,6.0,26.0
+2024,1,Western Michigan Broncos @ Wisconsin Badgers,29.7,19.9,9.8,49.6,-24.166666666666668,56.666666666666664,14.0,42.0
+2024,1,TCU Horned Frogs @ Stanford Cardinal,25.7,33.0,-7.3,58.7,8.333333333333334,59.333333333333336,-7.0,61.0
+2024,1,Clemson Tigers @ Georgia Bulldogs,29.1,20.2,8.9,49.3,-11.666666666666666,49.166666666666664,31.0,37.0
+2024,1,Kent State Golden Flashes @ Pittsburgh Panthers,32.9,21.8,11.1,54.7,-23.5,54.5,31.0,79.0
+2024,1,UConn Huskies @ Maryland Terrapins,32.3,19.0,13.2,51.3,-19.333333333333332,45.833333333333336,43.0,57.0
+2024,1,Virginia Tech Hokies @ Vanderbilt Commodores,25.0,29.4,-4.4,54.4,13.333333333333334,50.333333333333336,7.0,61.0
+2024,1,Penn State Nittany Lions @ West Virginia Mountaineers,24.5,29.6,-5.1,54.1,8.333333333333334,49.333333333333336,-22.0,46.0
+2024,1,Florida International Panthers @ Indiana Hoosiers,31.2,23.0,8.2,54.2,-23.833333333333332,51.0,24.0,38.0
+2024,1,Eastern Michigan Eagles @ Massachusetts Minutemen,25.9,28.6,-2.7,54.5,-2.5,50.166666666666664,-14.0,42.0
+2024,1,Ohio Bobcats @ Syracuse Orange,25.0,24.2,0.9,49.2,-17.333333333333332,46.0,16.0,60.0
+2024,1,Miami (OH) RedHawks @ Northwestern Wildcats,21.2,22.9,-1.7,44.2,-3.5,41.0,7.0,19.0
+2024,1,Kennesaw State Owls @ UTSA Roadrunners,32.9,23.8,9.0,56.7,-24.0,49.0,12.0,44.0
+2024,1,UTEP Miners @ Nebraska Cornhuskers,26.3,19.4,6.9,45.7,-27.5,48.75,33.0,47.0
+2024,1,Miami Hurricanes @ Florida Gators,29.5,26.5,3.0,56.0,2.5,54.5,-24.0,58.0
+2024,1,Colorado State Rams @ Texas Longhorns,35.3,17.9,17.4,53.2,-35.0,61.333333333333336,52.0,52.0
+2024,1,Akron Zips @ Ohio State Buckeyes,37.9,14.2,23.7,52.1,-49.5,56.666666666666664,46.0,58.0
+2024,1,Boise State Broncos @ Georgia Southern Eagles,27.5,30.5,-3.0,57.9,12.5,57.333333333333336,-11.0,101.0
+2024,1,Old Dominion Monarchs @ South Carolina Gamecocks,29.0,22.3,6.7,51.4,-20.333333333333332,50.833333333333336,4.0,42.0
+2024,1,North Texas Mean Green @ South Alabama Jaguars,34.1,25.9,8.2,60.1,-5.833333333333333,62.333333333333336,-14.0,90.0
+2024,1,UNLV Rebels @ Houston Cougars,32.2,27.9,4.3,60.1,-2.25,55.5,-20.0,34.0
+2024,1,Western Kentucky Hilltoppers @ Alabama Crimson Tide,35.3,24.3,11.1,59.6,-34.166666666666664,60.0,63.0,63.0
+2024,1,Sam Houston Bearkats @ Rice Owls,27.3,24.8,2.5,52.2,-9.833333333333334,48.833333333333336,-20.0,48.0
+2024,1,Nevada Wolf Pack @ Troy Trojans,31.4,16.2,15.2,47.5,-10.166666666666666,45.333333333333336,-2.0,54.0
+2024,1,UCLA Bruins @ Hawai'i Rainbow Warriors,23.2,31.2,-8.0,54.4,13.5,53.0,-3.0,29.0
+2024,1,Fresno State Bulldogs @ Michigan Wolverines,33.4,19.1,14.3,52.5,-21.0,46.5,20.0,40.0
+2024,1,Notre Dame Fighting Irish @ Texas A&M Aggies,25.4,27.3,-1.9,52.8,-2.6666666666666665,46.666666666666664,-10.0,36.0
+2024,1,Southern Miss Golden Eagles @ Kentucky Wildcats,31.0,21.0,10.0,52.0,-25.5,50.0,31.0,31.0
+2024,1,James Madison Dukes @ Charlotte 49ers,21.3,32.4,-11.1,53.7,7.0,49.25,-23.0,37.0
+2024,1,Georgia State Panthers @ Georgia Tech Yellow Jackets,30.3,26.8,3.5,57.1,-20.5,56.25,23.0,47.0
+2024,1,New Mexico Lobos @ Arizona Wildcats,33.8,21.0,12.8,54.8,-29.166666666666668,58.166666666666664,22.0,100.0
+2024,1,Wyoming Cowboys @ Arizona State Sun Devils,23.8,24.3,-0.5,48.0,-6.5,47.333333333333336,41.0,55.0
+2024,1,USC Trojans @ LSU Tigers,35.6,32.8,2.7,68.4,-3.8333333333333335,67.0,-7.0,47.0
+2024,1,Boston College Eagles @ Florida State Seminoles,33.8,19.2,14.7,53.0,-16.5,51.0,-15.0,41.0
+2024,2,BYU Cougars @ SMU Mustangs,34.2,24.2,10.0,58.4,-12.333333333333334,55.833333333333336,-3.0,33.0
+2024,2,Duke Blue Devils @ Northwestern Wildcats,22.6,24.1,-1.5,46.7,-2.1666666666666665,37.5,-6.0,46.0
+2024,2,Georgia Tech Yellow Jackets @ Syracuse Orange,27.5,25.1,2.4,52.6,2.8333333333333335,60.666666666666664,3.0,59.0
+2024,2,Troy Trojans @ Memphis Tigers,28.7,25.4,3.3,54.1,-18.666666666666668,56.666666666666664,21.0,55.0
+2024,2,Army Black Knights @ Florida Atlantic Owls,24.6,23.1,1.6,47.7,-2.0,42.166666666666664,-17.0,31.0
+2024,2,Kansas State Wildcats @ Tulane Green Wave,25.5,26.7,-1.2,52.2,8.833333333333334,47.333333333333336,-7.0,61.0
+2024,2,Pittsburgh Panthers @ Cincinnati Bearcats,28.0,25.7,2.3,53.7,-0.5,62.333333333333336,-1.0,55.0
+2024,2,Arkansas Razorbacks @ Oklahoma State Cowboys,31.0,27.1,4.0,58.1,-9.333333333333334,61.5,8.0,70.0
+2024,2,Akron Zips @ Rutgers Scarlet Knights,29.6,18.8,10.8,48.4,-24.5,41.75,32.0,66.0
+2024,2,Texas Longhorns @ Michigan Wolverines,31.2,22.8,8.4,53.9,6.666666666666667,41.833333333333336,-19.0,43.0
+2024,2,Bowling Green Falcons @ Penn State Nittany Lions,34.5,17.6,17.0,52.1,-34.833333333333336,51.166666666666664,7.0,61.0
+2024,2,Missouri State Bears @ Ball State Cardinals,25.4,24.7,0.7,50.1,-2.5,50.5,8.0,76.0
+2024,2,Temple Owls @ Navy Midshipmen,29.2,19.2,10.0,48.4,-12.166666666666666,43.333333333333336,27.0,49.0
+2024,2,Massachusetts Minutemen @ Toledo Rockets,36.6,18.9,17.7,55.6,-17.5,50.833333333333336,15.0,61.0
+2024,2,California Golden Bears @ Auburn Tigers,29.6,23.2,6.4,52.8,-12.333333333333334,52.666666666666664,-7.0,35.0
+2024,2,Michigan State Spartans @ Maryland Terrapins,30.7,20.9,9.8,51.7,-8.333333333333334,44.5,-3.0,51.0
+2024,2,Eastern Michigan Eagles @ Washington Huskies,34.2,20.8,13.4,54.9,-24.833333333333332,48.333333333333336,21.0,39.0
+2024,2,Charlotte 49ers @ North Carolina Tar Heels,36.0,21.8,14.2,57.8,-21.5,47.666666666666664,18.0,58.0
+2024,2,South Carolina Gamecocks @ Kentucky Wildcats,28.4,22.6,5.8,51.1,-9.333333333333334,41.833333333333336,-25.0,37.0
+2024,2,Jacksonville State Gamecocks @ Louisville Cardinals,30.9,22.6,8.3,53.5,-28.5,56.333333333333336,35.0,63.0
+2024,2,Iowa State Cyclones @ Iowa Hawkeyes,20.3,17.0,3.3,37.3,-2.8333333333333335,35.833333333333336,-1.0,39.0
+2024,2,Baylor Bears @ Utah Utes,30.1,21.3,8.8,51.4,-14.666666666666666,54.0,11.0,35.0
+2024,2,Northern Illinois Huskies @ Notre Dame Fighting Irish,34.6,20.0,14.6,54.7,-28.0,46.166666666666664,-2.0,30.0
+2024,2,UTSA Roadrunners @ Texas State Bobcats,28.1,31.9,-3.9,60.0,-2.0,60.0,39.0,59.0
+2024,2,Middle Tennessee Blue Raiders @ Ole Miss Rebels,34.4,22.6,11.8,57.0,-42.5,61.666666666666664,49.0,55.0
+2024,2,Marshall Thundering Herd @ Virginia Tech Hokies,26.9,22.6,4.3,49.6,-20.666666666666668,52.666666666666664,17.0,45.0
+2024,2,East Carolina Pirates @ Old Dominion Monarchs,24.5,23.1,1.3,47.6,-1.6666666666666667,53.833333333333336,-6.0,34.0
+2024,2,Central Michigan Chippewas @ Florida International Panthers,25.0,29.4,-4.4,54.4,4.166666666666667,51.666666666666664,36.0,68.0
+2024,2,South Alabama Jaguars @ Ohio Bobcats,26.9,25.7,1.2,52.5,0.8333333333333334,55.833333333333336,7.0,47.0
+2024,2,San José State Spartans @ Air Force Falcons,27.9,21.0,6.9,48.9,-3.1666666666666665,44.166666666666664,-10.0,24.0
+2024,2,Georgia Southern Eagles @ Nevada Wolf Pack,29.0,29.6,-0.5,58.6,-0.5,57.0,-3.0,37.0
+2024,2,Tulsa Golden Hurricane @ Arkansas State Red Wolves,30.7,28.7,1.9,59.4,-8.666666666666666,65.66666666666667,4.0,52.0
+2024,2,UAB Blazers @ UL Monroe Warhawks,25.6,29.8,-4.2,55.4,11.5,54.833333333333336,26.0,38.0
+2024,2,Louisiana Ragin' Cajuns @ Kennesaw State Owls,27.3,26.7,0.6,54.0,14.333333333333334,46.833333333333336,-24.0,44.0
+2024,2,Virginia Cavaliers @ Wake Forest Demon Deacons,31.9,23.9,8.0,55.8,0.5,55.666666666666664,-1.0,61.0
+2024,2,South Florida Bulls @ Alabama Crimson Tide,39.4,21.1,18.2,60.5,-31.666666666666668,64.66666666666667,26.0,58.0
+2024,2,Buffalo Bulls @ Missouri Tigers,31.5,20.2,11.3,51.6,-33.666666666666664,52.333333333333336,38.0,38.0
+2024,2,Kansas Jayhawks @ Illinois Fighting Illini,29.3,27.2,2.1,56.5,4.833333333333333,58.166666666666664,6.0,40.0
+2024,2,Sam Houston Bearkats @ UCF Knights,30.2,21.5,8.7,51.7,-21.5,54.333333333333336,31.0,59.0
+2024,2,Western Michigan Broncos @ Ohio State Buckeyes,37.2,16.9,20.3,54.2,-37.333333333333336,54.333333333333336,56.0,56.0
+2024,2,Colorado Buffaloes @ Nebraska Cornhuskers,30.9,20.3,10.6,51.2,-6.666666666666667,55.5,18.0,38.0
+2024,2,Tennessee Volunteers @ NC State Wolfpack,23.1,28.0,-4.9,51.1,10.666666666666666,60.166666666666664,-41.0,61.0
+2024,2,Houston Cougars @ Oklahoma Sooners,36.5,24.5,12.0,60.9,-27.666666666666668,49.333333333333336,4.0,28.0
+2024,2,App State Mountaineers @ Clemson Tigers,30.0,24.9,5.1,54.9,-15.666666666666666,52.833333333333336,46.0,86.0
+2024,2,Boise State Broncos @ Oregon Ducks,33.5,25.4,8.2,58.9,-18.833333333333332,60.833333333333336,3.0,71.0
+2024,2,Texas Tech Red Raiders @ Washington State Cougars,31.8,27.5,4.3,59.3,0.8333333333333334,65.33333333333333,21.0,53.0
+2024,2,Liberty Flames @ New Mexico State Aggies,26.4,28.9,-2.5,55.3,22.166666666666668,54.166666666666664,-6.0,54.0
+2024,2,Mississippi State Bulldogs @ Arizona State Sun Devils,25.2,25.5,-0.3,50.6,-6.166666666666667,58.333333333333336,7.0,53.0
+2024,2,Oregon State Beavers @ San Diego State Aztecs,23.2,26.1,-2.9,49.2,5.666666666666667,54.0,-21.0,21.0
+2024,2,Utah State Aggies @ USC Trojans,39.5,29.1,10.4,68.6,-29.5,63.166666666666664,48.0,48.0
+2024,3,Arizona State Sun Devils @ Texas State Bobcats,30.7,25.9,4.8,56.6,-1.1666666666666667,58.5,-3.0,59.0
+2024,3,UNLV Rebels @ Kansas Jayhawks,33.8,28.5,5.3,62.3,-9.0,57.333333333333336,-3.0,43.0
+2024,3,Arizona Wildcats @ Kansas State Wildcats,33.4,23.8,9.6,57.3,-7.833333333333333,60.166666666666664,24.0,38.0
+2024,3,North Texas Mean Green @ Texas Tech Red Raiders,34.8,29.7,5.1,64.5,-10.333333333333334,69.83333333333333,45.0,87.0
+2024,3,Cincinnati Bearcats @ Miami (OH) RedHawks,25.4,21.1,4.2,46.5,3.0,46.833333333333336,-11.0,43.0
+2024,3,Louisiana Tech Bulldogs @ NC State Wolfpack,32.7,21.3,11.4,53.9,-20.833333333333332,48.833333333333336,10.0,50.0
+2024,3,Memphis Tigers @ Florida State Seminoles,32.3,26.7,5.6,58.9,-6.833333333333333,53.666666666666664,-8.0,32.0
+2024,3,Central Michigan Chippewas @ Illinois Fighting Illini,30.8,21.7,9.2,52.5,-20.833333333333332,50.333333333333336,21.0,39.0
+2024,3,Arkansas State Red Wolves @ Michigan Wolverines,37.9,16.3,21.5,54.2,-22.0,46.833333333333336,10.0,46.0
+2024,3,LSU Tigers @ South Carolina Gamecocks,29.3,30.0,-0.6,59.3,6.666666666666667,49.0,-3.0,69.0
+2024,3,Oklahoma State Cowboys @ Tulsa Golden Hurricane,28.7,30.7,-2.0,59.5,18.333333333333332,62.833333333333336,-35.0,55.0
+2024,3,Alabama Crimson Tide @ Wisconsin Badgers,21.9,27.9,-5.9,49.8,15.166666666666666,48.5,-32.0,52.0
+2024,3,Boston College Eagles @ Missouri Tigers,30.5,20.2,10.3,50.7,-15.166666666666666,52.5,6.0,48.0
+2024,3,Massachusetts Minutemen @ Buffalo Bulls,31.0,21.9,9.0,52.9,-3.8333333333333335,45.5,31.0,37.0
+2024,3,Coastal Carolina Chanticleers @ Temple Owls,24.3,31.8,-7.5,56.2,17.333333333333332,51.833333333333336,-8.0,48.0
+2024,3,Nevada Wolf Pack @ Minnesota Golden Gophers,29.8,18.1,11.8,47.9,-16.833333333333332,44.0,27.0,27.0
+2024,3,Texas A&M Aggies @ Florida Gators,26.3,26.6,-0.4,52.9,3.6666666666666665,46.0,-13.0,53.0
+2024,3,West Virginia Mountaineers @ Pittsburgh Panthers,29.7,26.1,3.6,55.8,2.0,61.166666666666664,4.0,72.0
+2024,3,Notre Dame Fighting Irish @ Purdue Boilermakers,24.3,30.3,-6.0,54.6,8.666666666666666,46.666666666666664,-59.0,73.0
+2024,3,Oregon Ducks @ Oregon State Beavers,28.0,28.3,-0.3,56.4,17.666666666666668,49.833333333333336,-35.0,63.0
+2024,3,Tulane Green Wave @ Oklahoma Sooners,32.4,24.3,8.1,56.7,-13.333333333333334,49.166666666666664,15.0,53.0
+2024,3,Washington State Cougars @ Washington Huskies,29.3,25.0,4.2,54.3,-5.166666666666667,54.833333333333336,-5.0,43.0
+2024,3,Troy Trojans @ Iowa Hawkeyes,20.3,17.8,2.5,38.0,-23.333333333333332,39.166666666666664,17.0,59.0
+2024,3,App State Mountaineers @ East Carolina Pirates,27.9,26.6,1.2,54.5,1.1666666666666667,58.166666666666664,-2.0,40.0
+2024,3,UAB Blazers @ Arkansas Razorbacks,32.6,25.8,6.9,58.4,-23.666666666666668,60.333333333333336,10.0,64.0
+2024,3,Utah Utes @ Utah State Aggies,24.6,30.2,-5.7,54.8,20.666666666666668,44.333333333333336,-17.0,59.0
+2024,3,Ball State Cardinals @ Miami Hurricanes,31.1,20.8,10.4,51.9,-36.5,55.333333333333336,62.0,62.0
+2024,3,UConn Huskies @ Duke Blue Devils,31.4,18.3,13.1,49.7,-16.833333333333332,46.833333333333336,5.0,47.0
+2024,3,Virginia Tech Hokies @ Old Dominion Monarchs,24.2,25.0,-0.8,49.2,15.333333333333334,48.333333333333336,-20.0,54.0
+2024,3,UTEP Miners @ Liberty Flames,33.9,20.4,13.5,54.3,-23.666666666666668,57.5,18.0,38.0
+2024,3,Ole Miss Rebels @ Wake Forest Demon Deacons,27.8,31.0,-3.2,58.9,21.5,65.0,-34.0,46.0
+2024,3,Jacksonville State Gamecocks @ Eastern Michigan Eagles,26.8,26.0,0.9,52.8,1.0,52.166666666666664,3.0,71.0
+2024,3,Kennesaw State Owls @ San José State Spartans,29.6,22.0,7.7,51.6,-17.5,42.5,21.0,41.0
+2024,3,Western Kentucky Hilltoppers @ Middle Tennessee Blue Raiders,28.1,29.6,-1.5,57.7,8.5,53.833333333333336,-28.0,70.0
+2024,3,Hawai'i Rainbow Warriors @ Sam Houston Bearkats,28.9,21.5,7.4,50.4,-4.0,49.166666666666664,18.0,44.0
+2024,3,South Florida Bulls @ Southern Miss Golden Eagles,29.8,28.0,1.8,57.9,11.666666666666666,58.5,-25.0,73.0
+2024,3,Vanderbilt Commodores @ Georgia State Panthers,31.3,26.1,5.2,57.4,9.166666666666666,45.5,4.0,68.0
+2024,3,UTSA Roadrunners @ Texas Longhorns,34.2,22.6,11.5,56.8,-35.5,55.5,49.0,63.0
+2024,3,New Mexico Lobos @ Auburn Tigers,33.4,19.8,13.6,53.1,-25.833333333333332,59.333333333333336,26.0,64.0
+2024,3,Toledo Rockets @ Mississippi State Bulldogs,27.2,26.5,0.7,53.6,-11.333333333333334,57.833333333333336,-24.0,58.0
+2024,3,Indiana Hoosiers @ UCLA Bruins,32.0,21.5,10.5,53.6,3.1666666666666665,46.5,-29.0,55.0
+2024,3,Air Force Falcons @ Baylor Bears,23.9,23.8,0.1,47.7,-16.666666666666668,41.666666666666664,28.0,34.0
+2024,3,Colorado Buffaloes @ Colorado State Rams,29.2,25.0,4.2,54.2,7.5,58.833333333333336,-19.0,37.0
+2024,3,UCF Knights @ TCU Horned Frogs,31.4,28.3,3.1,59.6,-2.1666666666666665,60.833333333333336,-1.0,69.0
+2024,3,Georgia Bulldogs @ Kentucky Wildcats,20.4,30.4,-9.9,50.8,22.5,45.0,-1.0,25.0
+2024,3,Florida International Panthers @ Florida Atlantic Owls,30.0,20.3,9.7,50.3,-4.333333333333333,44.5,18.0,58.0
+2024,3,Kent State Golden Flashes @ Tennessee Volunteers,40.8,19.3,21.6,60.1,-48.833333333333336,62.166666666666664,71.0,71.0
+2024,3,Maryland Terrapins @ Virginia Cavaliers,25.5,29.3,-3.8,54.9,-1.1666666666666667,55.333333333333336,-14.0,40.0
+2024,3,Rice Owls @ Houston Cougars,31.7,24.6,7.1,56.4,-4.333333333333333,44.166666666666664,26.0,40.0
+2024,3,BYU Cougars @ Wyoming Cowboys,24.7,24.2,0.5,48.8,9.666666666666666,39.833333333333336,-20.0,48.0
+2024,3,New Mexico State Aggies @ Fresno State Bulldogs,30.2,21.5,8.7,51.7,-19.833333333333332,48.333333333333336,48.0,48.0
+2024,3,San Diego State Aztecs @ California Golden Bears,26.9,21.5,5.4,48.4,-18.666666666666668,48.833333333333336,21.0,41.0
+2024,4,South Alabama Jaguars @ App State Mountaineers,31.3,28.6,2.7,59.9,-7.666666666666667,62.5,-34.0,62.0
+2024,4,Stanford Cardinal @ Syracuse Orange,30.7,21.9,8.8,52.6,-8.833333333333334,56.666666666666664,-2.0,50.0
+2024,4,Illinois Fighting Illini @ Nebraska Cornhuskers,23.3,20.7,2.6,44.0,-8.833333333333334,42.0,-7.0,55.0
+2024,4,San José State Spartans @ Washington State Cougars,29.7,24.6,5.1,54.3,-13.0,55.5,2.0,106.0
+2024,4,Rice Owls @ Army Black Knights,29.8,21.4,8.4,51.3,-7.333333333333333,43.333333333333336,23.0,51.0
+2024,4,Marshall Thundering Herd @ Ohio State Buckeyes,34.5,16.5,18.0,51.1,-39.166666666666664,54.666666666666664,35.0,63.0
+2024,4,Tulane Green Wave @ Louisiana Ragin' Cajuns,27.7,24.9,2.7,52.6,1.5,53.333333333333336,-8.0,74.0
+2024,4,Kansas Jayhawks @ West Virginia Mountaineers,31.3,28.6,2.8,59.9,-1.3333333333333333,55.833333333333336,4.0,60.0
+2024,4,Houston Cougars @ Cincinnati Bearcats,28.3,24.4,3.8,52.7,-3.8333333333333335,47.666666666666664,34.0,34.0
+2024,4,James Madison Dukes @ North Carolina Tar Heels,28.9,27.9,1.0,56.8,-10.833333333333334,48.333333333333336,-20.0,120.0
+2024,4,Charlotte 49ers @ Indiana Hoosiers,32.3,21.3,11.0,53.6,-28.5,50.5,38.0,66.0
+2024,4,Florida Gators @ Mississippi State Bulldogs,28.4,25.7,2.7,54.1,6.666666666666667,58.0,-17.0,73.0
+2024,4,NC State Wolfpack @ Clemson Tigers,28.7,20.7,8.0,49.4,-17.833333333333332,44.166666666666664,24.0,94.0
+2024,4,Ohio Bobcats @ Kentucky Wildcats,26.3,20.2,6.1,46.5,-20.666666666666668,41.833333333333336,35.0,47.0
+2024,4,Ball State Cardinals @ Central Michigan Chippewas,27.9,24.6,3.3,52.5,-6.166666666666667,50.333333333333336,3.0,71.0
+2024,4,Arkansas State Red Wolves @ Iowa State Cyclones,30.3,20.1,10.2,50.4,-19.833333333333332,52.166666666666664,45.0,59.0
+2024,4,Utah State Aggies @ Temple Owls,27.8,29.8,-2.1,57.6,6.5,53.5,16.0,74.0
+2024,4,Virginia Cavaliers @ Coastal Carolina Chanticleers,32.0,23.6,8.4,55.6,3.5,52.166666666666664,-19.0,67.0
+2024,4,Southern Miss Golden Eagles @ Jacksonville State Gamecocks,31.3,23.3,8.0,54.6,-6.166666666666667,59.666666666666664,37.0,51.0
+2024,4,Miami (OH) RedHawks @ Notre Dame Fighting Irish,30.4,16.6,13.7,47.0,-27.333333333333332,43.833333333333336,25.0,31.0
+2024,4,Rutgers Scarlet Knights @ Virginia Tech Hokies,27.6,22.0,5.6,49.6,-3.25,44.75,-3.0,49.0
+2024,4,Arkansas Razorbacks @ Auburn Tigers,29.3,25.9,3.4,55.2,-2.5,53.666666666666664,-10.0,38.0
+2024,4,UCLA Bruins @ LSU Tigers,33.2,26.2,7.0,59.4,-21.5,56.5,17.0,51.0
+2024,4,Memphis Tigers @ Navy Midshipmen,24.9,28.2,-3.3,53.1,8.833333333333334,47.0,12.0,100.0
+2024,4,Kent State Golden Flashes @ Penn State Nittany Lions,39.2,15.4,23.8,54.7,-48.833333333333336,57.666666666666664,56.0,56.0
+2024,4,USC Trojans @ Michigan Wolverines,36.3,24.8,11.4,61.1,4.166666666666667,44.0,3.0,51.0
+2024,4,Buffalo Bulls @ Northern Illinois Huskies,28.8,22.1,6.7,50.8,-12.833333333333334,42.666666666666664,-3.0,43.0
+2024,4,Georgia Tech Yellow Jackets @ Louisville Cardinals,31.5,23.1,8.4,54.5,-8.833333333333334,55.833333333333336,12.0,50.0
+2024,4,Arizona State Sun Devils @ Texas Tech Red Raiders,31.9,24.6,7.3,56.5,-4.5,58.166666666666664,8.0,52.0
+2024,4,Duke Blue Devils @ Middle Tennessee Blue Raiders,24.2,27.6,-3.4,51.9,14.666666666666666,50.833333333333336,-28.0,62.0
+2024,4,Utah Utes @ Oklahoma State Cowboys,27.3,25.9,1.3,53.2,0.8333333333333334,53.5,-3.0,41.0
+2024,4,Vanderbilt Commodores @ Missouri Tigers,34.3,20.8,13.5,55.1,-18.0,52.166666666666664,3.0,57.0
+2024,4,TCU Horned Frogs @ SMU Mustangs,33.2,28.5,4.6,61.7,1.6666666666666667,58.666666666666664,24.0,108.0
+2024,4,UTEP Miners @ Colorado State Rams,25.6,22.4,3.2,48.1,-8.5,48.833333333333336,10.0,44.0
+2024,4,East Carolina Pirates @ Liberty Flames,29.7,22.4,7.3,52.1,-7.5,54.666666666666664,11.0,59.0
+2024,4,California Golden Bears @ Florida State Seminoles,30.8,21.4,9.4,52.1,-2.8333333333333335,44.333333333333336,5.0,23.0
+2024,4,Miami Hurricanes @ South Florida Bulls,28.9,32.5,-3.6,61.4,16.333333333333332,64.16666666666667,-35.0,65.0
+2024,4,Northwestern Wildcats @ Washington Huskies,31.4,18.7,12.8,50.1,-11.833333333333334,42.666666666666664,19.0,29.0
+2024,4,Florida Atlantic Owls @ UConn Huskies,24.1,25.2,-1.1,49.3,-0.5,45.666666666666664,34.0,62.0
+2024,4,Wyoming Cowboys @ North Texas Mean Green,31.2,26.4,4.8,57.7,-7.0,55.166666666666664,27.0,61.0
+2024,4,Tulsa Golden Hurricane @ Louisiana Tech Bulldogs,30.6,29.4,1.1,60.0,-2.3333333333333335,56.166666666666664,-3.0,43.0
+2024,4,New Mexico State Aggies @ Sam Houston Bearkats,26.5,22.1,4.5,48.6,-15.0,44.166666666666664,20.0,42.0
+2024,4,Toledo Rockets @ Western Kentucky Hilltoppers,30.3,29.0,1.3,59.3,2.3333333333333335,60.666666666666664,5.0,47.0
+2024,4,Tennessee Volunteers @ Oklahoma Sooners,32.3,30.7,1.6,63.1,6.0,56.833333333333336,-10.0,40.0
+2024,4,Bowling Green Falcons @ Texas A&M Aggies,31.3,20.1,11.1,51.4,-21.166666666666668,50.5,6.0,46.0
+2024,4,Iowa Hawkeyes @ Minnesota Golden Gophers,20.7,17.8,2.9,38.5,2.8333333333333335,34.666666666666664,-17.0,45.0
+2024,4,Akron Zips @ South Carolina Gamecocks,33.7,18.6,15.1,52.4,-24.5,41.333333333333336,43.0,57.0
+2024,4,Georgia Southern Eagles @ Ole Miss Rebels,37.3,23.4,13.9,60.8,-35.166666666666664,68.5,39.0,65.0
+2024,4,UL Monroe Warhawks @ Texas Longhorns,37.8,15.6,22.2,53.5,-43.0,53.833333333333336,48.0,54.0
+2024,4,Michigan State Spartans @ Boston College Eagles,25.7,22.6,3.1,48.3,-4.5,45.5,4.0,42.0
+2024,4,Baylor Bears @ Colorado Buffaloes,25.4,29.1,-3.7,54.5,-2.3333333333333335,52.833333333333336,7.0,69.0
+2024,4,Purdue Boilermakers @ Oregon State Beavers,31.6,23.3,8.3,54.9,-1.8333333333333333,50.333333333333336,17.0,59.0
+2024,4,Fresno State Bulldogs @ New Mexico Lobos,22.9,32.4,-9.5,55.3,12.333333333333334,61.166666666666664,-17.0,59.0
+2024,4,Kansas State Wildcats @ BYU Cougars,24.2,29.1,-4.9,53.2,7.333333333333333,49.166666666666664,29.0,47.0
+2024,5,Army Black Knights @ Temple Owls,21.6,27.9,-6.3,49.4,14.5,48.666666666666664,-28.0,56.0
+2024,5,Virginia Tech Hokies @ Miami Hurricanes,30.7,23.3,7.3,54.0,-17.666666666666668,55.5,4.0,72.0
+2024,5,Washington Huskies @ Rutgers Scarlet Knights,24.1,27.3,-3.2,51.5,-1.25,45.0,3.0,39.0
+2024,5,BYU Cougars @ Baylor Bears,27.6,25.2,2.4,52.8,-3.1666666666666665,46.666666666666664,-6.0,62.0
+2024,5,Maryland Terrapins @ Indiana Hoosiers,27.4,28.2,-0.8,55.6,-7.5,49.333333333333336,14.0,70.0
+2024,5,Nebraska Cornhuskers @ Purdue Boilermakers,26.1,24.5,1.6,50.6,10.166666666666666,47.0,-18.0,38.0
+2024,5,Minnesota Golden Gophers @ Michigan Wolverines,31.0,15.7,15.3,46.7,-10.5,34.5,3.0,51.0
+2024,5,Buffalo Bulls @ UConn Huskies,25.7,23.9,1.8,49.7,-5.833333333333333,44.5,44.0,50.0
+2024,5,Northern Illinois Huskies @ NC State Wolfpack,28.5,22.7,5.8,51.2,-7.166666666666667,46.333333333333336,7.0,41.0
+2024,5,Kentucky Wildcats @ Ole Miss Rebels,30.6,21.7,8.9,52.3,-15.0,51.5,-3.0,37.0
+2024,5,Navy Midshipmen @ UAB Blazers,27.6,25.0,2.5,52.6,4.833333333333333,56.5,-23.0,59.0
+2024,5,South Florida Bulls @ Tulane Green Wave,34.6,24.5,10.2,59.1,-4.5,60.5,35.0,55.0
+2024,5,Western Kentucky Hilltoppers @ Boston College Eagles,27.8,27.5,0.2,55.3,-7.5,48.166666666666664,1.0,41.0
+2024,5,Oklahoma State Cowboys @ Kansas State Wildcats,31.4,24.0,7.4,55.4,-5.833333333333333,58.166666666666664,22.0,62.0
+2024,5,Ball State Cardinals @ James Madison Dukes,33.5,19.1,14.4,52.7,-21.5,55.833333333333336,56.0,70.0
+2024,5,Texas State Bobcats @ Sam Houston Bearkats,25.3,25.7,-0.4,51.0,10.833333333333334,55.0,1.0,79.0
+2024,5,Western Michigan Broncos @ Marshall Thundering Herd,29.3,22.8,6.5,52.1,-3.5,53.166666666666664,7.0,47.0
+2024,5,Oklahoma Sooners @ Auburn Tigers,26.2,28.9,-2.8,55.1,-1.8333333333333333,43.166666666666664,-6.0,48.0
+2024,5,Louisville Cardinals @ Notre Dame Fighting Irish,30.6,22.0,8.6,52.6,-6.5,45.166666666666664,7.0,55.0
+2024,5,Arkansas Razorbacks @ Texas A&M Aggies,26.5,23.5,3.0,50.0,-6.833333333333333,50.5,4.0,38.0
+2024,5,Eastern Michigan Eagles @ Kent State Golden Flashes,25.5,28.6,-3.2,54.1,13.833333333333334,45.5,-19.0,85.0
+2024,5,Wisconsin Badgers @ USC Trojans,32.8,24.9,7.9,57.6,-13.666666666666666,50.0,17.0,59.0
+2024,5,Akron Zips @ Ohio Bobcats,31.3,18.6,12.8,49.9,-8.0,46.0,20.0,40.0
+2024,5,Georgia Southern Eagles @ Georgia State Panthers,31.8,28.3,3.5,60.0,-3.5,57.0,-17.0,59.0
+2024,5,San Diego State Aztecs @ Central Michigan Chippewas,26.2,24.2,2.0,50.5,-2.5,47.666666666666664,1.0,43.0
+2024,5,Fresno State Bulldogs @ UNLV Rebels,28.6,28.0,0.5,56.6,-2.5,50.333333333333336,45.0,73.0
+2024,5,TCU Horned Frogs @ Kansas Jayhawks,33.4,30.8,2.6,64.1,-1.5,58.833333333333336,-11.0,65.0
+2024,5,Louisiana Ragin' Cajuns @ Wake Forest Demon Deacons,29.0,27.7,1.3,56.6,-2.8333333333333335,59.333333333333336,-3.0,79.0
+2024,5,Massachusetts Minutemen @ Miami (OH) RedHawks,31.2,16.2,15.0,47.4,-15.166666666666666,44.166666666666664,3.0,43.0
+2024,5,UTSA Roadrunners @ East Carolina Pirates,26.2,25.5,0.7,51.7,-2.0,53.166666666666664,10.0,50.0
+2024,5,North Carolina Tar Heels @ Duke Blue Devils,31.3,27.1,4.2,58.5,1.3333333333333333,55.166666666666664,1.0,41.0
+2024,5,Mississippi State Bulldogs @ Texas Longhorns,35.7,19.0,16.8,54.7,-37.5,58.666666666666664,22.0,48.0
+2024,5,Colorado Buffaloes @ UCF Knights,35.6,22.2,13.4,57.7,-12.5,60.166666666666664,-27.0,69.0
+2024,5,Old Dominion Monarchs @ Bowling Green Falcons,27.9,22.8,5.1,50.7,-11.166666666666666,51.5,-3.0,57.0
+2024,5,Louisiana Tech Bulldogs @ Florida International Panthers,28.7,28.6,0.1,57.3,2.0,49.0,7.0,27.0
+2024,5,UL Monroe Warhawks @ Troy Trojans,30.7,17.3,13.4,48.0,-6.166666666666667,45.5,-4.0,22.0
+2024,5,Charlotte 49ers @ Rice Owls,31.5,23.2,8.3,54.7,-4.166666666666667,47.833333333333336,-1.0,41.0
+2024,5,Tulsa Golden Hurricane @ North Texas Mean Green,35.2,29.3,5.9,64.5,-7.166666666666667,65.5,32.0,72.0
+2024,5,Stanford Cardinal @ Clemson Tigers,35.4,19.3,16.1,54.7,-23.833333333333332,57.833333333333336,26.0,54.0
+2024,5,Iowa State Cyclones @ Houston Cougars,23.3,24.6,-1.2,47.9,16.333333333333332,42.833333333333336,-20.0,20.0
+2024,5,Georgia Bulldogs @ Alabama Crimson Tide,27.5,26.6,0.8,54.1,-1.1666666666666667,54.833333333333336,7.0,75.0
+2024,5,Ohio State Buckeyes @ Michigan State Spartans,19.6,31.4,-11.8,51.1,23.5,48.166666666666664,-31.0,45.0
+2024,5,Illinois Fighting Illini @ Penn State Nittany Lions,31.1,18.2,12.9,49.3,-19.333333333333332,48.333333333333336,14.0,28.0
+2024,5,Middle Tennessee Blue Raiders @ Memphis Tigers,36.9,23.7,13.2,60.6,-27.166666666666668,61.333333333333336,17.0,31.0
+2024,5,South Alabama Jaguars @ LSU Tigers,34.4,27.9,6.6,62.3,-20.833333333333332,64.5,32.0,52.0
+2024,5,Florida State Seminoles @ SMU Mustangs,29.9,26.4,3.5,56.4,-5.833333333333333,46.333333333333336,26.0,58.0
+2024,5,Cincinnati Bearcats @ Texas Tech Red Raiders,29.8,26.4,3.3,56.2,-3.1666666666666665,59.833333333333336,3.0,85.0
+2024,5,New Mexico Lobos @ New Mexico State Aggies,31.2,22.4,8.8,53.7,9.166666666666666,54.0,-10.0,90.0
+2024,5,Air Force Falcons @ Wyoming Cowboys,19.8,23.2,-3.4,43.0,4.166666666666667,33.333333333333336,12.0,50.0
+2024,5,Washington State Cougars @ Boise State Broncos,32.7,27.6,5.1,60.3,-6.5,65.83333333333333,21.0,69.0
+2024,5,Arizona Wildcats @ Utah Utes,30.3,22.2,8.1,52.5,-7.5,47.0,-13.0,33.0
+2024,5,Oregon Ducks @ UCLA Bruins,26.1,30.6,-4.5,56.7,23.5,53.666666666666664,-21.0,47.0
+2024,6,Texas State Bobcats @ Troy Trojans,30.4,23.5,6.9,53.9,14.5,55.833333333333336,-21.0,55.0
+2024,6,Sam Houston Bearkats @ UTEP Miners,23.4,24.9,-1.5,48.3,9.833333333333334,49.5,-20.0,62.0
+2024,6,Jacksonville State Gamecocks @ Kennesaw State Owls,24.7,27.2,-2.5,51.9,17.333333333333332,49.5,-39.0,87.0
+2024,6,Houston Cougars @ TCU Horned Frogs,33.2,24.6,8.6,57.8,-16.5,51.833333333333336,-11.0,49.0
+2024,6,Michigan State Spartans @ Oregon Ducks,34.8,18.8,16.0,53.6,-22.166666666666668,52.833333333333336,21.0,41.0
+2024,6,Syracuse Orange @ UNLV Rebels,31.3,24.6,6.6,55.9,-5.5,55.166666666666664,-3.0,85.0
+2024,6,Navy Midshipmen @ Air Force Falcons,25.1,19.6,5.5,44.7,9.833333333333334,37.166666666666664,-27.0,41.0
+2024,6,Wake Forest Demon Deacons @ NC State Wolfpack,29.8,24.3,5.5,54.0,-4.166666666666667,52.5,-4.0,64.0
+2024,6,Pittsburgh Panthers @ North Carolina Tar Heels,33.1,29.3,3.8,62.4,2.5,62.333333333333336,-10.0,58.0
+2024,6,Boston College Eagles @ Virginia Cavaliers,26.4,24.6,1.8,51.0,-1.8333333333333333,52.833333333333336,10.0,38.0
+2024,6,Massachusetts Minutemen @ Northern Illinois Huskies,33.1,20.1,13.1,53.2,-13.833333333333334,40.833333333333336,14.0,54.0
+2024,6,Purdue Boilermakers @ Wisconsin Badgers,28.7,22.0,6.7,50.7,-11.833333333333334,44.833333333333336,46.0,58.0
+2024,6,SMU Mustangs @ Louisville Cardinals,30.6,27.7,2.9,58.3,-6.666666666666667,55.166666666666664,-7.0,61.0
+2024,6,Army Black Knights @ Tulsa Golden Hurricane,24.6,27.9,-3.3,52.4,13.666666666666666,50.5,-42.0,56.0
+2024,6,Missouri Tigers @ Texas A&M Aggies,26.7,22.9,3.8,49.6,-2.6666666666666665,47.166666666666664,31.0,51.0
+2024,6,UCLA Bruins @ Penn State Nittany Lions,31.7,18.6,13.0,50.3,-29.666666666666668,47.666666666666664,16.0,38.0
+2024,6,Tulane Green Wave @ UAB Blazers,25.9,29.1,-3.3,55.0,19.333333333333332,51.833333333333336,-51.0,91.0
+2024,6,Western Michigan Broncos @ Ball State Cardinals,28.0,25.5,2.5,53.5,10.166666666666666,57.666666666666664,-3.0,87.0
+2024,6,App State Mountaineers @ Marshall Thundering Herd,28.0,26.5,1.5,54.6,-3.1666666666666665,56.5,15.0,89.0
+2024,6,Ole Miss Rebels @ South Carolina Gamecocks,26.8,28.9,-2.1,55.6,10.166666666666666,52.666666666666664,-24.0,30.0
+2024,6,East Carolina Pirates @ Charlotte 49ers,21.2,27.0,-5.8,48.2,9.166666666666666,47.5,31.0,79.0
+2024,6,Bowling Green Falcons @ Akron Zips,24.1,28.8,-4.8,52.9,16.666666666666668,48.5,-7.0,47.0
+2024,6,Indiana Hoosiers @ Northwestern Wildcats,25.2,24.9,0.3,50.1,12.5,39.833333333333336,-17.0,65.0
+2024,6,Miami (OH) RedHawks @ Toledo Rockets,27.5,19.7,7.9,47.2,-4.833333333333333,43.666666666666664,10.0,50.0
+2024,6,Auburn Tigers @ Georgia Bulldogs,34.3,16.9,17.3,51.2,-21.166666666666668,50.0,18.0,44.0
+2024,6,Virginia Tech Hokies @ Stanford Cardinal,24.5,28.9,-4.4,53.4,9.166666666666666,49.666666666666664,-24.0,38.0
+2024,6,Iowa Hawkeyes @ Ohio State Buckeyes,29.8,15.1,14.7,44.9,-17.166666666666668,45.833333333333336,28.0,42.0
+2024,6,Temple Owls @ UConn Huskies,30.8,21.9,8.9,52.7,-17.5,49.0,9.0,49.0
+2024,6,Rutgers Scarlet Knights @ Nebraska Cornhuskers,24.5,19.9,4.6,44.4,-6.25,40.0,7.0,21.0
+2024,6,West Virginia Mountaineers @ Oklahoma State Cowboys,31.4,26.6,4.7,58.0,-2.5,64.66666666666667,-24.0,52.0
+2024,6,Alabama Crimson Tide @ Vanderbilt Commodores,22.4,36.1,-13.7,58.5,23.0,53.5,5.0,75.0
+2024,6,Colorado State Rams @ Oregon State Beavers,32.4,18.0,14.4,50.4,-10.333333333333334,47.166666666666664,8.0,70.0
+2024,6,James Madison Dukes @ UL Monroe Warhawks,21.0,31.7,-10.7,52.7,16.5,48.0,2.0,40.0
+2024,6,Old Dominion Monarchs @ Coastal Carolina Chanticleers,30.2,23.1,7.1,53.3,-4.166666666666667,51.5,8.0,82.0
+2024,6,Louisiana Ragin' Cajuns @ Southern Miss Golden Eagles,24.7,30.3,-5.6,55.0,17.166666666666668,57.166666666666664,-10.0,36.0
+2024,6,Utah State Aggies @ Boise State Broncos,37.4,24.2,13.2,61.6,-27.833333333333332,66.5,32.0,92.0
+2024,6,Clemson Tigers @ Florida State Seminoles,26.8,25.4,1.4,52.2,16.5,46.833333333333336,-16.0,42.0
+2024,6,South Alabama Jaguars @ Arkansas State Red Wolves,26.6,30.9,-4.3,57.5,2.5,62.5,2.0,34.0
+2024,6,Nevada Wolf Pack @ San José State Spartans,31.9,20.7,11.2,52.5,-7.166666666666667,51.333333333333336,4.0,66.0
+2024,6,USC Trojans @ Minnesota Golden Gophers,28.6,29.4,-0.8,58.0,8.833333333333334,45.166666666666664,7.0,41.0
+2024,6,Tennessee Volunteers @ Arkansas Razorbacks,27.5,32.1,-4.6,59.7,14.166666666666666,57.333333333333336,5.0,33.0
+2024,6,Baylor Bears @ Iowa State Cyclones,27.9,20.2,7.8,48.1,-12.833333333333334,45.166666666666664,22.0,64.0
+2024,6,Michigan Wolverines @ Washington Huskies,24.5,27.5,-3.0,52.0,-1.5,39.5,10.0,44.0
+2024,6,UCF Knights @ Florida Gators,30.1,28.3,1.8,58.3,1.1666666666666667,61.5,11.0,37.0
+2024,6,Duke Blue Devils @ Georgia Tech Yellow Jackets,26.5,25.3,1.1,51.8,-10.0,52.166666666666664,10.0,38.0
+2024,6,Kansas Jayhawks @ Arizona State Sun Devils,28.0,28.5,-0.5,56.5,-2.5,49.5,4.0,66.0
+2024,6,Hawai'i Rainbow Warriors @ San Diego State Aztecs,27.2,19.8,7.4,47.0,-1.5,47.833333333333336,3.0,51.0
+2024,6,Miami Hurricanes @ California Golden Bears,26.4,28.1,-1.6,54.5,9.5,53.833333333333336,-1.0,77.0
+2024,6,Texas Tech Red Raiders @ Arizona Wildcats,31.8,28.1,3.7,59.8,-5.833333333333333,63.333333333333336,-6.0,50.0
+2024,7,Florida International Panthers @ Liberty Flames,36.4,20.1,16.3,56.5,-15.666666666666666,55.666666666666664,7.0,55.0
+2024,7,New Mexico State Aggies @ Jacksonville State Gamecocks,32.6,23.2,9.4,55.8,-21.166666666666668,58.666666666666664,41.0,67.0
+2024,7,Coastal Carolina Chanticleers @ James Madison Dukes,33.8,24.1,9.7,58.0,-6.833333333333333,58.833333333333336,32.0,46.0
+2024,7,UTEP Miners @ Western Kentucky Hilltoppers,33.6,20.4,13.2,54.0,-19.0,55.333333333333336,27.0,61.0
+2024,7,Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs,28.6,26.5,2.1,55.0,-4.833333333333333,47.666666666666664,27.0,69.0
+2024,7,Northwestern Wildcats @ Maryland Terrapins,30.1,19.6,10.5,49.7,-10.833333333333334,45.0,-27.0,47.0
+2024,7,UNLV Rebels @ Utah State Aggies,30.2,33.9,-3.7,64.1,18.666666666666668,67.0,-16.0,84.0
+2024,7,Utah Utes @ Arizona State Sun Devils,22.6,26.3,-3.6,48.9,5.666666666666667,46.333333333333336,8.0,46.0
+2024,7,Washington Huskies @ Iowa Hawkeyes,21.8,22.3,-0.5,44.0,-2.6666666666666665,41.5,24.0,56.0
+2024,7,Georgia Tech Yellow Jackets @ North Carolina Tar Heels,32.4,27.9,4.5,60.3,3.5,60.833333333333336,-7.0,75.0
+2024,7,Missouri Tigers @ Massachusetts Minutemen,20.9,32.6,-11.6,53.5,27.166666666666668,53.666666666666664,-42.0,48.0
+2024,7,Ball State Cardinals @ Kent State Golden Flashes,27.8,29.4,-1.6,57.2,3.1666666666666665,58.166666666666664,-2.0,72.0
+2024,7,South Carolina Gamecocks @ Alabama Crimson Tide,34.3,21.0,13.3,55.3,-20.666666666666668,49.833333333333336,2.0,52.0
+2024,7,Toledo Rockets @ Buffalo Bulls,23.1,29.0,-5.9,52.0,10.5,44.333333333333336,15.0,45.0
+2024,7,Wisconsin Badgers @ Rutgers Scarlet Knights,23.0,21.8,1.2,44.9,-1.25,43.5,-35.0,49.0
+2024,7,Clemson Tigers @ Wake Forest Demon Deacons,26.1,30.8,-4.7,56.9,21.166666666666668,63.166666666666664,-35.0,63.0
+2024,7,UAB Blazers @ Army Black Knights,32.0,21.5,10.5,53.5,-26.5,55.5,34.0,54.0
+2024,7,Miami (OH) RedHawks @ Eastern Michigan Eagles,23.2,22.1,1.0,45.3,2.8333333333333335,45.833333333333336,-24.0,52.0
+2024,7,Northern Illinois Huskies @ Bowling Green Falcons,27.4,25.2,2.1,52.6,-3.1666666666666665,46.5,-10.0,24.0
+2024,7,San José State Spartans @ Colorado State Rams,24.5,28.3,-3.8,52.8,-2.5,55.166666666666664,7.0,55.0
+2024,7,Old Dominion Monarchs @ Georgia State Panthers,28.1,25.2,2.9,53.3,-2.8333333333333335,53.333333333333336,-7.0,35.0
+2024,7,Akron Zips @ Western Michigan Broncos,32.3,22.4,9.9,54.6,-9.5,48.5,10.0,58.0
+2024,7,Memphis Tigers @ South Florida Bulls,29.3,34.9,-5.6,64.2,10.166666666666666,60.166666666666664,-18.0,24.0
+2024,7,Louisville Cardinals @ Virginia Cavaliers,23.9,28.9,-5.0,52.9,7.166666666666667,53.5,-4.0,44.0
+2024,7,Cincinnati Bearcats @ UCF Knights,29.5,25.4,4.1,54.9,-2.3333333333333335,57.833333333333336,-6.0,32.0
+2024,7,San Diego State Aztecs @ Wyoming Cowboys,23.3,20.7,2.6,43.9,-1.6666666666666667,42.5,-3.0,51.0
+2024,7,California Golden Bears @ Pittsburgh Panthers,30.7,24.7,6.0,55.4,-3.5,57.166666666666664,2.0,32.0
+2024,7,Texas Longhorns @ Oklahoma Sooners,24.9,29.9,-4.9,54.8,16.833333333333332,48.833333333333336,-31.0,37.0
+2024,7,Purdue Boilermakers @ Illinois Fighting Illini,30.1,21.7,8.4,51.8,-22.333333333333332,47.0,1.0,99.0
+2024,7,Stanford Cardinal @ Notre Dame Fighting Irish,37.1,15.9,21.2,53.0,-22.5,45.333333333333336,42.0,56.0
+2024,7,Penn State Nittany Lions @ USC Trojans,28.8,31.0,-2.2,59.7,3.6666666666666665,51.833333333333336,-3.0,63.0
+2024,7,Arizona Wildcats @ BYU Cougars,29.0,25.3,3.8,54.3,-2.6666666666666665,48.5,22.0,60.0
+2024,7,Ohio Bobcats @ Central Michigan Chippewas,25.8,26.3,-0.5,52.1,2.8333333333333335,50.166666666666664,-2.0,52.0
+2024,7,Mississippi State Bulldogs @ Georgia Bulldogs,36.1,16.8,19.2,52.9,-33.833333333333336,53.833333333333336,10.0,72.0
+2024,7,Southern Miss Golden Eagles @ UL Monroe Warhawks,26.8,22.4,4.4,49.2,-4.333333333333333,41.166666666666664,17.0,59.0
+2024,7,North Texas Mean Green @ Florida Atlantic Owls,30.3,29.6,0.7,60.0,5.5,58.5,-4.0,78.0
+2024,7,Arkansas State Red Wolves @ Texas State Bobcats,33.9,26.4,7.5,60.3,-13.5,66.16666666666667,32.0,50.0
+2024,7,Washington State Cougars @ Fresno State Bulldogs,30.5,27.2,3.3,57.7,3.5,60.333333333333336,-8.0,42.0
+2024,7,Air Force Falcons @ New Mexico Lobos,22.1,28.3,-6.2,50.4,-6.833333333333333,55.5,15.0,89.0
+2024,7,UTSA Roadrunners @ Rice Owls,26.7,30.3,-3.6,57.0,3.5,51.166666666666664,2.0,56.0
+2024,7,Florida Gators @ Tennessee Volunteers,35.0,23.4,11.6,58.5,-13.833333333333334,55.166666666666664,6.0,40.0
+2024,7,Ole Miss Rebels @ LSU Tigers,31.2,29.9,1.3,61.1,3.8333333333333335,64.5,3.0,55.0
+2024,7,Oregon State Beavers @ Nevada Wolf Pack,22.6,29.6,-7.0,52.2,2.8333333333333335,46.5,5.0,79.0
+2024,7,App State Mountaineers @ Louisiana Ragin' Cajuns,32.7,27.5,5.3,60.2,-10.166666666666666,64.0,10.0,58.0
+2024,7,Ohio State Buckeyes @ Oregon Ducks,28.5,29.4,-0.9,57.9,3.5,54.666666666666664,1.0,63.0
+2024,7,Vanderbilt Commodores @ Kentucky Wildcats,31.8,21.0,10.9,52.8,-12.666666666666666,44.166666666666664,-7.0,33.0
+2024,7,Iowa State Cyclones @ West Virginia Mountaineers,25.7,24.7,1.0,50.5,3.0,53.833333333333336,-12.0,44.0
+2024,7,Syracuse Orange @ NC State Wolfpack,28.3,23.3,5.0,51.6,1.1666666666666667,51.5,-7.0,41.0
+2024,7,Marshall Thundering Herd @ Georgia Southern Eagles,29.0,27.2,1.8,56.2,-0.5,58.0,1.0,47.0
+2024,7,Minnesota Golden Gophers @ UCLA Bruins,24.7,21.9,2.8,46.5,3.5,39.166666666666664,-4.0,38.0
+2024,7,Kansas State Wildcats @ Colorado Buffaloes,23.9,32.4,-8.6,56.3,3.5,55.0,-3.0,59.0
+2024,7,Boise State Broncos @ Hawai'i Rainbow Warriors,23.8,33.1,-9.3,56.8,20.833333333333332,60.166666666666664,-21.0,35.0
+2024,8,Troy Trojans @ South Alabama Jaguars,27.3,22.6,4.7,49.9,-9.5,52.666666666666664,16.0,34.0
+2024,8,Kennesaw State Owls @ Middle Tennessee Blue Raiders,29.2,23.9,5.3,53.1,-9.0,50.166666666666664,9.0,19.0
+2024,8,Louisiana Tech Bulldogs @ New Mexico State Aggies,29.0,25.8,3.3,54.8,12.5,48.666666666666664,3.0,63.0
+2024,8,Western Kentucky Hilltoppers @ Sam Houston Bearkats,27.5,28.1,-0.6,55.6,-1.3333333333333333,55.0,-17.0,45.0
+2024,8,Florida International Panthers @ UTEP Miners,27.6,23.2,4.4,50.9,6.833333333333333,47.166666666666664,9.0,51.0
+2024,8,Georgia State Panthers @ Marshall Thundering Herd,29.4,23.0,6.4,52.4,-9.166666666666666,51.166666666666664,15.0,55.0
+2024,8,Boston College Eagles @ Virginia Tech Hokies,28.3,21.3,7.0,49.6,-8.333333333333334,47.166666666666664,21.0,63.0
+2024,8,Florida State Seminoles @ Duke Blue Devils,24.6,23.4,1.3,48.0,-2.6666666666666665,42.5,7.0,39.0
+2024,8,Oregon Ducks @ Purdue Boilermakers,25.4,35.5,-10.1,60.9,29.666666666666668,60.833333333333336,-35.0,35.0
+2024,8,Oklahoma State Cowboys @ BYU Cougars,29.8,25.9,3.9,55.7,-8.166666666666666,52.833333333333336,3.0,73.0
+2024,8,Fresno State Bulldogs @ Nevada Wolf Pack,23.9,28.4,-4.5,52.3,2.8333333333333335,49.833333333333336,-3.0,45.0
+2024,8,Wisconsin Badgers @ Northwestern Wildcats,20.6,23.3,-2.8,43.9,9.5,42.5,-20.0,26.0
+2024,8,UCLA Bruins @ Rutgers Scarlet Knights,24.2,23.2,1.0,47.4,-4.25,42.5,-3.0,67.0
+2024,8,Wake Forest Demon Deacons @ UConn Huskies,28.0,27.6,0.3,55.6,2.5,55.833333333333336,-3.0,43.0
+2024,8,Auburn Tigers @ Missouri Tigers,28.6,21.5,7.1,50.1,-3.8333333333333335,49.5,4.0,38.0
+2024,8,Louisiana Ragin' Cajuns @ Coastal Carolina Chanticleers,29.6,28.5,1.1,58.1,6.333333333333333,56.833333333333336,-10.0,58.0
+2024,8,East Carolina Pirates @ Army Black Knights,27.8,18.9,8.8,46.7,-17.833333333333332,54.333333333333336,17.0,73.0
+2024,8,Arizona State Sun Devils @ Cincinnati Bearcats,29.4,22.3,7.2,51.7,-5.0,51.0,10.0,38.0
+2024,8,Nebraska Cornhuskers @ Indiana Hoosiers,25.9,23.5,2.5,49.4,-6.5,48.0,49.0,63.0
+2024,8,Virginia Cavaliers @ Clemson Tigers,33.9,19.4,14.5,53.3,-20.166666666666668,57.166666666666664,17.0,79.0
+2024,8,Miami Hurricanes @ Louisville Cardinals,30.1,26.2,4.0,56.3,4.333333333333333,61.0,-7.0,97.0
+2024,8,South Carolina Gamecocks @ Oklahoma Sooners,31.3,24.0,7.3,55.3,1.5,40.333333333333336,-26.0,44.0
+2024,8,Tulsa Golden Hurricane @ Temple Owls,28.3,28.5,-0.2,56.7,-3.0,51.333333333333336,10.0,30.0
+2024,8,Central Michigan Chippewas @ Eastern Michigan Eagles,29.6,25.1,4.6,54.7,-3.5,52.333333333333336,4.0,72.0
+2024,8,Western Michigan Broncos @ Buffalo Bulls,28.1,25.0,3.1,53.1,1.3333333333333333,49.166666666666664,-7.0,89.0
+2024,8,Kent State Golden Flashes @ Bowling Green Falcons,34.0,22.8,11.2,56.8,-23.833333333333332,54.5,21.0,33.0
+2024,8,Ohio Bobcats @ Miami (OH) RedHawks,23.9,19.3,4.6,43.2,-3.5,43.166666666666664,10.0,50.0
+2024,8,Texas State Bobcats @ Old Dominion Monarchs,28.0,28.2,-0.1,56.2,10.5,60.0,10.0,38.0
+2024,8,Hawai'i Rainbow Warriors @ Washington State Cougars,34.3,20.9,13.4,55.2,-18.666666666666668,55.166666666666664,32.0,52.0
+2024,8,Florida Atlantic Owls @ UTSA Roadrunners,31.1,22.7,8.4,53.9,-4.166666666666667,52.166666666666664,14.0,62.0
+2024,8,NC State Wolfpack @ California Golden Bears,26.6,23.6,3.0,50.2,-9.5,45.833333333333336,-1.0,47.0
+2024,8,Houston Cougars @ Kansas Jayhawks,30.7,25.0,5.7,55.7,-4.833333333333333,45.5,28.0,56.0
+2024,8,Alabama Crimson Tide @ Tennessee Volunteers,30.0,28.9,1.1,58.8,3.5,57.5,7.0,41.0
+2024,8,Rice Owls @ Tulane Green Wave,34.3,21.1,13.2,55.4,-21.833333333333332,53.0,14.0,34.0
+2024,8,Charlotte 49ers @ Navy Midshipmen,31.6,19.0,12.6,50.6,-16.5,57.5,34.0,68.0
+2024,8,Notre Dame Fighting Irish @ Georgia Tech Yellow Jackets,20.2,30.7,-10.5,51.0,14.166666666666666,49.666666666666664,-18.0,44.0
+2024,8,Michigan Wolverines @ Illinois Fighting Illini,21.0,28.2,-7.2,49.2,5.833333333333333,44.166666666666664,14.0,28.0
+2024,8,Toledo Rockets @ Northern Illinois Huskies,25.7,26.6,-0.9,52.3,-3.1666666666666665,42.666666666666664,-7.0,19.0
+2024,8,UAB Blazers @ South Florida Bulls,32.5,29.2,3.3,61.7,-14.166666666666666,55.833333333333336,10.0,60.0
+2024,8,USC Trojans @ Maryland Terrapins,31.2,31.7,-0.5,63.0,6.666666666666667,56.0,1.0,57.0
+2024,8,Colorado Buffaloes @ Arizona Wildcats,32.9,24.7,8.2,57.6,-2.5,57.166666666666664,-27.0,41.0
+2024,8,Baylor Bears @ Texas Tech Red Raiders,32.3,26.7,5.6,58.9,-4.5,55.833333333333336,-24.0,94.0
+2024,8,New Mexico Lobos @ Utah State Aggies,35.3,29.4,5.9,64.7,0.8333333333333334,78.16666666666667,-5.0,95.0
+2024,8,James Madison Dukes @ Georgia Southern Eagles,25.8,32.5,-6.7,58.3,9.333333333333334,58.166666666666664,14.0,42.0
+2024,8,Wyoming Cowboys @ San José State Spartans,29.4,21.3,8.1,50.7,-12.5,53.0,10.0,38.0
+2024,8,Texas A&M Aggies @ Mississippi State Bulldogs,23.8,27.3,-3.5,51.2,21.166666666666668,55.5,-10.0,58.0
+2024,8,LSU Tigers @ Arkansas Razorbacks,29.6,31.1,-1.6,60.7,2.8333333333333335,56.5,-24.0,44.0
+2024,8,Ball State Cardinals @ Vanderbilt Commodores,31.7,25.5,6.2,57.2,-27.5,57.166666666666664,10.0,38.0
+2024,8,Arkansas State Red Wolves @ Southern Miss Golden Eagles,27.2,26.2,1.0,53.4,7.0,56.666666666666664,-16.0,72.0
+2024,8,Iowa Hawkeyes @ Michigan State Spartans,18.7,21.3,-2.6,40.0,6.666666666666667,39.5,12.0,52.0
+2024,8,North Texas Mean Green @ Memphis Tigers,37.5,28.7,8.8,66.2,-10.5,67.5,8.0,96.0
+2024,8,Kansas State Wildcats @ West Virginia Mountaineers,26.7,28.8,-2.1,55.5,2.5,56.0,-27.0,63.0
+2024,8,UCF Knights @ Iowa State Cyclones,27.9,21.3,6.6,49.2,-13.166666666666666,49.5,3.0,73.0
+2024,8,Kentucky Wildcats @ Florida Gators,25.8,23.9,1.8,49.7,2.5,42.166666666666664,28.0,68.0
+2024,8,Georgia Bulldogs @ Texas Longhorns,28.3,26.3,2.0,54.6,-4.166666666666667,56.833333333333336,-15.0,45.0
+2024,8,SMU Mustangs @ Stanford Cardinal,23.7,34.9,-11.1,58.6,16.5,52.5,-30.0,50.0
+2024,8,Colorado State Rams @ Air Force Falcons,27.8,18.6,9.2,46.4,5.833333333333333,44.0,-8.0,34.0
+2024,8,UNLV Rebels @ Oregon State Beavers,32.4,27.5,4.8,59.9,6.5,61.333333333333336,-8.0,58.0
+2024,8,TCU Horned Frogs @ Utah Utes,30.3,25.4,4.9,55.7,-3.8333333333333335,51.666666666666664,-6.0,20.0
+2024,9,Sam Houston Bearkats @ Florida International Panthers,23.9,27.8,-3.9,51.6,5.333333333333333,47.0,-3.0,17.0
+2024,9,UTEP Miners @ Louisiana Tech Bulldogs,29.3,23.9,5.4,53.2,-6.5,48.833333333333336,4.0,24.0
+2024,9,Liberty Flames @ Kennesaw State Owls,22.5,30.7,-8.2,53.3,27.166666666666668,47.833333333333336,3.0,51.0
+2024,9,Middle Tennessee Blue Raiders @ Jacksonville State Gamecocks,34.1,22.4,11.7,56.5,-20.5,64.33333333333333,22.0,62.0
+2024,9,Georgia Southern Eagles @ Old Dominion Monarchs,28.4,26.0,2.4,54.4,0.8333333333333334,51.666666666666664,28.0,66.0
+2024,9,Syracuse Orange @ Pittsburgh Panthers,30.2,24.0,6.1,54.2,-4.833333333333333,62.5,28.0,54.0
+2024,9,Louisville Cardinals @ Boston College Eagles,24.0,27.9,-3.9,51.9,7.166666666666667,53.5,-4.0,58.0
+2024,9,Boise State Broncos @ UNLV Rebels,31.0,31.1,-0.2,62.1,3.8333333333333335,63.5,-5.0,53.0
+2024,9,Rutgers Scarlet Knights @ USC Trojans,34.3,24.1,10.2,58.5,-13.75,56.25,22.0,62.0
+2024,9,Buffalo Bulls @ Ohio Bobcats,28.0,21.1,6.9,49.1,-4.166666666666667,46.166666666666664,31.0,63.0
+2024,9,North Carolina Tar Heels @ Virginia Cavaliers,29.6,30.7,-1.1,60.3,-3.5,58.166666666666664,-27.0,55.0
+2024,9,Washington Huskies @ Indiana Hoosiers,28.2,29.1,-0.8,57.3,-5.5,53.833333333333336,14.0,48.0
+2024,9,Notre Dame Fighting Irish @ Navy Midshipmen,18.5,28.9,-10.4,47.4,13.333333333333334,51.0,-37.0,65.0
+2024,9,Charlotte 49ers @ Memphis Tigers,37.8,20.6,17.2,58.4,-16.833333333333332,56.0,5.0,61.0
+2024,9,Oklahoma Sooners @ Ole Miss Rebels,32.1,25.1,7.0,57.2,-19.333333333333332,50.166666666666664,12.0,40.0
+2024,9,Nebraska Cornhuskers @ Ohio State Buckeyes,33.3,15.1,18.2,48.4,-25.166666666666668,48.666666666666664,4.0,38.0
+2024,9,Tulane Green Wave @ North Texas Mean Green,30.7,32.9,-2.1,63.6,7.333333333333333,70.16666666666667,-8.0,82.0
+2024,9,Georgia Tech Yellow Jackets @ Virginia Tech Hokies,29.3,24.2,5.1,53.6,-11.166666666666666,52.166666666666664,15.0,27.0
+2024,9,Arkansas Razorbacks @ Mississippi State Bulldogs,27.8,27.0,0.7,54.8,7.5,54.833333333333336,-33.0,83.0
+2024,9,Georgia State Panthers @ App State Mountaineers,33.6,26.1,7.5,59.7,-7.5,59.166666666666664,7.0,59.0
+2024,9,Central Michigan Chippewas @ Miami (OH) RedHawks,28.9,20.3,8.6,49.2,-10.166666666666666,48.5,39.0,53.0
+2024,9,Temple Owls @ East Carolina Pirates,30.6,20.0,10.6,50.6,-8.166666666666666,48.5,22.0,90.0
+2024,9,Texas Tech Red Raiders @ TCU Horned Frogs,34.7,29.3,5.4,64.0,-4.833333333333333,66.0,1.0,69.0
+2024,9,Southern Miss Golden Eagles @ James Madison Dukes,35.6,17.3,18.3,52.9,-25.166666666666668,54.166666666666664,17.0,47.0
+2024,9,Eastern Michigan Eagles @ Akron Zips,24.4,28.2,-3.8,52.6,2.5,50.5,4.0,46.0
+2024,9,Northern Illinois Huskies @ Ball State Cardinals,24.5,25.9,-1.5,50.4,13.5,47.5,2.0,48.0
+2024,9,Bowling Green Falcons @ Toledo Rockets,30.5,21.1,9.4,51.6,-2.0,47.833333333333336,-15.0,67.0
+2024,9,Kent State Golden Flashes @ Western Michigan Broncos,35.5,25.0,10.4,60.5,-19.166666666666668,61.166666666666664,31.0,73.0
+2024,9,UTSA Roadrunners @ Tulsa Golden Hurricane,26.5,31.3,-4.7,57.8,9.5,52.666666666666664,1.0,91.0
+2024,9,Wake Forest Demon Deacons @ Stanford Cardinal,26.3,29.7,-3.4,56.0,2.8333333333333335,52.5,-3.0,51.0
+2024,9,Oklahoma State Cowboys @ Baylor Bears,30.2,28.2,2.1,58.4,-6.833333333333333,64.16666666666667,10.0,66.0
+2024,9,Rice Owls @ UConn Huskies,28.3,24.2,4.1,52.4,-6.5,46.5,7.0,27.0
+2024,9,Northwestern Wildcats @ Iowa Hawkeyes,24.3,14.7,9.6,38.9,-16.5,38.0,26.0,54.0
+2024,9,Maryland Terrapins @ Minnesota Golden Gophers,26.2,22.6,3.6,48.8,-5.833333333333333,44.833333333333336,25.0,71.0
+2024,9,Missouri Tigers @ Alabama Crimson Tide,32.3,22.2,10.1,54.5,-16.0,51.5,34.0,34.0
+2024,9,BYU Cougars @ UCF Knights,29.4,26.2,3.1,55.6,-2.5,53.5,-13.0,61.0
+2024,9,Illinois Fighting Illini @ Oregon Ducks,32.8,20.5,12.4,53.3,-22.333333333333332,54.166666666666664,29.0,47.0
+2024,9,Oregon State Beavers @ California Golden Bears,26.7,26.5,0.1,53.2,-12.5,50.5,37.0,51.0
+2024,9,Texas Longhorns @ Vanderbilt Commodores,21.9,34.2,-12.3,56.1,16.833333333333332,51.0,-3.0,51.0
+2024,9,New Mexico Lobos @ Colorado State Rams,31.4,25.5,5.9,57.0,-3.6666666666666665,61.666666666666664,11.0,23.0
+2024,9,UL Monroe Warhawks @ South Alabama Jaguars,32.0,19.8,12.2,51.7,-7.166666666666667,45.166666666666664,29.0,63.0
+2024,9,Troy Trojans @ Arkansas State Red Wolves,23.8,26.3,-2.5,50.1,-8.166666666666666,50.166666666666664,3.0,65.0
+2024,9,Utah Utes @ Houston Cougars,21.9,24.3,-2.4,46.2,4.666666666666667,36.0,3.0,31.0
+2024,9,West Virginia Mountaineers @ Arizona Wildcats,28.9,27.2,1.7,56.1,-5.5,51.5,-5.0,57.0
+2024,9,Utah State Aggies @ Wyoming Cowboys,30.8,25.9,4.9,56.7,2.0,56.666666666666664,-2.0,52.0
+2024,9,Florida State Seminoles @ Miami Hurricanes,29.8,25.4,4.4,55.2,-22.166666666666668,54.5,22.0,50.0
+2024,9,Penn State Nittany Lions @ Wisconsin Badgers,21.3,25.1,-3.9,46.4,6.333333333333333,46.666666666666664,-15.0,41.0
+2024,9,LSU Tigers @ Texas A&M Aggies,29.1,27.4,1.7,56.5,-1.8333333333333333,54.5,15.0,61.0
+2024,9,Michigan State Spartans @ Michigan Wolverines,31.7,15.3,16.4,46.9,-3.3333333333333335,39.166666666666664,7.0,41.0
+2024,9,Auburn Tigers @ Kentucky Wildcats,25.4,20.9,4.5,46.3,-1.8333333333333333,43.333333333333336,-14.0,34.0
+2024,9,Kansas Jayhawks @ Kansas State Wildcats,33.8,24.5,9.3,58.4,-9.833333333333334,56.0,2.0,56.0
+2024,9,SMU Mustangs @ Duke Blue Devils,26.7,28.3,-1.6,54.9,11.5,49.833333333333336,-1.0,55.0
+2024,9,San José State Spartans @ Fresno State Bulldogs,29.1,24.3,4.7,53.4,-6.5,55.166666666666664,23.0,43.0
+2024,9,Cincinnati Bearcats @ Colorado Buffaloes,26.3,28.1,-1.8,54.4,-6.166666666666667,56.833333333333336,11.0,57.0
+2024,9,Washington State Cougars @ San Diego State Aztecs,24.2,27.6,-3.4,51.8,17.166666666666668,56.666666666666664,-3.0,55.0
+2024,9,Nevada Wolf Pack @ Hawai'i Rainbow Warriors,26.0,25.0,1.0,50.9,-2.1666666666666665,41.833333333333336,21.0,47.0
+2024,10,New Mexico State Aggies @ Florida International Panthers,26.2,26.1,0.1,52.3,-7.166666666666667,43.5,21.0,47.0
+2024,10,Louisiana Ragin' Cajuns @ Texas State Bobcats,30.2,29.1,1.1,59.2,-3.8333333333333335,60.833333333333336,-6.0,40.0
+2024,10,Louisiana Tech Bulldogs @ Sam Houston Bearkats,29.5,22.2,7.3,51.7,-10.5,45.5,6.0,12.0
+2024,10,Jacksonville State Gamecocks @ Liberty Flames,31.8,28.3,3.6,60.1,-2.5,64.0,-10.0,52.0
+2024,10,Kennesaw State Owls @ Western Kentucky Hilltoppers,34.0,19.6,14.4,53.6,-23.666666666666668,49.166666666666664,17.0,45.0
+2024,10,Tulane Green Wave @ Charlotte 49ers,22.3,32.3,-10.0,54.6,14.5,55.0,-31.0,37.0
+2024,10,Georgia State Panthers @ UConn Huskies,27.8,24.3,3.5,52.1,-7.166666666666667,48.166666666666664,7.0,61.0
+2024,10,South Florida Bulls @ Florida Atlantic Owls,30.4,26.0,4.4,56.4,1.5,47.833333333333336,-23.0,65.0
+2024,10,San Diego State Aztecs @ Boise State Broncos,32.3,19.3,13.0,51.6,-24.5,56.166666666666664,32.0,80.0
+2024,10,Ohio State Buckeyes @ Penn State Nittany Lions,26.2,25.7,0.5,52.0,3.1666666666666665,47.5,-7.0,33.0
+2024,10,Duke Blue Devils @ Miami Hurricanes,30.8,23.8,7.0,54.5,-20.5,55.0,22.0,84.0
+2024,10,Memphis Tigers @ UTSA Roadrunners,30.9,30.3,0.6,61.2,7.166666666666667,61.666666666666664,8.0,80.0
+2024,10,Toledo Rockets @ Eastern Michigan Eagles,25.1,28.3,-3.2,53.4,10.166666666666666,54.5,-1.0,57.0
+2024,10,Buffalo Bulls @ Akron Zips,25.0,26.3,-1.4,51.3,0.8333333333333334,48.166666666666664,-11.0,71.0
+2024,10,Virginia Tech Hokies @ Syracuse Orange,25.2,26.0,-0.8,51.3,3.5,52.666666666666664,7.0,69.0
+2024,10,Stanford Cardinal @ NC State Wolfpack,31.5,19.5,12.0,51.0,-9.666666666666666,46.5,31.0,87.0
+2024,10,Ole Miss Rebels @ Arkansas Razorbacks,26.4,29.3,-2.9,55.7,8.0,54.166666666666664,-32.0,94.0
+2024,10,Air Force Falcons @ Army Black Knights,26.6,18.6,8.0,45.2,-18.166666666666668,38.333333333333336,17.0,23.0
+2024,10,Minnesota Golden Gophers @ Illinois Fighting Illini,23.9,21.7,2.2,45.6,2.6666666666666665,47.166666666666664,-8.0,42.0
+2024,10,Northwestern Wildcats @ Purdue Boilermakers,27.4,23.9,3.5,51.3,-3.0,44.333333333333336,-6.0,46.0
+2024,10,Vanderbilt Commodores @ Auburn Tigers,30.3,22.3,8.0,52.6,-7.833333333333333,47.833333333333336,-10.0,24.0
+2024,10,Tulsa Golden Hurricane @ UAB Blazers,32.2,27.5,4.7,59.8,-2.5,57.666666666666664,38.0,80.0
+2024,10,Old Dominion Monarchs @ App State Mountaineers,30.6,25.3,5.3,55.9,2.6666666666666665,58.166666666666664,8.0,48.0
+2024,10,UCLA Bruins @ Nebraska Cornhuskers,24.1,21.7,2.4,45.8,-7.833333333333333,38.833333333333336,-7.0,47.0
+2024,10,Oregon Ducks @ Michigan Wolverines,28.0,25.2,2.8,53.2,14.5,45.333333333333336,-21.0,55.0
+2024,10,Kansas State Wildcats @ Houston Cougars,22.6,28.5,-6.0,51.1,11.666666666666666,45.5,5.0,43.0
+2024,10,Indiana Hoosiers @ Michigan State Spartans,26.2,26.1,0.1,52.3,7.5,53.5,-37.0,57.0
+2024,10,Texas Tech Red Raiders @ Iowa State Cyclones,31.2,23.6,7.6,54.8,-13.833333333333334,55.5,-1.0,45.0
+2024,10,Middle Tennessee Blue Raiders @ UTEP Miners,26.1,24.0,2.0,50.1,-1.8333333333333333,48.333333333333336,-7.0,33.0
+2024,10,UL Monroe Warhawks @ Marshall Thundering Herd,29.5,20.1,9.4,49.6,-10.5,47.833333333333336,5.0,51.0
+2024,10,Florida Gators @ Georgia Bulldogs,32.3,19.9,12.4,52.2,-14.666666666666666,52.5,14.0,54.0
+2024,10,North Carolina Tar Heels @ Florida State Seminoles,31.0,26.2,4.8,57.3,2.5,50.5,-24.0,46.0
+2024,10,Arizona Wildcats @ UCF Knights,31.0,25.2,5.8,56.1,-6.166666666666667,54.833333333333336,44.0,68.0
+2024,10,Arizona State Sun Devils @ Oklahoma State Cowboys,31.1,24.1,7.0,55.2,4.833333333333333,57.0,-21.0,63.0
+2024,10,Wyoming Cowboys @ New Mexico Lobos,26.9,26.8,0.2,53.7,-7.666666666666667,60.5,-4.0,94.0
+2024,10,Navy Midshipmen @ Rice Owls,24.5,26.9,-2.4,51.5,12.833333333333334,49.0,14.0,34.0
+2024,10,Coastal Carolina Chanticleers @ Troy Trojans,28.3,23.5,4.7,51.8,4.0,51.666666666666664,14.0,62.0
+2024,10,Massachusetts Minutemen @ Mississippi State Bulldogs,34.1,21.1,13.0,55.2,-19.166666666666668,59.0,25.0,65.0
+2024,10,Hawai'i Rainbow Warriors @ Fresno State Bulldogs,31.9,18.6,13.3,50.5,-12.333333333333334,45.333333333333336,-1.0,41.0
+2024,10,USC Trojans @ Washington Huskies,32.5,29.8,2.7,62.3,2.1666666666666665,55.166666666666664,5.0,47.0
+2024,10,Georgia Southern Eagles @ South Alabama Jaguars,34.1,24.4,9.6,58.5,-5.5,59.833333333333336,-4.0,64.0
+2024,10,Wisconsin Badgers @ Iowa Hawkeyes,21.7,18.2,3.5,39.9,-2.5,40.333333333333336,32.0,52.0
+2024,10,Louisville Cardinals @ Clemson Tigers,31.4,24.7,6.6,56.1,-11.166666666666666,62.5,-12.0,54.0
+2024,10,Texas A&M Aggies @ South Carolina Gamecocks,25.1,24.7,0.4,49.8,3.1666666666666665,43.5,24.0,64.0
+2024,10,Kentucky Wildcats @ Tennessee Volunteers,31.1,19.7,11.4,50.8,-17.5,45.5,10.0,46.0
+2024,10,Pittsburgh Panthers @ SMU Mustangs,33.7,26.0,7.7,59.7,-7.166666666666667,55.166666666666664,23.0,73.0
+2024,10,TCU Horned Frogs @ Baylor Bears,31.1,29.7,1.4,60.8,-2.5,63.666666666666664,3.0,71.0
+2024,10,Colorado State Rams @ Nevada Wolf Pack,25.9,23.5,2.4,49.4,2.1666666666666665,45.333333333333336,-17.0,59.0
+2024,11,Bowling Green Falcons @ Central Michigan Chippewas,27.1,27.7,-0.6,54.8,15.333333333333334,48.333333333333336,-10.0,36.0
+2024,11,Miami (OH) RedHawks @ Ball State Cardinals,21.5,25.2,-3.7,46.7,12.833333333333334,48.166666666666664,-6.0,48.0
+2024,11,Ohio Bobcats @ Kent State Golden Flashes,23.4,31.0,-7.7,54.4,20.5,53.166666666666664,-41.0,41.0
+2024,11,Northern Illinois Huskies @ Western Michigan Broncos,27.7,26.3,1.4,54.1,2.1666666666666665,51.833333333333336,-14.0,70.0
+2024,11,App State Mountaineers @ Coastal Carolina Chanticleers,32.1,29.5,2.6,61.6,2.1666666666666665,62.666666666666664,14.0,62.0
+2024,11,Florida Atlantic Owls @ East Carolina Pirates,29.0,22.5,6.4,51.5,-6.833333333333333,58.5,35.0,63.0
+2024,11,California Golden Bears @ Wake Forest Demon Deacons,27.8,26.8,1.0,54.6,7.166666666666667,55.0,-10.0,82.0
+2024,11,Rice Owls @ Memphis Tigers,34.9,22.7,12.2,57.7,-7.166666666666667,50.5,7.0,47.0
+2024,11,Iowa Hawkeyes @ UCLA Bruins,22.6,21.8,0.9,44.4,6.5,45.0,3.0,37.0
+2024,11,New Mexico Lobos @ San Diego State Aztecs,31.5,23.9,7.6,55.4,-1.3333333333333333,65.16666666666667,-5.0,37.0
+2024,11,Minnesota Golden Gophers @ Rutgers Scarlet Knights,22.0,23.5,-1.6,45.5,6.5,44.5,7.0,45.0
+2024,11,Purdue Boilermakers @ Ohio State Buckeyes,39.1,17.1,22.0,56.2,-37.333333333333336,55.5,45.0,45.0
+2024,11,Syracuse Orange @ Boston College Eagles,26.8,24.4,2.4,51.2,-3.8333333333333335,51.833333333333336,6.0,68.0
+2024,11,Miami Hurricanes @ Georgia Tech Yellow Jackets,28.1,30.5,-2.4,58.6,9.5,64.83333333333333,5.0,51.0
+2024,11,Florida Gators @ Texas Longhorns,34.3,21.2,13.1,55.5,-23.166666666666668,48.666666666666664,32.0,66.0
+2024,11,West Virginia Mountaineers @ Cincinnati Bearcats,29.0,25.0,4.0,54.0,-5.333333333333333,54.5,-7.0,55.0
+2024,11,Navy Midshipmen @ South Florida Bulls,27.7,28.0,-0.3,55.7,4.5,58.666666666666664,-21.0,35.0
+2024,11,Texas State Bobcats @ UL Monroe Warhawks,26.3,28.9,-2.6,55.2,9.5,49.833333333333336,-21.0,55.0
+2024,11,Liberty Flames @ Middle Tennessee Blue Raiders,25.3,30.2,-4.9,55.4,12.666666666666666,54.833333333333336,-20.0,54.0
+2024,11,UConn Huskies @ UAB Blazers,29.6,25.8,3.8,55.4,7.5,53.833333333333336,-8.0,54.0
+2024,11,Marshall Thundering Herd @ Southern Miss Golden Eagles,23.4,27.4,-4.0,50.8,13.5,53.166666666666664,-34.0,40.0
+2024,11,Iowa State Cyclones @ Kansas Jayhawks,26.9,26.1,0.8,53.0,2.5,52.0,9.0,81.0
+2024,11,Michigan Wolverines @ Indiana Hoosiers,25.0,28.7,-3.7,53.7,-14.5,47.5,5.0,35.0
+2024,11,San José State Spartans @ Oregon State Beavers,30.3,24.7,5.7,55.0,-2.8333333333333335,57.833333333333336,-11.0,37.0
+2024,11,Georgia Bulldogs @ Ole Miss Rebels,27.2,28.6,-1.4,55.8,2.0,55.0,18.0,38.0
+2024,11,Army Black Knights @ North Texas Mean Green,29.5,31.1,-1.6,60.6,6.5,67.5,-11.0,17.0
+2024,11,Duke Blue Devils @ NC State Wolfpack,26.3,23.9,2.4,50.2,-3.1666666666666665,51.5,-10.0,48.0
+2024,11,Georgia State Panthers @ James Madison Dukes,34.6,20.1,14.4,54.7,-14.833333333333334,53.833333333333336,31.0,45.0
+2024,11,Clemson Tigers @ Virginia Tech Hokies,26.1,27.7,-1.6,53.8,5.833333333333333,54.5,-10.0,38.0
+2024,11,Colorado Buffaloes @ Texas Tech Red Raiders,34.3,27.0,7.3,61.3,4.666666666666667,62.166666666666664,-14.0,68.0
+2024,11,Kennesaw State Owls @ UTEP Miners,24.8,21.5,3.2,46.3,-4.5,42.333333333333336,8.0,78.0
+2024,11,Temple Owls @ Tulane Green Wave,36.2,17.4,18.8,53.7,-25.666666666666668,50.5,46.0,58.0
+2024,11,South Carolina Gamecocks @ Vanderbilt Commodores,25.4,28.5,-3.1,53.9,5.833333333333333,45.0,-21.0,35.0
+2024,11,Jacksonville State Gamecocks @ Louisiana Tech Bulldogs,25.7,31.2,-5.5,57.0,9.833333333333334,55.666666666666664,-7.0,81.0
+2024,11,Arkansas State Red Wolves @ Louisiana Ragin' Cajuns,33.8,22.9,10.9,56.6,-14.166666666666666,59.833333333333336,36.0,74.0
+2024,11,Western Kentucky Hilltoppers @ New Mexico State Aggies,25.2,31.5,-6.3,56.7,18.0,53.5,-13.0,69.0
+2024,11,UCF Knights @ Arizona State Sun Devils,27.2,27.5,-0.4,54.7,-2.5,55.666666666666664,4.0,66.0
+2024,11,Mississippi State Bulldogs @ Tennessee Volunteers,35.9,21.2,14.7,57.1,-26.333333333333332,61.5,19.0,47.0
+2024,11,Oklahoma State Cowboys @ TCU Horned Frogs,33.8,28.1,5.7,62.0,-10.5,68.83333333333333,25.0,51.0
+2024,11,Maryland Terrapins @ Oregon Ducks,36.3,21.6,14.7,57.8,-24.0,57.833333333333336,21.0,57.0
+2024,11,Alabama Crimson Tide @ LSU Tigers,29.6,30.9,-1.3,60.5,2.6666666666666665,58.5,-29.0,55.0
+2024,11,Florida State Seminoles @ Notre Dame Fighting Irish,31.6,18.6,13.0,50.2,-25.5,44.166666666666664,49.0,55.0
+2024,11,Oklahoma Sooners @ Missouri Tigers,28.0,26.0,2.0,54.0,3.5,42.0,7.0,53.0
+2024,11,Virginia Cavaliers @ Pittsburgh Panthers,32.4,22.8,9.7,55.2,-7.333333333333333,57.333333333333336,-5.0,43.0
+2024,11,Nevada Wolf Pack @ Boise State Broncos,37.0,20.0,17.0,56.9,-23.5,61.166666666666664,7.0,49.0
+2024,11,Washington Huskies @ Penn State Nittany Lions,29.9,20.7,9.2,50.6,-13.5,48.0,29.0,41.0
+2024,11,UNLV Rebels @ Hawai'i Rainbow Warriors,25.2,31.0,-5.8,56.2,12.666666666666666,50.833333333333336,-2.0,56.0
+2024,11,Fresno State Bulldogs @ Air Force Falcons,23.1,22.4,0.7,45.6,9.666666666666666,40.5,8.0,64.0
+2024,11,BYU Cougars @ Utah Utes,26.4,22.0,4.4,48.4,3.1666666666666665,40.5,-1.0,43.0
+2024,11,Utah State Aggies @ Washington State Cougars,38.4,26.0,12.5,64.4,-20.333333333333332,68.33333333333333,21.0,77.0
+2024,12,Ball State Cardinals @ Buffalo Bulls,28.6,24.6,4.0,53.2,-3.3333333333333335,55.166666666666664,3.0,99.0
+2024,12,Western Michigan Broncos @ Bowling Green Falcons,31.0,25.3,5.7,56.3,-9.5,57.166666666666664,18.0,44.0
+2024,12,Central Michigan Chippewas @ Toledo Rockets,33.9,21.7,12.2,55.6,-14.833333333333334,52.0,27.0,47.0
+2024,12,Kent State Golden Flashes @ Miami (OH) RedHawks,33.8,16.3,17.5,50.1,-30.666666666666668,46.833333333333336,27.0,41.0
+2024,12,Akron Zips @ Northern Illinois Huskies,31.6,18.5,13.2,50.1,-14.166666666666666,43.5,13.0,45.0
+2024,12,Eastern Michigan Eagles @ Ohio Bobcats,29.0,21.2,7.8,50.2,-10.5,51.5,25.0,45.0
+2024,12,East Carolina Pirates @ Tulsa Golden Hurricane,26.7,30.0,-3.3,56.7,16.333333333333332,63.666666666666664,-7.0,69.0
+2024,12,Wyoming Cowboys @ Colorado State Rams,25.4,22.0,3.4,47.4,-8.333333333333334,47.0,14.0,34.0
+2024,12,North Texas Mean Green @ UTSA Roadrunners,36.5,30.3,6.2,66.8,-1.3333333333333333,72.33333333333333,21.0,75.0
+2024,12,UCLA Bruins @ Washington Huskies,28.9,22.7,6.2,51.6,-5.0,47.166666666666664,12.0,50.0
+2024,12,Houston Cougars @ Arizona Wildcats,27.3,24.5,2.8,51.7,-1.1666666666666667,46.333333333333336,24.0,30.0
+2024,12,Liberty Flames @ Massachusetts Minutemen,22.6,33.6,-11.0,56.3,16.0,52.5,-1.0,69.0
+2024,12,Tulane Green Wave @ Navy Midshipmen,24.3,26.3,-2.0,50.6,7.333333333333333,49.166666666666664,-35.0,35.0
+2024,12,Louisiana Tech Bulldogs @ Western Kentucky Hilltoppers,35.1,22.5,12.6,57.7,-11.833333333333334,52.5,-5.0,19.0
+2024,12,Clemson Tigers @ Pittsburgh Panthers,26.6,29.1,-2.4,55.7,12.0,51.833333333333336,-4.0,44.0
+2024,12,Texas Longhorns @ Arkansas Razorbacks,24.7,32.2,-7.5,56.9,12.833333333333334,57.166666666666664,-10.0,30.0
+2024,12,Ohio State Buckeyes @ Northwestern Wildcats,16.3,31.5,-15.2,47.8,28.666666666666668,44.166666666666664,-24.0,38.0
+2024,12,Utah Utes @ Colorado Buffaloes,24.2,26.2,-2.0,50.4,-13.5,43.333333333333336,25.0,73.0
+2024,12,UL Monroe Warhawks @ Auburn Tigers,29.6,17.9,11.7,47.5,-24.833333333333332,45.833333333333336,34.0,62.0
+2024,12,Coastal Carolina Chanticleers @ Marshall Thundering Herd,29.4,25.3,4.0,54.7,-7.5,56.833333333333336,12.0,50.0
+2024,12,Florida Atlantic Owls @ Temple Owls,26.1,27.4,-1.4,53.5,-2.1666666666666665,50.333333333333336,3.0,33.0
+2024,12,Florida International Panthers @ Jacksonville State Gamecocks,35.9,20.8,15.1,56.7,-12.5,58.5,3.0,65.0
+2024,12,Michigan State Spartans @ Illinois Fighting Illini,26.9,19.6,7.2,46.5,-1.8333333333333333,47.666666666666664,22.0,54.0
+2024,12,Hawai'i Rainbow Warriors @ Utah State Aggies,31.6,27.4,4.1,59.0,2.5,61.833333333333336,45.0,65.0
+2024,12,Syracuse Orange @ California Golden Bears,29.6,23.8,5.8,53.5,-10.333333333333334,57.5,-8.0,58.0
+2024,12,Sam Houston Bearkats @ Kennesaw State Owls,22.2,24.8,-2.7,47.0,20.833333333333332,43.166666666666664,-6.0,40.0
+2024,12,Louisville Cardinals @ Stanford Cardinal,22.0,33.1,-11.0,55.1,20.833333333333332,57.833333333333336,3.0,73.0
+2024,12,LSU Tigers @ Florida Gators,29.8,31.3,-1.5,61.1,2.8333333333333335,56.333333333333336,11.0,43.0
+2024,12,Boston College Eagles @ SMU Mustangs,35.1,22.0,13.0,57.1,-19.166666666666668,54.0,10.0,66.0
+2024,12,Virginia Cavaliers @ Notre Dame Fighting Irish,36.4,16.7,19.7,53.1,-21.166666666666668,51.166666666666664,21.0,49.0
+2024,12,South Florida Bulls @ Charlotte 49ers,28.0,29.4,-1.4,57.4,-1.5,53.5,-35.0,83.0
+2024,12,Penn State Nittany Lions @ Purdue Boilermakers,20.0,32.9,-12.9,52.9,30.166666666666668,51.5,-39.0,59.0
+2024,12,Oregon State Beavers @ Air Force Falcons,24.9,23.5,1.3,48.4,2.6666666666666665,44.5,28.0,28.0
+2024,12,James Madison Dukes @ Old Dominion Monarchs,22.3,27.9,-5.6,50.1,1.8333333333333333,50.666666666666664,-3.0,67.0
+2024,12,Troy Trojans @ Georgia Southern Eagles,26.9,26.5,0.4,53.4,-7.166666666666667,53.666666666666664,-8.0,48.0
+2024,12,Baylor Bears @ West Virginia Mountaineers,31.1,27.0,4.1,58.1,2.0,59.166666666666664,-14.0,84.0
+2024,12,Nebraska Cornhuskers @ USC Trojans,32.1,22.9,9.2,55.1,-6.5,50.666666666666664,8.0,48.0
+2024,12,Missouri Tigers @ South Carolina Gamecocks,27.3,22.9,4.4,50.1,-10.5,42.666666666666664,4.0,64.0
+2024,12,Arkansas State Red Wolves @ Georgia State Panthers,30.9,26.7,4.2,57.6,-2.6666666666666665,59.333333333333336,-7.0,47.0
+2024,12,Rutgers Scarlet Knights @ Maryland Terrapins,29.0,23.0,5.9,52.0,-4.5,54.5,-14.0,48.0
+2024,12,Boise State Broncos @ San José State Spartans,27.2,29.8,-2.6,57.0,14.333333333333334,62.0,-21.0,63.0
+2024,12,Arizona State Sun Devils @ Kansas State Wildcats,32.3,20.4,11.9,52.8,-7.5,51.5,-10.0,38.0
+2024,12,South Alabama Jaguars @ Louisiana Ragin' Cajuns,29.8,26.1,3.8,55.9,-6.5,60.166666666666664,-2.0,46.0
+2024,12,Southern Miss Golden Eagles @ Texas State Bobcats,34.4,21.5,12.9,56.0,-27.5,56.166666666666664,55.0,61.0
+2024,12,Oregon Ducks @ Wisconsin Badgers,22.5,29.0,-6.5,51.5,13.5,49.833333333333336,-3.0,29.0
+2024,12,Tennessee Volunteers @ Georgia Bulldogs,31.5,23.5,8.0,55.0,-8.5,46.833333333333336,14.0,48.0
+2024,12,New Mexico State Aggies @ Texas A&M Aggies,34.1,17.8,16.2,51.9,-38.833333333333336,54.333333333333336,35.0,41.0
+2024,12,Wake Forest Demon Deacons @ North Carolina Tar Heels,35.8,27.4,8.5,63.2,-10.333333333333334,64.33333333333333,7.0,55.0
+2024,12,Cincinnati Bearcats @ Iowa State Cyclones,27.3,20.8,6.5,48.1,-7.166666666666667,52.5,17.0,51.0
+2024,12,UAB Blazers @ Memphis Tigers,36.9,25.4,11.5,62.3,-16.666666666666668,61.833333333333336,35.0,71.0
+2024,12,Washington State Cougars @ New Mexico Lobos,27.5,35.3,-7.8,62.8,10.833333333333334,72.0,3.0,73.0
+2024,12,Kansas Jayhawks @ BYU Cougars,31.4,27.6,3.8,59.0,-2.5,55.833333333333336,-4.0,30.0
+2024,12,San Diego State Aztecs @ UNLV Rebels,31.9,21.9,10.0,53.8,-21.0,55.0,21.0,61.0
+2024,13,Akron Zips @ Kent State Golden Flashes,28.4,27.2,1.2,55.7,10.5,48.833333333333336,-21.0,55.0
+2024,13,Western Michigan Broncos @ Central Michigan Chippewas,30.1,29.0,1.1,59.1,5.833333333333333,55.5,2.0,30.0
+2024,13,Northern Illinois Huskies @ Miami (OH) RedHawks,24.8,18.8,6.0,43.5,-1.8333333333333333,42.833333333333336,11.0,29.0
+2024,13,Buffalo Bulls @ Eastern Michigan Eagles,29.3,25.1,4.2,54.4,-1.1666666666666667,52.666666666666664,-17.0,57.0
+2024,13,Ohio Bobcats @ Toledo Rockets,27.8,22.3,5.6,50.1,-0.8333333333333334,45.833333333333336,-17.0,31.0
+2024,13,NC State Wolfpack @ Georgia Tech Yellow Jackets,27.8,24.2,3.6,52.1,-7.833333333333333,51.0,1.0,59.0
+2024,13,Temple Owls @ UTSA Roadrunners,36.7,21.1,15.7,57.8,-16.833333333333332,55.833333333333336,24.0,78.0
+2024,13,Purdue Boilermakers @ Michigan State Spartans,29.3,23.5,5.8,52.8,-14.166666666666666,49.166666666666664,7.0,41.0
+2024,13,UNLV Rebels @ San José State Spartans,29.7,29.0,0.7,58.7,7.5,59.666666666666664,-11.0,43.0
+2024,13,Sam Houston Bearkats @ Jacksonville State Gamecocks,30.8,22.8,8.0,53.6,-5.333333333333333,57.333333333333336,10.0,32.0
+2024,13,UConn Huskies @ Syracuse Orange,29.3,22.4,6.9,51.7,-9.833333333333334,53.666666666666664,7.0,55.0
+2024,13,Iowa Hawkeyes @ Maryland Terrapins,23.3,23.7,-0.4,47.0,4.166666666666667,40.666666666666664,-16.0,42.0
+2024,13,Illinois Fighting Illini @ Rutgers Scarlet Knights,24.2,23.2,1.0,47.4,-2.25,47.75,-7.0,69.0
+2024,13,SMU Mustangs @ Virginia Cavaliers,25.4,32.8,-7.3,58.2,10.833333333333334,54.166666666666664,-26.0,40.0
+2024,13,Ole Miss Rebels @ Florida Gators,25.8,30.8,-5.0,56.6,13.0,56.833333333333336,7.0,41.0
+2024,13,North Carolina Tar Heels @ Boston College Eagles,28.3,29.8,-1.5,58.1,2.1666666666666665,50.666666666666664,20.0,62.0
+2024,13,Wake Forest Demon Deacons @ Miami Hurricanes,36.5,25.2,11.3,61.6,-23.5,66.66666666666667,28.0,56.0
+2024,13,Indiana Hoosiers @ Ohio State Buckeyes,35.4,19.9,15.4,55.3,-10.5,52.166666666666664,23.0,53.0
+2024,13,Massachusetts Minutemen @ Georgia Bulldogs,41.7,12.4,29.3,54.1,-42.333333333333336,55.5,38.0,80.0
+2024,13,UTEP Miners @ Tennessee Volunteers,36.6,15.6,21.0,52.2,-41.5,53.833333333333336,56.0,56.0
+2024,13,Western Kentucky Hilltoppers @ Liberty Flames,30.8,27.7,3.0,58.5,-1.1666666666666667,55.833333333333336,17.0,59.0
+2024,13,Rice Owls @ UAB Blazers,29.9,27.0,2.9,57.0,6.833333333333333,52.25,26.0,54.0
+2024,13,Bowling Green Falcons @ Ball State Cardinals,25.8,27.1,-1.3,52.9,12.5,54.5,-25.0,51.0
+2024,13,James Madison Dukes @ App State Mountaineers,27.1,30.9,-3.8,58.0,7.0,57.166666666666664,14.0,54.0
+2024,13,New Mexico State Aggies @ Middle Tennessee Blue Raiders,28.4,24.3,4.2,52.7,-3.3333333333333335,53.5,-15.0,57.0
+2024,13,Charlotte 49ers @ Florida Atlantic Owls,30.6,22.5,8.1,53.1,3.1666666666666665,49.5,-12.0,66.0
+2024,13,South Alabama Jaguars @ Southern Miss Golden Eagles,21.9,31.5,-9.6,53.4,24.166666666666668,54.166666666666664,-21.0,49.0
+2024,13,UL Monroe Warhawks @ Arkansas State Red Wolves,30.2,24.4,5.7,54.6,-2.8333333333333335,51.5,7.0,49.0
+2024,13,Florida International Panthers @ Kennesaw State Owls,26.9,23.5,3.4,50.4,8.833333333333334,42.0,1.0,53.0
+2024,13,Arizona Wildcats @ TCU Horned Frogs,33.3,25.3,8.0,58.6,-10.666666666666666,60.166666666666664,21.0,77.0
+2024,13,Northwestern Wildcats @ Michigan Wolverines,30.9,13.7,17.2,44.6,-10.5,35.0,44.0,56.0
+2024,13,Texas Tech Red Raiders @ Oklahoma State Cowboys,32.3,29.6,2.7,61.9,4.833333333333333,63.5,-8.0,104.0
+2024,13,Kentucky Wildcats @ Texas Longhorns,31.2,17.4,13.8,48.6,-18.666666666666668,46.833333333333336,17.0,45.0
+2024,13,Penn State Nittany Lions @ Minnesota Golden Gophers,20.0,26.0,-6.0,46.0,11.166666666666666,45.166666666666664,-1.0,51.0
+2024,13,UCF Knights @ West Virginia Mountaineers,30.4,28.6,1.9,59.0,3.1666666666666665,60.333333333333336,10.0,52.0
+2024,13,San Diego State Aztecs @ Utah State Aggies,30.2,26.8,3.4,57.0,-4.833333333333333,59.833333333333336,21.0,61.0
+2024,13,Georgia Southern Eagles @ Coastal Carolina Chanticleers,33.0,27.9,5.1,60.8,-1.8333333333333333,59.333333333333336,-20.0,32.0
+2024,13,East Carolina Pirates @ North Texas Mean Green,32.7,30.2,2.5,62.9,-2.5,73.83333333333333,-12.0,68.0
+2024,13,Colorado Buffaloes @ Kansas Jayhawks,34.2,27.0,7.2,61.2,1.8333333333333333,59.333333333333336,16.0,58.0
+2024,13,Tulsa Golden Hurricane @ South Florida Bulls,34.9,27.3,7.6,62.2,-16.0,60.166666666666664,33.0,93.0
+2024,13,BYU Cougars @ Arizona State Sun Devils,26.1,25.6,0.5,51.7,-3.5,48.666666666666664,5.0,51.0
+2024,13,Wisconsin Badgers @ Nebraska Cornhuskers,21.2,20.3,0.9,41.5,-1.3333333333333333,40.5,19.0,69.0
+2024,13,Stanford Cardinal @ California Golden Bears,33.4,21.0,12.4,54.5,-15.0,53.166666666666664,3.0,45.0
+2024,13,Louisiana Tech Bulldogs @ Arkansas Razorbacks,32.8,22.1,10.7,54.9,-23.5,48.5,21.0,49.0
+2024,13,Pittsburgh Panthers @ Louisville Cardinals,31.4,24.5,6.9,55.9,-7.333333333333333,57.333333333333336,28.0,46.0
+2024,13,Missouri Tigers @ Mississippi State Bulldogs,25.6,28.0,-2.4,53.6,9.5,57.666666666666664,-19.0,59.0
+2024,13,Troy Trojans @ Louisiana Ragin' Cajuns,27.8,22.2,5.5,50.0,-7.5,51.5,21.0,81.0
+2024,13,Army Black Knights @ Notre Dame Fighting Irish,27.0,18.1,8.9,45.2,-14.5,44.5,35.0,63.0
+2024,13,Boise State Broncos @ Wyoming Cowboys,22.9,31.0,-8.1,53.9,23.166666666666668,54.166666666666664,-4.0,30.0
+2024,13,Washington State Cougars @ Oregon State Beavers,29.3,28.3,1.0,57.6,10.833333333333334,56.333333333333336,3.0,79.0
+2024,13,Baylor Bears @ Houston Cougars,26.8,26.6,0.3,53.4,6.833333333333333,50.833333333333336,-10.0,30.0
+2024,13,Georgia State Panthers @ Texas State Bobcats,33.9,24.0,9.9,58.0,-22.833333333333332,59.5,-8.0,96.0
+2024,13,Iowa State Cyclones @ Utah Utes,23.1,21.7,1.4,44.8,5.5,42.5,-3.0,59.0
+2024,13,Texas A&M Aggies @ Auburn Tigers,23.2,24.5,-1.3,47.6,2.5,47.166666666666664,2.0,84.0
+2024,13,Alabama Crimson Tide @ Oklahoma Sooners,26.7,30.9,-4.2,57.5,14.0,46.666666666666664,21.0,27.0
+2024,13,Marshall Thundering Herd @ Old Dominion Monarchs,25.1,23.8,1.3,48.9,-2.8333333333333335,51.333333333333336,-7.0,77.0
+2024,13,Vanderbilt Commodores @ LSU Tigers,35.6,23.3,12.3,58.9,-9.666666666666666,52.666666666666664,7.0,41.0
+2024,13,Virginia Tech Hokies @ Duke Blue Devils,26.4,23.1,3.3,49.6,2.5,45.666666666666664,3.0,59.0
+2024,13,Cincinnati Bearcats @ Kansas State Wildcats,30.4,21.3,9.1,51.7,-7.5,54.5,26.0,56.0
+2024,13,Colorado State Rams @ Fresno State Bulldogs,29.1,19.9,9.2,49.1,-3.3333333333333335,43.166666666666664,6.0,50.0
+2024,13,Air Force Falcons @ Nevada Wolf Pack,21.6,25.0,-3.4,46.6,-2.6666666666666665,44.666666666666664,-3.0,41.0
+2024,13,USC Trojans @ UCLA Bruins,29.5,30.1,-0.7,59.6,4.666666666666667,52.666666666666664,-6.0,32.0
+2024,14,Toledo Rockets @ Akron Zips,21.8,30.4,-8.6,52.3,9.333333333333334,49.666666666666664,7.0,35.0
+2024,14,Kent State Golden Flashes @ Buffalo Bulls,35.1,22.7,12.4,57.8,-23.666666666666668,50.5,36.0,50.0
+2024,14,Memphis Tigers @ Tulane Green Wave,31.9,25.8,6.1,57.7,-12.833333333333334,54.333333333333336,-10.0,58.0
+2024,14,Oregon State Beavers @ Boise State Broncos,33.4,23.8,9.6,57.1,-17.666666666666668,58.0,16.0,52.0
+2024,14,Oklahoma State Cowboys @ Colorado Buffaloes,31.6,29.1,2.5,60.8,-15.333333333333334,66.5,52.0,52.0
+2024,14,Minnesota Golden Gophers @ Wisconsin Badgers,23.4,20.9,2.5,44.3,1.5,40.666666666666664,-17.0,31.0
+2024,14,Miami (OH) RedHawks @ Bowling Green Falcons,22.7,21.4,1.3,44.1,-2.8333333333333335,38.333333333333336,-16.0,40.0
+2024,14,Ball State Cardinals @ Ohio Bobcats,31.6,19.8,11.8,51.4,-17.666666666666668,51.833333333333336,21.0,63.0
+2024,14,Navy Midshipmen @ East Carolina Pirates,26.7,23.2,3.5,49.9,-2.75,53.666666666666664,-14.0,54.0
+2024,14,Mississippi State Bulldogs @ Ole Miss Rebels,36.0,20.1,15.9,56.1,-26.166666666666668,63.0,12.0,40.0
+2024,14,Liberty Flames @ Sam Houston Bearkats,24.7,26.0,-1.3,50.7,2.3333333333333335,47.666666666666664,2.0,38.0
+2024,14,Utah State Aggies @ Colorado State Rams,31.0,27.1,3.9,58.1,-5.333333333333333,57.333333333333336,5.0,79.0
+2024,14,Texas State Bobcats @ South Alabama Jaguars,32.6,26.4,6.3,59.0,2.1666666666666665,60.833333333333336,-7.0,83.0
+2024,14,Stanford Cardinal @ San José State Spartans,32.2,21.9,10.4,54.1,-2.5,54.5,3.0,65.0
+2024,14,Nebraska Cornhuskers @ Iowa Hawkeyes,23.6,16.1,7.5,39.7,-3.1666666666666665,41.333333333333336,3.0,23.0
+2024,14,Georgia Tech Yellow Jackets @ Georgia Bulldogs,35.6,18.2,17.3,53.8,-17.333333333333332,49.0,2.0,86.0
+2024,14,Utah Utes @ UCF Knights,27.3,24.1,3.2,51.5,-9.833333333333334,46.166666666666664,-14.0,42.0
+2024,14,UTSA Roadrunners @ Army Black Knights,29.3,24.5,4.8,53.8,-6.333333333333333,53.166666666666664,5.0,53.0
+2024,14,Louisiana Ragin' Cajuns @ UL Monroe Warhawks,23.1,30.7,-7.6,53.8,9.0,50.0,-14.0,60.0
+2024,14,West Virginia Mountaineers @ Texas Tech Red Raiders,33.1,29.8,3.3,63.0,-2.6666666666666665,62.833333333333336,37.0,67.0
+2024,14,Kansas Jayhawks @ Baylor Bears,31.2,29.0,2.1,60.2,1.0,62.166666666666664,28.0,62.0
+2024,14,Duke Blue Devils @ Wake Forest Demon Deacons,26.7,27.7,-1.0,54.4,3.5,53.166666666666664,-6.0,40.0
+2024,14,UConn Huskies @ Massachusetts Minutemen,24.3,28.4,-4.1,52.8,9.333333333333334,49.666666666666664,-5.0,89.0
+2024,14,Louisville Cardinals @ Kentucky Wildcats,24.9,25.2,-0.3,50.0,4.0,49.333333333333336,-27.0,55.0
+2024,14,Illinois Fighting Illini @ Northwestern Wildcats,18.0,24.4,-6.4,42.5,8.833333333333334,43.166666666666664,-10.0,66.0
+2024,14,South Carolina Gamecocks @ Clemson Tigers,29.9,23.7,6.2,53.6,-2.6666666666666665,49.0,-3.0,31.0
+2024,14,North Texas Mean Green @ Temple Owls,29.4,34.1,-4.8,63.5,11.166666666666666,63.333333333333336,-7.0,41.0
+2024,14,Tennessee Volunteers @ Vanderbilt Commodores,23.1,31.9,-8.8,55.0,9.833333333333334,46.5,-13.0,59.0
+2024,14,Michigan Wolverines @ Ohio State Buckeyes,29.1,20.8,8.3,49.9,-20.0,41.666666666666664,-3.0,23.0
+2024,14,Eastern Michigan Eagles @ Western Michigan Broncos,30.5,26.1,4.5,56.6,-6.333333333333333,55.833333333333336,8.0,44.0
+2024,14,South Florida Bulls @ Rice Owls,29.4,28.6,0.9,58.0,5.666666666666667,53.833333333333336,7.0,63.0
+2024,14,Southern Miss Golden Eagles @ Troy Trojans,31.5,17.2,14.4,48.7,-17.5,48.833333333333336,32.0,72.0
+2024,14,Coastal Carolina Chanticleers @ Georgia State Panthers,29.1,28.7,0.4,57.8,-0.16666666666666666,53.166666666666664,-21.0,75.0
+2024,14,Middle Tennessee Blue Raiders @ Florida International Panthers,27.4,24.9,2.5,52.3,-9.166666666666666,50.833333333333336,11.0,59.0
+2024,14,Old Dominion Monarchs @ Arkansas State Red Wolves,27.3,27.0,0.3,54.2,5.5,58.666666666666664,-8.0,72.0
+2024,14,Pittsburgh Panthers @ Boston College Eagles,27.1,26.0,1.1,53.1,-3.5,50.666666666666664,11.0,57.0
+2024,14,Florida Atlantic Owls @ Tulsa Golden Hurricane,29.4,28.0,1.5,57.4,0.16666666666666666,57.666666666666664,-47.0,79.0
+2024,14,Rutgers Scarlet Knights @ Michigan State Spartans,24.4,22.8,1.6,47.1,-1.5,46.5,-27.0,55.0
+2024,14,Auburn Tigers @ Alabama Crimson Tide,32.7,18.9,13.8,51.6,-10.833333333333334,50.833333333333336,14.0,42.0
+2024,14,Notre Dame Fighting Irish @ USC Trojans,28.2,32.7,-4.5,60.9,6.833333333333333,52.5,-14.0,84.0
+2024,14,Miami Hurricanes @ Syracuse Orange,27.6,31.4,-3.8,58.9,12.166666666666666,67.0,4.0,80.0
+2024,14,California Golden Bears @ SMU Mustangs,34.4,23.3,11.1,57.7,-12.166666666666666,54.5,32.0,44.0
+2024,14,NC State Wolfpack @ North Carolina Tar Heels,31.9,26.8,5.2,58.7,-2.1666666666666665,54.166666666666664,-5.0,65.0
+2024,14,Arkansas Razorbacks @ Missouri Tigers,30.1,23.8,6.3,54.0,-3.1666666666666665,51.166666666666664,7.0,49.0
+2024,14,Central Michigan Chippewas @ Northern Illinois Huskies,29.9,20.8,9.0,50.7,-14.5,40.5,8.0,40.0
+2024,14,UAB Blazers @ Charlotte 49ers,28.7,30.4,-1.7,59.1,-0.5,59.833333333333336,2.0,56.0
+2024,14,Arizona State Sun Devils @ Arizona Wildcats,27.7,25.5,2.2,53.2,7.5,53.333333333333336,-42.0,56.0
+2024,14,Fresno State Bulldogs @ UCLA Bruins,27.0,23.4,3.6,50.3,-7.5,46.5,7.0,33.0
+2024,14,Maryland Terrapins @ Penn State Nittany Lions,34.0,18.2,15.8,52.2,-26.0,50.333333333333336,37.0,51.0
+2024,14,Kennesaw State Owls @ Louisiana Tech Bulldogs,28.4,22.2,6.1,50.6,-11.333333333333334,41.333333333333336,33.0,33.0
+2024,14,UTEP Miners @ New Mexico State Aggies,28.2,22.9,5.4,51.1,-3.3333333333333335,51.5,-7.0,77.0
+2024,14,Jacksonville State Gamecocks @ Western Kentucky Hilltoppers,31.5,28.3,3.2,59.7,0.16666666666666666,62.5,2.0,36.0
+2024,14,TCU Horned Frogs @ Cincinnati Bearcats,29.0,28.7,0.3,57.7,2.5,58.5,-7.0,33.0
+2024,14,App State Mountaineers @ Georgia Southern Eagles,31.2,29.6,1.6,60.9,-2.5,60.333333333333336,9.0,49.0
+2024,14,Wyoming Cowboys @ Washington State Cougars,32.7,21.7,11.0,54.3,-18.5,55.166666666666664,-1.0,29.0
+2024,14,Florida Gators @ Florida State Seminoles,27.3,24.1,3.2,51.4,17.166666666666668,45.833333333333336,-20.0,42.0
+2024,14,Oklahoma Sooners @ LSU Tigers,31.3,27.9,3.4,59.2,-5.5,47.833333333333336,20.0,54.0
+2024,14,Purdue Boilermakers @ Indiana Hoosiers,34.9,23.0,12.0,57.9,-28.666666666666668,56.5,66.0,66.0
+2024,14,Washington Huskies @ Oregon Ducks,33.0,22.0,11.0,55.1,-17.333333333333332,50.666666666666664,28.0,70.0
+2024,14,Texas Longhorns @ Texas A&M Aggies,24.6,27.4,-2.8,52.1,4.5,49.833333333333336,-10.0,24.0
+2024,14,Kansas State Wildcats @ Iowa State Cyclones,25.5,24.3,1.3,49.8,-2.0,51.666666666666664,8.0,50.0
+2024,14,Nevada Wolf Pack @ UNLV Rebels,35.1,22.2,12.9,57.4,-17.5,54.5,24.0,52.0
+2024,14,Virginia Cavaliers @ Virginia Tech Hokies,30.4,20.4,10.0,50.8,-4.5,44.5,20.0,54.0
+2024,14,Marshall Thundering Herd @ James Madison Dukes,30.4,21.3,9.2,51.7,-3.3333333333333335,52.166666666666664,-2.0,68.0
+2024,14,Houston Cougars @ BYU Cougars,28.4,20.1,8.2,48.5,-11.333333333333334,40.166666666666664,12.0,48.0
+2024,14,Air Force Falcons @ San Diego State Aztecs,20.5,22.6,-2.1,43.1,6.0,43.5,-11.0,51.0
+2024,14,New Mexico Lobos @ Hawai'i Rainbow Warriors,30.0,27.0,3.0,57.1,5.666666666666667,61.166666666666664,8.0,68.0
+2024,15,Western Kentucky Hilltoppers @ Jacksonville State Gamecocks,31.0,27.2,3.8,58.2,-4.333333333333333,58.333333333333336,40.0,64.0
+2024,15,UNLV Rebels @ Boise State Broncos,34.1,26.9,7.2,61.0,-3.8333333333333335,57.5,14.0,28.0
+2024,15,Tulane Green Wave @ Army Black Knights,24.4,24.0,0.4,48.4,4.833333333333333,46.333333333333336,21.0,49.0
+2024,15,Iowa State Cyclones @ Arizona State Sun Devils,20.7,25.0,-4.2,45.7,0.5,51.0,26.0,64.0
+2024,15,Ohio Bobcats @ Miami (OH) RedHawks,19.8,19.5,0.2,39.3,-2.5,43.833333333333336,-35.0,41.0
+2024,15,Georgia Bulldogs @ Texas Longhorns,24.5,25.8,-1.3,50.4,-2.8333333333333335,50.833333333333336,-3.0,41.0
+2024,15,Marshall Thundering Herd @ Louisiana Ragin' Cajuns,30.3,24.1,6.2,54.5,-4.833333333333333,57.5,-28.0,34.0
+2024,15,Penn State Nittany Lions @ Oregon Ducks,24.9,25.0,-0.1,49.9,-3.3333333333333335,51.5,8.0,82.0
+2024,15,Clemson Tigers @ SMU Mustangs,27.7,26.8,0.9,54.5,-2.6666666666666665,56.333333333333336,-3.0,65.0
+2024,16,Navy Midshipmen @ Army Black Knights,22.9,19.2,3.7,42.1,-6.333333333333333,39.166666666666664,-18.0,44.0
+2025,1,Iowa State Cyclones @ Kansas State Wildcats,25.6,23.5,2.1,49.1,-3.0,50.666666666666664,-3.0,45.0
+2025,1,Fresno State Bulldogs @ Kansas Jayhawks,30.1,26.0,4.2,56.1,-14.166666666666666,50.666666666666664,24.0,38.0
+2025,1,Sam Houston Bearkats @ Western Kentucky Hilltoppers,28.1,22.3,5.9,50.4,-9.833333333333334,60.333333333333336,17.0,65.0
+2025,1,Stanford Cardinal @ Hawai'i Rainbow Warriors,28.6,24.8,3.8,53.4,-1.6666666666666667,51.333333333333336,3.0,43.0
+2025,1,Boise State Broncos @ South Florida Bulls,28.1,32.6,-4.5,60.8,6.166666666666667,62.0,27.0,41.0
+2025,1,Ohio Bobcats @ Rutgers Scarlet Knights,24.9,24.8,0.2,49.7,-14.166666666666666,50.666666666666664,3.0,65.0
+2025,1,East Carolina Pirates @ NC State Wolfpack,28.8,24.4,4.4,53.1,-13.333333333333334,60.333333333333336,7.0,41.0
+2025,1,Jacksonville State Gamecocks @ UCF Knights,30.1,28.3,1.8,58.4,-19.166666666666668,52.833333333333336,7.0,27.0
+2025,1,Wyoming Cowboys @ Akron Zips,24.0,24.4,-0.5,48.4,6.0,48.333333333333336,-10.0,10.0
+2025,1,Buffalo Bulls @ Minnesota Golden Gophers,29.2,20.2,8.9,49.4,-17.166666666666668,43.333333333333336,13.0,33.0
+2025,1,Nebraska Cornhuskers @ Cincinnati Bearcats,21.2,21.6,-0.4,42.9,6.0,51.166666666666664,-3.0,37.0
+2025,1,Miami (OH) RedHawks @ Wisconsin Badgers,23.0,20.4,2.7,43.4,-18.0,41.0,17.0,17.0
+2025,1,App State Mountaineers @ Charlotte 49ers,23.4,31.1,-7.7,54.4,10.333333333333334,51.25,-23.0,45.0
+2025,1,Kennesaw State Owls @ Wake Forest Demon Deacons,31.1,22.4,8.6,53.5,-18.166666666666668,51.333333333333336,1.0,19.0
+2025,1,Western Michigan Broncos @ Michigan State Spartans,28.0,24.8,3.2,52.8,-20.833333333333332,50.0,17.0,29.0
+2025,1,Auburn Tigers @ Baylor Bears,29.0,25.0,4.0,54.0,0.3333333333333333,56.833333333333336,-14.0,62.0
+2025,1,Georgia Tech Yellow Jackets @ Colorado Buffaloes,29.7,27.2,2.5,56.8,3.6666666666666665,52.0,-7.0,47.0
+2025,1,UNLV Rebels @ Sam Houston Bearkats,25.7,26.1,-0.4,51.7,10.333333333333334,59.833333333333336,-17.0,59.0
+2025,1,Central Michigan Chippewas @ San José State Spartans,31.2,23.3,7.9,54.4,-13.5,51.166666666666664,-2.0,30.0
+2025,1,Syracuse Orange @ Tennessee Volunteers,30.7,22.9,7.8,53.5,-13.5,52.166666666666664,19.0,71.0
+2025,1,Ball State Cardinals @ Purdue Boilermakers,30.3,26.8,3.5,57.1,-16.5,49.166666666666664,31.0,31.0
+2025,1,Florida Atlantic Owls @ Maryland Terrapins,30.4,23.8,6.6,54.1,-14.166666666666666,59.0,32.0,46.0
+2025,1,Mississippi State Bulldogs @ Southern Miss Golden Eagles,25.3,28.9,-3.6,54.1,13.833333333333334,59.666666666666664,-17.0,51.0
+2025,1,Northwestern Wildcats @ Tulane Green Wave,30.6,18.5,12.1,49.0,-6.0,46.333333333333336,20.0,26.0
+2025,1,Texas Longhorns @ Ohio State Buckeyes,29.5,22.4,7.1,51.9,-2.1666666666666665,46.833333333333336,7.0,21.0
+2025,1,Toledo Rockets @ Kentucky Wildcats,26.1,23.8,2.3,49.9,-9.833333333333334,48.666666666666664,8.0,40.0
+2025,1,Old Dominion Monarchs @ Indiana Hoosiers,31.6,23.2,8.4,54.8,-23.333333333333332,53.666666666666664,13.0,41.0
+2025,1,Alabama Crimson Tide @ Florida State Seminoles,22.6,27.9,-5.3,50.5,13.5,48.0,14.0,48.0
+2025,1,Temple Owls @ Massachusetts Minutemen,29.1,26.6,2.5,55.7,2.3333333333333335,49.5,-32.0,52.0
+2025,1,Marshall Thundering Herd @ Georgia Bulldogs,33.1,19.7,13.3,52.8,-38.833333333333336,52.833333333333336,38.0,52.0
+2025,1,Nevada Wolf Pack @ Penn State Nittany Lions,35.8,15.2,20.6,50.9,-44.166666666666664,55.833333333333336,35.0,57.0
+2025,1,Coastal Carolina Chanticleers @ Virginia Cavaliers,28.1,26.9,1.1,55.0,-13.166666666666666,55.666666666666664,41.0,55.0
+2025,1,UTSA Roadrunners @ Texas A&M Aggies,31.0,25.4,5.6,56.5,-23.0,58.166666666666664,18.0,66.0
+2025,1,UTEP Miners @ Utah State Aggies,33.0,26.5,6.5,59.6,-4.5,58.833333333333336,12.0,44.0
+2025,1,LSU Tigers @ Clemson Tigers,31.3,26.9,4.4,58.2,-4.833333333333333,56.166666666666664,-7.0,27.0
+2025,1,Missouri State Bears @ USC Trojans,35.5,26.1,9.4,61.5,-35.833333333333336,60.0,60.0,86.0
+2025,1,New Mexico Lobos @ Michigan Wolverines,36.9,17.9,18.9,54.8,-35.166666666666664,50.5,17.0,51.0
+2025,1,Georgia State Panthers @ Ole Miss Rebels,36.8,20.0,16.8,56.7,-35.166666666666664,61.666666666666664,56.0,70.0
+2025,1,Eastern Michigan Eagles @ Texas State Bobcats,33.0,24.6,8.4,57.6,-13.833333333333334,57.0,25.0,79.0
+2025,1,Rice Owls @ Louisiana Ragin' Cajuns,31.4,22.2,9.3,53.6,-11.166666666666666,48.666666666666664,-2.0,26.0
+2025,1,Georgia Southern Eagles @ Fresno State Bulldogs,30.5,24.5,6.0,55.0,-1.0,51.833333333333336,28.0,56.0
+2025,1,California Golden Bears @ Oregon State Beavers,28.3,24.2,4.1,52.5,0.8333333333333334,49.333333333333336,-19.0,49.0
+2025,1,Hawai'i Rainbow Warriors @ Arizona Wildcats,30.4,22.8,7.6,53.2,-14.833333333333334,55.333333333333336,34.0,46.0
+2025,1,Utah Utes @ UCLA Bruins,24.5,22.5,2.0,47.0,6.5,49.333333333333336,-33.0,53.0
+2025,1,Colorado State Rams @ Washington Huskies,31.4,20.8,10.6,52.2,-21.833333333333332,52.0,17.0,59.0
+2025,1,Virginia Tech Hokies @ South Carolina Gamecocks,24.7,22.5,2.1,47.2,-7.666666666666667,50.666666666666664,13.0,35.0
+2025,1,Notre Dame Fighting Irish @ Miami Hurricanes,28.1,31.4,-3.3,59.5,2.6666666666666665,51.5,3.0,51.0
+2025,1,TCU Horned Frogs @ North Carolina Tar Heels,31.3,30.5,0.8,61.8,3.3333333333333335,56.333333333333336,-34.0,62.0
+2025,2,James Madison Dukes @ Louisville Cardinals,29.9,25.6,4.3,55.5,-15.25,56.75,14.0,42.0
+2025,2,Northern Illinois Huskies @ Maryland Terrapins,28.0,22.6,5.4,50.6,-16.75,44.5,11.0,29.0
+2025,2,Liberty Flames @ Jacksonville State Gamecocks,30.4,25.4,5.1,55.8,6.25,50.5,10.0,58.0
+2025,2,UConn Huskies @ Syracuse Orange,30.4,25.1,5.3,55.5,-7.25,57.5,7.0,47.0
+2025,2,Virginia Cavaliers @ NC State Wolfpack,29.1,22.5,6.6,51.6,-2.75,52.75,4.0,66.0
+2025,2,Kent State Golden Flashes @ Texas Tech Red Raiders,39.8,22.1,17.7,61.8,-48.0,59.75,48.0,76.0
+2025,2,Kennesaw State Owls @ Indiana Hoosiers,32.6,18.4,14.2,51.0,-35.5,51.5,47.0,65.0
+2025,2,Baylor Bears @ SMU Mustangs,34.9,25.5,9.3,60.4,-2.75,65.5,-3.0,93.0
+2025,2,Iowa Hawkeyes @ Iowa State Cyclones,24.5,20.2,4.3,44.7,-2.6666666666666665,43.25,3.0,29.0
+2025,2,Central Michigan Chippewas @ Pittsburgh Panthers,32.5,22.8,9.7,55.2,-21.5,48.5,28.0,62.0
+2025,2,Florida International Panthers @ Penn State Nittany Lions,36.5,15.3,21.1,51.8,-41.75,53.5,34.0,34.0
+2025,2,Illinois Fighting Illini @ Duke Blue Devils,26.8,24.2,2.5,51.0,2.5,49.25,-26.0,64.0
+2025,2,San José State Spartans @ Texas Longhorns,33.6,18.2,15.4,51.8,-36.75,52.5,31.0,45.0
+2025,2,Utah State Aggies @ Texas A&M Aggies,36.0,23.4,12.6,59.5,-34.5,57.5,22.0,66.0
+2025,2,Kansas Jayhawks @ Missouri Tigers,30.4,25.4,5.0,55.8,-6.333333333333333,50.25,11.0,73.0
+2025,2,Fresno State Bulldogs @ Oregon State Beavers,27.0,25.2,1.9,52.2,-1.25,45.0,-9.0,63.0
+2025,2,Texas State Bobcats @ UTSA Roadrunners,34.0,29.3,4.7,63.3,-4.5,64.5,-7.0,79.0
+2025,2,UAB Blazers @ Navy Midshipmen,32.6,23.4,9.2,56.0,-21.5,58.75,14.0,62.0
+2025,2,North Texas Mean Green @ Western Michigan Broncos,31.4,30.7,0.7,62.0,12.25,56.25,-3.0,63.0
+2025,2,Bowling Green Falcons @ Cincinnati Bearcats,27.4,22.3,5.1,49.7,-22.0,46.5,14.0,54.0
+2025,2,Delaware Blue Hens @ Colorado Buffaloes,29.7,25.7,4.0,55.4,-23.5,49.5,24.0,38.0
+2025,2,Oklahoma State Cowboys @ Oregon Ducks,37.5,22.1,15.4,59.6,-28.5,55.5,66.0,72.0
+2025,2,Ole Miss Rebels @ Kentucky Wildcats,23.1,27.9,-4.9,51.0,7.75,51.5,-7.0,53.0
+2025,2,Troy Trojans @ Clemson Tigers,30.0,20.8,9.3,50.8,-30.25,51.5,11.0,43.0
+2025,2,West Virginia Mountaineers @ Ohio Bobcats,29.9,24.1,5.8,54.1,3.5,58.5,7.0,27.0
+2025,2,Middle Tennessee Blue Raiders @ Wisconsin Badgers,30.4,17.4,13.0,47.9,-28.5,45.0,32.0,52.0
+2025,2,South Florida Bulls @ Florida Gators,33.5,25.4,8.1,58.9,-18.5,58.25,-2.0,34.0
+2025,2,Miami (OH) RedHawks @ Rutgers Scarlet Knights,24.5,22.1,2.4,46.6,-15.5,45.5,28.0,62.0
+2025,2,Arkansas State Red Wolves @ Arkansas Razorbacks,34.5,23.8,10.7,58.3,-24.0,61.75,42.0,70.0
+2025,2,Missouri State Bears @ Marshall Thundering Herd,31.7,24.0,7.7,55.6,-7.25,53.5,-1.0,41.0
+2025,2,Army Black Knights @ Kansas State Wildcats,28.5,22.5,6.1,51.0,-16.75,48.5,-3.0,45.0
+2025,2,Tulane Green Wave @ South Alabama Jaguars,27.3,26.3,0.9,53.6,13.5,51.5,-2.0,64.0
+2025,2,Memphis Tigers @ Georgia State Panthers,27.2,33.5,-6.3,60.7,15.0,57.5,-22.0,54.0
+2025,2,North Carolina Tar Heels @ Charlotte 49ers,27.2,31.9,-4.7,59.1,15.75,49.5,-17.0,23.0
+2025,2,Houston Cougars @ Rice Owls,24.4,22.7,1.7,47.2,13.5,38.5,-26.0,44.0
+2025,2,Western Kentucky Hilltoppers @ Toledo Rockets,29.5,26.1,3.5,55.6,-8.0,57.0,24.0,66.0
+2025,2,Georgia Southern Eagles @ USC Trojans,37.6,25.7,11.9,63.3,-28.75,62.0,39.0,79.0
+2025,2,Boston College Eagles @ Michigan State Spartans,25.2,24.0,1.2,49.2,-3.5,45.5,2.0,82.0
+2025,2,Akron Zips @ Nebraska Cornhuskers,29.0,16.6,12.5,45.6,-33.75,47.5,68.0,68.0
+2025,2,Arizona State Sun Devils @ Mississippi State Bulldogs,27.7,26.9,0.8,54.6,5.75,58.5,4.0,44.0
+2025,2,Ball State Cardinals @ Auburn Tigers,32.4,19.9,12.5,52.3,-42.75,52.5,39.0,45.0
+2025,2,Vanderbilt Commodores @ Virginia Tech Hokies,29.3,22.4,6.8,51.7,-2.0,45.5,-24.0,64.0
+2025,2,Louisiana Tech Bulldogs @ LSU Tigers,33.8,20.1,13.7,53.9,-36.5,49.5,16.0,30.0
+2025,2,Michigan Wolverines @ Oklahoma Sooners,24.5,25.6,-1.1,50.2,-3.5,45.333333333333336,11.0,37.0
+2025,2,UL Monroe Warhawks @ Alabama Crimson Tide,35.2,15.9,19.3,51.2,-34.25,50.25,73.0,73.0
+2025,2,UCLA Bruins @ UNLV Rebels,30.4,24.2,6.2,54.7,2.5,54.5,7.0,53.0
+2025,2,Tulsa Golden Hurricane @ New Mexico State Aggies,31.2,26.1,5.1,57.4,3.25,53.0,7.0,35.0
+2025,2,San Diego State Aztecs @ Washington State Cougars,30.7,22.4,8.3,53.0,-2.25,46.5,23.0,49.0
+2025,2,Stanford Cardinal @ BYU Cougars,34.0,20.5,13.5,54.5,-20.5,44.0,24.0,30.0
+2025,2,Sam Houston Bearkats @ Hawai'i Rainbow Warriors,23.4,24.9,-1.5,48.3,-7.25,48.0,17.0,57.0
+2025,3,NC State Wolfpack @ Wake Forest Demon Deacons,27.4,26.4,1.0,53.8,7.333333333333333,52.666666666666664,-10.0,58.0
+2025,3,Colorado Buffaloes @ Houston Cougars,26.6,23.4,3.3,50.0,-3.8333333333333335,45.333333333333336,16.0,56.0
+2025,3,Kansas State Wildcats @ Arizona Wildcats,27.0,28.0,-1.0,55.1,1.5,55.833333333333336,6.0,40.0
+2025,3,New Mexico Lobos @ UCLA Bruins,33.1,22.7,10.4,55.8,-15.5,52.666666666666664,-25.0,45.0
+2025,3,Memphis Tigers @ Troy Trojans,27.0,28.3,-1.2,55.3,4.5,51.333333333333336,-21.0,35.0
+2025,3,Oregon Ducks @ Northwestern Wildcats,20.9,32.0,-11.1,52.9,25.5,50.5,-20.0,48.0
+2025,3,Buffalo Bulls @ Kent State Golden Flashes,24.1,31.2,-7.1,55.3,24.0,48.166666666666664,-3.0,59.0
+2025,3,Central Michigan Chippewas @ Michigan Wolverines,33.7,15.1,18.6,48.8,-27.666666666666668,42.666666666666664,60.0,66.0
+2025,3,Wisconsin Badgers @ Alabama Crimson Tide,30.2,19.0,11.2,49.1,-18.5,45.333333333333336,24.0,52.0
+2025,3,Oklahoma Sooners @ Temple Owls,23.0,30.4,-7.4,53.4,23.833333333333332,51.0,-39.0,45.0
+2025,3,Clemson Tigers @ Georgia Tech Yellow Jackets,26.6,27.4,-0.8,54.0,2.8333333333333335,50.666666666666664,3.0,45.0
+2025,3,South Alabama Jaguars @ Auburn Tigers,29.2,23.9,5.3,53.1,-26.333333333333332,56.0,16.0,46.0
+2025,3,Louisiana Ragin' Cajuns @ Missouri Tigers,30.5,22.8,7.7,53.2,-27.5,47.166666666666664,42.0,62.0
+2025,3,UConn Huskies @ Delaware Blue Hens,27.2,24.0,3.2,51.3,8.666666666666666,52.166666666666664,3.0,85.0
+2025,3,Pittsburgh Panthers @ West Virginia Mountaineers,30.2,27.5,2.7,57.7,6.833333333333333,55.0,7.0,55.0
+2025,3,SMU Mustangs @ Missouri State Bears,27.6,33.1,-5.6,60.7,28.833333333333332,60.333333333333336,-18.0,38.0
+2025,3,Washington State Cougars @ North Texas Mean Green,32.6,30.6,2.0,63.2,-6.5,57.833333333333336,49.0,69.0
+2025,3,Georgia Bulldogs @ Tennessee Volunteers,28.7,28.1,0.7,56.8,3.5,50.5,-3.0,85.0
+2025,3,Oregon State Beavers @ Texas Tech Red Raiders,34.6,26.9,7.8,61.5,-24.0,61.5,31.0,59.0
+2025,3,Iowa State Cyclones @ Arkansas State Red Wolves,24.4,30.7,-6.3,55.1,21.0,55.666666666666664,-8.0,40.0
+2025,3,UTEP Miners @ Texas Longhorns,35.9,14.3,21.6,50.1,-39.833333333333336,52.333333333333336,17.0,37.0
+2025,3,South Florida Bulls @ Miami Hurricanes,36.0,25.9,10.1,61.9,-17.666666666666668,56.5,37.0,61.0
+2025,3,Liberty Flames @ Bowling Green Falcons,26.7,25.7,1.0,52.3,6.0,51.5,10.0,36.0
+2025,3,Middle Tennessee Blue Raiders @ Nevada Wolf Pack,28.6,23.4,5.1,52.0,-9.333333333333334,49.666666666666664,-1.0,27.0
+2025,3,USC Trojans @ Purdue Boilermakers,27.3,34.8,-7.4,62.1,20.5,59.333333333333336,-16.0,50.0
+2025,3,Ohio Bobcats @ Ohio State Buckeyes,32.3,16.8,15.4,49.1,-28.333333333333332,49.333333333333336,28.0,46.0
+2025,3,App State Mountaineers @ Southern Miss Golden Eagles,25.1,30.3,-5.2,55.4,2.8333333333333335,56.166666666666664,16.0,60.0
+2025,3,Jacksonville State Gamecocks @ Georgia Southern Eagles,27.9,30.6,-2.7,58.5,-3.1666666666666665,58.333333333333336,7.0,75.0
+2025,3,Old Dominion Monarchs @ Virginia Tech Hokies,28.6,22.5,6.1,51.2,-5.5,50.666666666666664,-19.0,71.0
+2025,3,Western Michigan Broncos @ Illinois Fighting Illini,32.9,21.2,11.7,54.1,-27.5,50.666666666666664,38.0,38.0
+2025,3,Arkansas Razorbacks @ Ole Miss Rebels,33.9,23.7,10.2,57.5,-3.8333333333333335,60.5,6.0,76.0
+2025,3,Texas A&M Aggies @ Notre Dame Fighting Irish,31.6,21.8,9.8,53.4,-6.833333333333333,49.333333333333336,-1.0,81.0
+2025,3,Florida Gators @ LSU Tigers,30.9,24.2,6.7,55.1,-5.0,47.333333333333336,10.0,30.0
+2025,3,Eastern Michigan Eagles @ Kentucky Wildcats,30.4,19.5,11.0,49.9,-26.666666666666668,49.833333333333336,25.0,71.0
+2025,3,Massachusetts Minutemen @ Iowa Hawkeyes,33.3,14.1,19.2,47.4,-35.333333333333336,44.333333333333336,40.0,54.0
+2025,3,New Mexico State Aggies @ Louisiana Tech Bulldogs,27.2,21.7,5.4,48.9,-10.166666666666666,42.666666666666664,35.0,63.0
+2025,3,East Carolina Pirates @ Coastal Carolina Chanticleers,27.1,27.1,-0.0,54.2,7.166666666666667,57.333333333333336,-38.0,38.0
+2025,3,Vanderbilt Commodores @ South Carolina Gamecocks,30.5,21.8,8.7,52.3,-2.8333333333333335,48.5,-24.0,38.0
+2025,3,Utah Utes @ Wyoming Cowboys,20.3,24.4,-4.1,44.7,24.5,47.333333333333336,-25.0,37.0
+2025,3,Navy Midshipmen @ Tulsa Golden Hurricane,24.6,30.0,-5.4,54.6,13.666666666666666,52.666666666666664,-19.0,65.0
+2025,3,Duke Blue Devils @ Tulane Green Wave,30.1,21.8,8.3,51.9,-0.5,52.833333333333336,7.0,61.0
+2025,3,Akron Zips @ UAB Blazers,33.0,24.3,8.7,57.3,-12.666666666666666,59.0,3.0,59.0
+2025,3,Florida Atlantic Owls @ Florida International Panthers,27.1,25.7,1.4,52.7,-2.0,56.5,10.0,66.0
+2025,3,Air Force Falcons @ Utah State Aggies,27.6,28.3,-0.7,55.9,4.0,51.5,19.0,79.0
+2025,3,Minnesota Golden Gophers @ California Golden Bears,23.8,23.2,0.6,47.0,3.1666666666666665,40.5,13.0,41.0
+2025,3,Boston College Eagles @ Stanford Cardinal,25.7,28.4,-2.7,54.1,13.833333333333334,45.166666666666664,10.0,50.0
+2025,3,Texas State Bobcats @ Arizona State Sun Devils,31.4,27.7,3.8,59.1,-18.5,61.5,19.0,49.0
+2025,4,Rice Owls @ Charlotte 49ers,25.6,26.2,-0.6,51.9,1.6666666666666667,42.0,-11.0,45.0
+2025,4,Tulsa Golden Hurricane @ Oklahoma State Cowboys,34.9,25.1,9.8,60.0,-10.166666666666666,54.666666666666664,-7.0,31.0
+2025,4,Iowa Hawkeyes @ Rutgers Scarlet Knights,23.6,22.7,0.9,46.3,2.3333333333333335,46.5,-10.0,66.0
+2025,4,North Texas Mean Green @ Army Black Knights,31.1,25.5,5.7,56.6,2.5,50.666666666666664,-7.0,83.0
+2025,4,Arkansas Razorbacks @ Memphis Tigers,32.9,27.0,5.9,59.9,7.166666666666667,59.666666666666664,1.0,63.0
+2025,4,Bowling Green Falcons @ Louisville Cardinals,31.8,20.4,11.4,52.2,-26.166666666666668,50.666666666666664,23.0,57.0
+2025,4,SMU Mustangs @ TCU Horned Frogs,31.8,29.7,2.1,61.5,-6.5,63.5,11.0,59.0
+2025,4,Syracuse Orange @ Clemson Tigers,32.6,23.2,9.4,55.8,-17.5,53.833333333333336,-13.0,55.0
+2025,4,Maryland Terrapins @ Wisconsin Badgers,26.7,21.5,5.2,48.3,-10.5,44.5,-17.0,37.0
+2025,4,Texas Tech Red Raiders @ Utah Utes,31.6,26.0,5.6,57.6,-3.5,58.333333333333336,-24.0,44.0
+2025,4,UNLV Rebels @ Miami (OH) RedHawks,26.2,24.6,1.6,50.8,1.8333333333333333,49.333333333333336,-3.0,79.0
+2025,4,UAB Blazers @ Tennessee Volunteers,40.0,23.1,16.9,63.1,-39.0,68.83333333333333,32.0,80.0
+2025,4,Oregon State Beavers @ Oregon Ducks,37.8,20.3,17.6,58.1,-34.0,58.333333333333336,34.0,48.0
+2025,4,Toledo Rockets @ Western Michigan Broncos,25.6,29.3,-3.6,54.9,12.666666666666666,48.5,1.0,27.0
+2025,4,James Madison Dukes @ Liberty Flames,26.7,26.4,0.3,53.1,7.5,46.666666666666664,-18.0,44.0
+2025,4,Louisiana Ragin' Cajuns @ Eastern Michigan Eagles,26.1,28.3,-2.2,54.4,2.1666666666666665,51.333333333333336,3.0,65.0
+2025,4,Troy Trojans @ Buffalo Bulls,26.3,23.9,2.4,50.2,-5.833333333333333,43.666666666666664,-4.0,38.0
+2025,4,Kent State Golden Flashes @ Florida State Seminoles,36.4,17.4,19.0,53.8,-45.0,56.333333333333336,56.0,76.0
+2025,4,Ball State Cardinals @ UConn Huskies,32.3,22.1,10.2,54.5,-21.0,53.666666666666664,6.0,56.0
+2025,4,Auburn Tigers @ Oklahoma Sooners,28.4,22.1,6.3,50.4,-6.5,47.5,7.0,41.0
+2025,4,Tulane Green Wave @ Ole Miss Rebels,32.1,23.2,8.9,55.4,-12.166666666666666,61.5,35.0,55.0
+2025,4,Purdue Boilermakers @ Notre Dame Fighting Irish,37.5,17.4,20.1,54.9,-24.5,51.5,26.0,86.0
+2025,4,Michigan Wolverines @ Nebraska Cornhuskers,21.3,24.5,-3.3,45.8,0.6666666666666666,47.833333333333336,-3.0,57.0
+2025,4,North Carolina Tar Heels @ UCF Knights,31.7,26.0,5.7,57.8,-7.166666666666667,46.333333333333336,25.0,43.0
+2025,4,NC State Wolfpack @ Duke Blue Devils,28.1,24.9,3.2,53.0,-3.1666666666666665,57.333333333333336,12.0,78.0
+2025,4,Northern Illinois Huskies @ Mississippi State Bulldogs,27.5,22.2,5.2,49.7,-24.0,48.333333333333336,28.0,48.0
+2025,4,Temple Owls @ Georgia Tech Yellow Jackets,33.4,20.6,12.7,54.0,-24.5,52.833333333333336,21.0,69.0
+2025,4,Arkansas State Red Wolves @ Kennesaw State Owls,27.0,25.6,1.4,52.6,4.5,58.0,7.0,49.0
+2025,4,West Virginia Mountaineers @ Kansas Jayhawks,32.2,26.1,6.1,58.3,-12.833333333333334,54.333333333333336,31.0,51.0
+2025,4,Delaware Blue Hens @ Florida International Panthers,27.3,26.6,0.7,54.0,-4.5,54.833333333333336,-22.0,54.0
+2025,4,Coastal Carolina Chanticleers @ South Alabama Jaguars,32.6,22.5,10.1,55.1,-14.666666666666666,51.833333333333336,-18.0,58.0
+2025,4,Boise State Broncos @ Air Force Falcons,25.3,26.0,-0.8,51.3,11.0,51.666666666666664,-12.0,86.0
+2025,4,Nevada Wolf Pack @ Western Kentucky Hilltoppers,33.0,20.8,12.2,53.7,-7.833333333333333,54.5,15.0,47.0
+2025,4,Marshall Thundering Herd @ Middle Tennessee Blue Raiders,23.0,27.2,-4.2,50.3,2.5,46.166666666666664,-14.0,70.0
+2025,4,South Carolina Gamecocks @ Missouri Tigers,28.9,22.7,6.1,51.6,-10.166666666666666,48.5,9.0,49.0
+2025,4,Arizona State Sun Devils @ Baylor Bears,30.6,26.4,4.2,57.0,-2.5,60.833333333333336,-3.0,51.0
+2025,4,Georgia State Panthers @ Vanderbilt Commodores,33.6,22.4,11.2,56.0,-27.333333333333332,53.166666666666664,49.0,91.0
+2025,4,Illinois Fighting Illini @ Indiana Hoosiers,29.2,24.9,4.3,54.2,-7.0,51.0,53.0,73.0
+2025,4,BYU Cougars @ East Carolina Pirates,26.8,25.2,1.7,52.0,6.166666666666667,49.666666666666664,-21.0,47.0
+2025,4,Southern Miss Golden Eagles @ Louisiana Tech Bulldogs,30.2,20.3,9.8,50.5,-3.1666666666666665,51.166666666666664,10.0,50.0
+2025,4,Florida Gators @ Miami Hurricanes,31.9,24.5,7.4,56.4,-8.5,51.333333333333336,19.0,33.0
+2025,4,Washington Huskies @ Washington State Cougars,28.9,29.2,-0.3,58.0,20.833333333333332,52.0,-35.0,83.0
+2025,4,Stanford Cardinal @ Virginia Cavaliers,31.1,22.5,8.6,53.6,-16.166666666666668,48.833333333333336,28.0,68.0
+2025,4,Sam Houston Bearkats @ Texas Longhorns,33.2,15.1,18.1,48.3,-39.5,51.5,55.0,55.0
+2025,4,UL Monroe Warhawks @ UTEP Miners,27.4,22.6,4.9,50.0,-5.333333333333333,47.0,-6.0,56.0
+2025,4,UTSA Roadrunners @ Colorado State Rams,27.1,30.0,-2.9,57.1,5.0,58.5,-1.0,33.0
+2025,4,Wyoming Cowboys @ Colorado Buffaloes,28.1,20.6,7.5,48.7,-12.333333333333334,45.666666666666664,17.0,57.0
+2025,4,California Golden Bears @ San Diego State Aztecs,22.8,24.8,-2.0,47.6,13.833333333333334,46.666666666666664,34.0,34.0
+2025,4,Michigan State Spartans @ USC Trojans,36.2,22.4,13.8,58.7,-18.5,55.5,14.0,76.0
+2025,4,Fresno State Bulldogs @ Hawai'i Rainbow Warriors,22.9,27.4,-4.5,50.3,2.5,47.333333333333336,-2.0,44.0
+2025,5,Army Black Knights @ East Carolina Pirates,26.2,23.3,2.9,49.5,-3.5,52.5,22.0,34.0
+2025,5,Florida State Seminoles @ Virginia Cavaliers,26.8,26.6,0.2,53.4,6.833333333333333,60.166666666666664,8.0,84.0
+2025,5,TCU Horned Frogs @ Arizona State Sun Devils,28.7,27.9,0.8,56.7,-2.8333333333333335,54.5,3.0,51.0
+2025,5,Houston Cougars @ Oregon State Beavers,25.3,24.1,1.3,49.4,11.833333333333334,48.166666666666664,-3.0,51.0
+2025,5,Louisville Cardinals @ Pittsburgh Panthers,28.2,29.2,-1.0,57.4,3.1666666666666665,53.333333333333336,-7.0,61.0
+2025,5,Duke Blue Devils @ Syracuse Orange,30.8,26.5,4.3,57.2,4.0,59.5,-35.0,41.0
+2025,5,Rutgers Scarlet Knights @ Minnesota Golden Gophers,28.2,21.9,6.3,50.2,-3.6666666666666665,51.5,3.0,59.0
+2025,5,South Alabama Jaguars @ North Texas Mean Green,34.0,29.3,4.7,63.3,-12.666666666666666,63.5,14.0,58.0
+2025,5,Notre Dame Fighting Irish @ Arkansas Razorbacks,27.5,31.2,-3.7,58.8,5.333333333333333,63.5,-43.0,69.0
+2025,5,USC Trojans @ Illinois Fighting Illini,30.3,30.2,0.2,60.5,6.5,62.333333333333336,2.0,66.0
+2025,5,Bowling Green Falcons @ Ohio Bobcats,28.3,20.9,7.4,49.2,-7.666666666666667,49.666666666666664,15.0,55.0
+2025,5,Georgia Tech Yellow Jackets @ Wake Forest Demon Deacons,27.5,27.8,-0.4,55.3,12.666666666666666,53.333333333333336,-1.0,59.0
+2025,5,UCF Knights @ Kansas State Wildcats,30.1,25.0,5.1,55.0,-5.833333333333333,48.5,14.0,54.0
+2025,5,Cincinnati Bearcats @ Kansas Jayhawks,31.1,24.5,6.5,55.6,-5.166666666666667,56.333333333333336,-3.0,71.0
+2025,5,Utah State Aggies @ Vanderbilt Commodores,35.3,26.8,8.5,62.1,-23.666666666666668,57.833333333333336,20.0,90.0
+2025,5,Eastern Michigan Eagles @ Central Michigan Chippewas,29.9,25.5,4.4,55.4,-3.1666666666666665,55.166666666666664,11.0,37.0
+2025,5,Georgia Southern Eagles @ James Madison Dukes,34.3,22.1,12.3,56.4,-15.333333333333334,54.5,25.0,45.0
+2025,5,Arkansas State Red Wolves @ UL Monroe Warhawks,29.1,26.0,3.2,55.1,-1.5,55.5,12.0,44.0
+2025,5,California Golden Bears @ Boston College Eagles,27.3,23.8,3.4,51.1,-6.166666666666667,54.166666666666664,-4.0,52.0
+2025,5,Baylor Bears @ Oklahoma State Cowboys,29.4,29.8,-0.5,59.2,21.166666666666668,58.666666666666664,-18.0,72.0
+2025,5,Utah Utes @ West Virginia Mountaineers,25.5,25.8,-0.3,51.3,13.166666666666666,46.666666666666664,-34.0,62.0
+2025,5,UConn Huskies @ Buffalo Bulls,28.3,24.8,3.5,53.0,2.8333333333333335,51.333333333333336,-3.0,37.0
+2025,5,UCLA Bruins @ Northwestern Wildcats,23.4,22.2,1.2,45.6,-6.166666666666667,46.0,3.0,31.0
+2025,5,Akron Zips @ Toledo Rockets,32.9,18.6,14.3,51.6,-21.666666666666668,50.0,42.0,48.0
+2025,5,San Diego State Aztecs @ Northern Illinois Huskies,24.9,20.0,4.9,44.9,1.6666666666666667,42.0,-3.0,9.0
+2025,5,Indiana Hoosiers @ Iowa Hawkeyes,25.9,23.3,2.6,49.2,9.166666666666666,47.5,-5.0,35.0
+2025,5,Auburn Tigers @ Texas A&M Aggies,28.9,22.2,6.7,51.2,-6.5,51.5,6.0,26.0
+2025,5,LSU Tigers @ Ole Miss Rebels,32.7,24.5,8.1,57.2,-2.8333333333333335,58.0,5.0,43.0
+2025,5,Ohio State Buckeyes @ Washington Huskies,24.4,29.8,-5.4,54.2,9.333333333333334,52.833333333333336,-18.0,30.0
+2025,5,Rice Owls @ Navy Midshipmen,29.9,19.4,10.5,49.2,-14.166666666666666,45.666666666666664,8.0,34.0
+2025,5,New Mexico State Aggies @ New Mexico Lobos,31.4,25.6,5.9,57.0,-16.833333333333332,53.5,18.0,58.0
+2025,5,Hawai'i Rainbow Warriors @ Air Force Falcons,29.4,19.1,10.3,48.5,-6.833333333333333,52.333333333333336,-9.0,79.0
+2025,5,Tulane Green Wave @ Tulsa Golden Hurricane,24.2,31.4,-7.2,55.6,14.5,52.333333333333336,-17.0,45.0
+2025,5,Tennessee Volunteers @ Mississippi State Bulldogs,27.1,31.9,-4.8,59.0,7.5,63.5,-7.0,75.0
+2025,5,Liberty Flames @ Old Dominion Monarchs,28.2,25.0,3.2,53.3,-14.5,53.5,14.0,28.0
+2025,5,Middle Tennessee Blue Raiders @ Kennesaw State Owls,26.7,22.4,4.2,49.1,-7.166666666666667,54.166666666666664,8.0,40.0
+2025,5,Virginia Tech Hokies @ NC State Wolfpack,28.7,24.1,4.5,52.8,-10.166666666666666,57.166666666666664,-2.0,44.0
+2025,5,Jacksonville State Gamecocks @ Southern Miss Golden Eagles,24.1,31.7,-7.7,55.8,-4.833333333333333,55.666666666666664,17.0,67.0
+2025,5,Western Kentucky Hilltoppers @ Missouri State Bears,28.1,28.0,0.1,56.1,3.5,59.5,-5.0,49.0
+2025,5,Memphis Tigers @ Florida Atlantic Owls,25.9,31.7,-5.8,57.7,13.833333333333334,62.666666666666664,-29.0,81.0
+2025,5,Arizona Wildcats @ Iowa State Cyclones,29.9,21.4,8.5,51.3,-4.0,48.5,25.0,53.0
+2025,5,Massachusetts Minutemen @ Missouri Tigers,39.2,16.8,22.4,56.0,-44.5,57.0,36.0,48.0
+2025,5,Alabama Crimson Tide @ Georgia Bulldogs,30.1,24.7,5.4,54.9,-2.3333333333333335,53.333333333333336,-3.0,45.0
+2025,5,Oregon Ducks @ Penn State Nittany Lions,29.7,25.5,4.2,55.2,-4.0,53.0,-6.0,54.0
+2025,5,Washington State Cougars @ Colorado State Rams,27.5,27.0,0.5,54.5,-5.166666666666667,48.5,-17.0,23.0
+2025,5,San José State Spartans @ Stanford Cardinal,26.6,26.9,-0.3,53.6,-3.1666666666666665,49.666666666666664,1.0,59.0
+2025,5,App State Mountaineers @ Boise State Broncos,34.5,23.8,10.7,58.4,-16.833333333333332,59.5,33.0,61.0
+2025,5,Kentucky Wildcats @ South Carolina Gamecocks,26.6,21.0,5.7,47.6,-5.666666666666667,46.666666666666664,22.0,48.0
+2025,5,Marshall Thundering Herd @ Louisiana Ragin' Cajuns,27.7,24.7,3.0,52.4,2.1666666666666665,48.0,3.0,105.0
+2025,5,Louisiana Tech Bulldogs @ UTEP Miners,24.5,24.1,0.4,48.7,3.5,48.0,-19.0,41.0
+2025,5,BYU Cougars @ Colorado Buffaloes,26.9,27.5,-0.6,54.3,6.5,48.666666666666664,-3.0,45.0
+2025,6,Sam Houston Bearkats @ New Mexico State Aggies,25.4,24.9,0.5,50.3,2.0,52.666666666666664,27.0,47.0
+2025,6,Western Kentucky Hilltoppers @ Delaware Blue Hens,29.1,27.5,1.7,56.6,-2.6666666666666665,63.0,-3.0,51.0
+2025,6,Charlotte 49ers @ South Florida Bulls,35.3,22.8,12.5,58.2,-28.0,54.833333333333336,28.0,80.0
+2025,6,New Mexico Lobos @ San José State Spartans,31.8,26.0,5.8,57.7,-2.0,58.833333333333336,7.0,63.0
+2025,6,Colorado State Rams @ San Diego State Aztecs,25.1,18.9,6.1,44.0,-4.5,40.5,21.0,69.0
+2025,6,West Virginia Mountaineers @ BYU Cougars,31.7,22.0,9.7,53.7,-19.666666666666668,46.666666666666664,14.0,62.0
+2025,6,Air Force Falcons @ Navy Midshipmen,28.4,21.3,7.1,49.7,-13.5,51.0,3.0,65.0
+2025,6,Kansas State Wildcats @ Baylor Bears,30.1,28.2,1.9,58.3,-4.666666666666667,60.0,1.0,69.0
+2025,6,Clemson Tigers @ North Carolina Tar Heels,26.8,27.8,-1.0,54.6,15.166666666666666,47.666666666666664,-28.0,48.0
+2025,6,Boston College Eagles @ Pittsburgh Panthers,31.3,25.2,6.1,56.5,-6.666666666666667,54.666666666666664,41.0,55.0
+2025,6,Illinois Fighting Illini @ Purdue Boilermakers,24.8,29.1,-4.3,53.8,7.166666666666667,54.833333333333336,-16.0,70.0
+2025,6,Wisconsin Badgers @ Michigan Wolverines,28.7,16.3,12.4,44.9,-17.333333333333332,42.5,14.0,34.0
+2025,6,Iowa State Cyclones @ Cincinnati Bearcats,25.7,25.1,0.6,50.8,-1.6666666666666667,55.5,8.0,68.0
+2025,6,Kentucky Wildcats @ Georgia Bulldogs,32.4,18.1,14.2,50.5,-19.666666666666668,49.0,21.0,49.0
+2025,6,Ohio Bobcats @ Ball State Cardinals,23.3,29.4,-6.0,52.7,14.166666666666666,52.166666666666664,6.0,34.0
+2025,6,Army Black Knights @ UAB Blazers,26.7,29.0,-2.3,55.7,6.5,55.5,-18.0,44.0
+2025,6,UTSA Roadrunners @ Temple Owls,26.4,32.0,-5.6,58.5,6.5,58.166666666666664,6.0,48.0
+2025,6,Wake Forest Demon Deacons @ Virginia Tech Hokies,29.7,22.8,6.9,52.4,-5.0,51.333333333333336,-7.0,53.0
+2025,6,Western Michigan Broncos @ Massachusetts Minutemen,25.5,30.0,-4.4,55.5,12.333333333333334,46.166666666666664,-18.0,24.0
+2025,6,Oklahoma State Cowboys @ Arizona Wildcats,31.1,24.8,6.4,55.9,-22.166666666666668,56.5,28.0,54.0
+2025,6,Washington Huskies @ Maryland Terrapins,27.6,26.9,0.8,54.5,5.5,52.666666666666664,-4.0,44.0
+2025,6,UL Monroe Warhawks @ Northwestern Wildcats,26.7,19.7,7.0,46.4,-12.833333333333334,43.333333333333336,35.0,49.0
+2025,6,Oregon State Beavers @ App State Mountaineers,30.2,26.0,4.2,56.1,-2.0,53.833333333333336,4.0,50.0
+2025,6,Florida International Panthers @ UConn Huskies,30.6,21.9,8.7,52.6,-6.833333333333333,52.0,41.0,61.0
+2025,6,Syracuse Orange @ SMU Mustangs,35.6,24.7,10.9,60.3,-17.5,56.666666666666664,13.0,49.0
+2025,6,Eastern Michigan Eagles @ Buffalo Bulls,30.4,22.8,7.6,53.3,-9.5,53.5,1.0,61.0
+2025,6,Boise State Broncos @ Notre Dame Fighting Irish,34.9,23.9,11.0,58.8,-21.5,63.333333333333336,21.0,35.0
+2025,6,James Madison Dukes @ Georgia State Panthers,23.5,32.3,-8.7,55.8,19.333333333333332,52.666666666666664,-7.0,21.0
+2025,6,Vanderbilt Commodores @ Alabama Crimson Tide,34.2,21.9,12.3,56.1,-13.5,57.833333333333336,16.0,44.0
+2025,6,Texas Longhorns @ Florida Gators,22.2,27.1,-4.9,49.3,4.5,42.5,8.0,50.0
+2025,6,Penn State Nittany Lions @ UCLA Bruins,19.6,28.6,-9.0,48.2,24.5,48.0,5.0,79.0
+2025,6,Miami (OH) RedHawks @ Northern Illinois Huskies,21.6,20.8,0.8,42.5,4.666666666666667,38.5,-11.0,39.0
+2025,6,Virginia Cavaliers @ Louisville Cardinals,34.0,22.8,11.2,56.8,-6.5,60.333333333333336,-3.0,57.0
+2025,6,Central Michigan Chippewas @ Akron Zips,26.2,25.6,0.7,51.8,7.0,47.5,6.0,50.0
+2025,6,Kent State Golden Flashes @ Oklahoma Sooners,39.6,16.0,23.6,55.6,-46.5,53.666666666666664,44.0,44.0
+2025,6,Michigan State Spartans @ Nebraska Cornhuskers,28.6,19.5,9.1,48.1,-12.833333333333334,48.833333333333336,11.0,65.0
+2025,6,Texas State Bobcats @ Arkansas State Red Wolves,28.4,31.9,-3.5,60.3,14.166666666666666,63.5,1.0,61.0
+2025,6,Coastal Carolina Chanticleers @ Old Dominion Monarchs,30.2,22.5,7.6,52.7,-19.0,53.333333333333336,40.0,54.0
+2025,6,Texas Tech Red Raiders @ Houston Cougars,27.7,28.1,-0.4,55.9,12.666666666666666,51.5,-24.0,46.0
+2025,6,UNLV Rebels @ Wyoming Cowboys,24.5,27.3,-2.8,51.8,4.333333333333333,51.666666666666664,-14.0,48.0
+2025,6,South Alabama Jaguars @ Troy Trojans,27.4,24.0,3.4,51.4,2.5,46.666666666666664,7.0,55.0
+2025,6,Florida Atlantic Owls @ Rice Owls,28.5,23.7,4.8,52.2,-4.666666666666667,55.0,-6.0,48.0
+2025,6,Mississippi State Bulldogs @ Texas A&M Aggies,32.2,22.2,10.0,54.3,-17.5,57.166666666666664,22.0,40.0
+2025,6,Miami Hurricanes @ Florida State Seminoles,28.2,28.8,-0.6,57.0,3.1666666666666665,54.5,-6.0,50.0
+2025,6,Minnesota Golden Gophers @ Ohio State Buckeyes,31.2,15.5,15.6,46.7,-23.5,42.333333333333336,39.0,45.0
+2025,6,Colorado Buffaloes @ TCU Horned Frogs,33.8,24.5,9.3,58.3,-13.833333333333334,57.0,14.0,56.0
+2025,6,Kansas Jayhawks @ UCF Knights,30.5,27.4,3.1,57.9,3.8333333333333335,53.333333333333336,-7.0,47.0
+2025,6,Tulsa Golden Hurricane @ Memphis Tigers,38.9,21.2,17.7,60.1,-21.166666666666668,53.833333333333336,38.0,52.0
+2025,6,Duke Blue Devils @ California Golden Bears,26.4,24.4,2.0,50.8,3.5,54.833333333333336,-24.0,66.0
+2025,6,Nevada Wolf Pack @ Fresno State Bulldogs,31.4,18.6,12.8,50.1,-12.5,45.833333333333336,3.0,37.0
+2025,7,Missouri State Bears @ Middle Tennessee Blue Raiders,25.6,27.0,-1.4,52.5,2.8333333333333335,51.833333333333336,-2.0,42.0
+2025,7,Liberty Flames @ UTEP Miners,23.6,26.8,-3.2,50.3,1.6666666666666667,46.833333333333336,-11.0,27.0
+2025,7,Louisiana Tech Bulldogs @ Kennesaw State Owls,22.4,23.7,-1.3,46.0,4.833333333333333,46.166666666666664,28.0,42.0
+2025,7,East Carolina Pirates @ Tulane Green Wave,29.1,22.2,6.9,51.2,-6.833333333333333,53.5,7.0,45.0
+2025,7,Southern Miss Golden Eagles @ Georgia Southern Eagles,32.9,24.3,8.6,57.1,2.8333333333333335,60.0,-3.0,73.0
+2025,7,Jacksonville State Gamecocks @ Sam Houston Bearkats,25.6,28.1,-2.6,53.7,7.166666666666667,53.333333333333336,-2.0,56.0
+2025,7,South Florida Bulls @ North Texas Mean Green,36.2,30.6,5.6,66.8,-2.5,68.5,-27.0,99.0
+2025,7,Rutgers Scarlet Knights @ Washington Huskies,32.1,24.3,7.8,56.3,-9.5,62.333333333333336,19.0,57.0
+2025,7,Fresno State Bulldogs @ Colorado State Rams,22.9,26.0,-3.1,49.0,5.666666666666667,47.833333333333336,28.0,70.0
+2025,7,Pittsburgh Panthers @ Florida State Seminoles,30.1,25.9,4.2,56.0,-10.833333333333334,57.0,-3.0,65.0
+2025,7,UCLA Bruins @ Michigan State Spartans,26.0,24.2,1.8,50.2,-6.833333333333333,51.666666666666664,-25.0,51.0
+2025,7,Stanford Cardinal @ SMU Mustangs,37.6,20.0,17.6,57.5,-19.5,55.5,24.0,44.0
+2025,7,UCF Knights @ Cincinnati Bearcats,28.8,25.2,3.5,54.0,-10.333333333333334,55.5,9.0,31.0
+2025,7,Houston Cougars @ Oklahoma State Cowboys,26.0,25.2,0.8,51.2,14.5,47.666666666666664,-22.0,56.0
+2025,7,Louisiana Ragin' Cajuns @ James Madison Dukes,31.5,21.4,10.1,52.9,-18.5,45.0,10.0,38.0
+2025,7,Alabama Crimson Tide @ Missouri Tigers,26.6,27.1,-0.5,53.7,3.1666666666666665,51.0,-3.0,51.0
+2025,7,Miami (OH) RedHawks @ Akron Zips,20.6,26.0,-5.4,46.6,11.666666666666666,47.5,-13.0,27.0
+2025,7,Toledo Rockets @ Bowling Green Falcons,25.0,26.1,-1.1,51.1,10.666666666666666,45.666666666666664,5.0,51.0
+2025,7,Ohio State Buckeyes @ Illinois Fighting Illini,21.5,29.1,-7.7,50.6,15.0,51.333333333333336,-18.0,50.0
+2025,7,Charlotte 49ers @ Army Black Knights,33.1,17.4,15.8,50.5,-17.5,45.166666666666664,17.0,31.0
+2025,7,Washington State Cougars @ Ole Miss Rebels,36.7,21.5,15.1,58.2,-33.0,58.5,3.0,45.0
+2025,7,Northern Illinois Huskies @ Eastern Michigan Eagles,25.0,24.2,0.8,49.1,1.5,48.333333333333336,6.0,26.0
+2025,7,Massachusetts Minutemen @ Kent State Golden Flashes,30.0,26.8,3.2,56.8,-1.3333333333333333,49.666666666666664,36.0,48.0
+2025,7,Iowa State Cyclones @ Colorado Buffaloes,26.1,27.0,-0.9,53.1,2.8333333333333335,52.5,7.0,41.0
+2025,7,Ball State Cardinals @ Western Michigan Broncos,30.2,22.6,7.6,52.8,-9.5,43.0,42.0,42.0
+2025,7,TCU Horned Frogs @ Kansas State Wildcats,30.4,27.4,3.0,57.8,2.8333333333333335,54.5,13.0,69.0
+2025,7,NC State Wolfpack @ Notre Dame Fighting Irish,36.1,20.0,16.0,56.1,-23.833333333333332,59.5,29.0,43.0
+2025,7,Air Force Falcons @ UNLV Rebels,32.4,24.5,7.9,56.9,-7.166666666666667,65.83333333333333,3.0,99.0
+2025,7,Virginia Tech Hokies @ Georgia Tech Yellow Jackets,29.5,23.7,5.8,53.2,-14.166666666666666,55.5,15.0,55.0
+2025,7,App State Mountaineers @ Georgia State Panthers,28.7,29.4,-0.6,58.1,2.8333333333333335,55.5,-21.0,61.0
+2025,7,Old Dominion Monarchs @ Marshall Thundering Herd,28.5,24.8,3.6,53.3,14.5,57.5,24.0,72.0
+2025,7,Oklahoma Sooners @ Texas Longhorns,25.5,21.0,4.6,46.5,-2.5,44.166666666666664,17.0,29.0
+2025,7,Northwestern Wildcats @ Penn State Nittany Lions,32.5,14.5,18.0,47.0,-20.5,46.5,-1.0,43.0
+2025,7,Indiana Hoosiers @ Oregon Ducks,34.7,24.8,9.9,59.5,-7.0,51.333333333333336,-10.0,50.0
+2025,7,Wake Forest Demon Deacons @ Oregon State Beavers,28.7,25.5,3.2,54.3,1.5,47.666666666666664,-25.0,53.0
+2025,7,Nebraska Cornhuskers @ Maryland Terrapins,26.0,23.1,2.9,49.2,6.833333333333333,47.333333333333336,-3.0,65.0
+2025,7,Navy Midshipmen @ Temple Owls,23.2,28.3,-5.1,51.5,10.166666666666666,52.5,-1.0,63.0
+2025,7,Arkansas Razorbacks @ Tennessee Volunteers,36.4,26.1,10.3,62.5,-10.166666666666666,68.5,3.0,65.0
+2025,7,UAB Blazers @ Florida Atlantic Owls,32.4,27.7,4.7,60.1,-4.833333333333333,66.0,20.0,86.0
+2025,7,San José State Spartans @ Wyoming Cowboys,25.0,22.7,2.2,47.7,1.5,49.833333333333336,7.0,63.0
+2025,7,UL Monroe Warhawks @ Coastal Carolina Chanticleers,29.4,22.8,6.6,52.2,2.8333333333333335,46.166666666666664,15.0,31.0
+2025,7,Florida Gators @ Texas A&M Aggies,29.0,21.5,7.5,50.4,-6.833333333333333,48.0,17.0,51.0
+2025,7,Iowa Hawkeyes @ Wisconsin Badgers,20.5,19.7,0.8,40.2,5.0,37.5,-37.0,37.0
+2025,7,Purdue Boilermakers @ Minnesota Golden Gophers,31.2,19.7,11.4,50.9,-7.333333333333333,49.5,7.0,47.0
+2025,7,Rice Owls @ UTSA Roadrunners,32.5,22.3,10.1,54.8,-9.166666666666666,48.5,48.0,74.0
+2025,7,Clemson Tigers @ Boston College Eagles,24.3,28.2,-3.9,52.4,13.833333333333334,54.333333333333336,-31.0,51.0
+2025,7,Kansas Jayhawks @ Texas Tech Red Raiders,34.2,28.7,5.4,62.9,-13.5,58.5,25.0,59.0
+2025,7,Michigan Wolverines @ USC Trojans,29.6,28.4,1.2,58.0,-2.8333333333333335,58.0,18.0,44.0
+2025,7,Georgia Bulldogs @ Auburn Tigers,23.0,27.1,-4.2,50.1,4.5,46.166666666666664,-10.0,30.0
+2025,7,South Carolina Gamecocks @ LSU Tigers,29.2,22.7,6.5,52.0,-8.333333333333334,44.5,10.0,30.0
+2025,7,BYU Cougars @ Arizona Wildcats,26.0,26.6,-0.6,52.5,2.5,46.666666666666664,-6.0,60.0
+2025,7,Troy Trojans @ Texas State Bobcats,30.0,24.6,5.3,54.6,-7.5,53.5,-7.0,89.0
+2025,7,New Mexico Lobos @ Boise State Broncos,36.8,22.7,14.1,59.6,-14.833333333333334,58.166666666666664,16.0,66.0
+2025,7,Arizona State Sun Devils @ Utah Utes,28.4,21.2,7.2,49.5,-9.166666666666666,43.833333333333336,32.0,52.0
+2025,7,San Diego State Aztecs @ Nevada Wolf Pack,22.8,23.2,-0.4,46.0,6.5,42.5,-34.0,54.0
+2025,7,Utah State Aggies @ Hawai'i Rainbow Warriors,30.4,29.6,0.8,60.1,1.6666666666666667,57.166666666666664,18.0,70.0
+2025,8,New Mexico State Aggies @ Liberty Flames,30.8,20.3,10.5,51.2,-10.833333333333334,48.166666666666664,3.0,57.0
+2025,8,Arkansas State Red Wolves @ South Alabama Jaguars,33.7,23.6,10.1,57.3,-8.5,57.333333333333336,-1.0,29.0
+2025,8,Florida International Panthers @ Western Kentucky Hilltoppers,34.1,21.0,13.1,55.1,-9.833333333333334,55.5,-19.0,31.0
+2025,8,Delaware Blue Hens @ Jacksonville State Gamecocks,32.1,25.1,7.0,57.2,2.8333333333333335,55.666666666666664,13.0,63.0
+2025,8,UTEP Miners @ Sam Houston Bearkats,27.4,20.5,6.9,47.9,3.5,46.833333333333336,-18.0,52.0
+2025,8,Tulsa Golden Hurricane @ East Carolina Pirates,33.8,20.1,13.7,53.8,-16.5,54.666666666666664,14.0,68.0
+2025,8,Louisville Cardinals @ Miami Hurricanes,31.5,26.5,5.1,58.0,-10.5,49.5,-3.0,45.0
+2025,8,Nebraska Cornhuskers @ Minnesota Golden Gophers,25.0,21.5,3.5,46.5,6.833333333333333,47.833333333333336,18.0,30.0
+2025,8,San José State Spartans @ Utah State Aggies,33.1,29.4,3.6,62.5,-3.1666666666666665,63.166666666666664,5.0,55.0
+2025,8,North Carolina Tar Heels @ California Golden Bears,28.7,24.7,4.0,53.4,-7.833333333333333,46.5,3.0,39.0
+2025,8,Eastern Michigan Eagles @ Miami (OH) RedHawks,29.6,18.4,11.2,48.1,-12.166666666666666,47.333333333333336,14.0,74.0
+2025,8,Central Michigan Chippewas @ Bowling Green Falcons,29.8,21.7,8.1,51.5,-3.1666666666666665,43.833333333333336,-21.0,33.0
+2025,8,Army Black Knights @ Tulane Green Wave,27.1,20.5,6.6,47.6,-10.0,44.5,7.0,41.0
+2025,8,Baylor Bears @ TCU Horned Frogs,34.3,27.5,6.8,61.9,-3.5,66.83333333333333,6.0,78.0
+2025,8,Arizona Wildcats @ Houston Cougars,26.8,22.6,4.2,49.4,2.0,47.333333333333336,3.0,59.0
+2025,8,UConn Huskies @ Boston College Eagles,28.0,25.8,2.2,53.8,2.5,58.333333333333336,-15.0,61.0
+2025,8,LSU Tigers @ Vanderbilt Commodores,27.7,28.1,-0.5,55.8,-1.5,48.333333333333336,7.0,55.0
+2025,8,Georgia Tech Yellow Jackets @ Duke Blue Devils,30.1,25.4,4.8,55.5,-3.5,60.833333333333336,-9.0,45.0
+2025,8,Washington Huskies @ Michigan Wolverines,29.4,21.4,8.0,50.9,-4.166666666666667,50.5,17.0,31.0
+2025,8,Oklahoma Sooners @ South Carolina Gamecocks,25.3,23.4,1.9,48.6,4.333333333333333,43.0,-19.0,33.0
+2025,8,West Virginia Mountaineers @ UCF Knights,31.2,23.7,7.5,54.9,-6.5,46.666666666666664,32.0,58.0
+2025,8,Kent State Golden Flashes @ Toledo Rockets,37.6,17.8,19.8,55.4,-25.333333333333332,48.5,35.0,55.0
+2025,8,Buffalo Bulls @ Massachusetts Minutemen,23.1,30.3,-7.1,53.4,16.5,47.5,-7.0,49.0
+2025,8,Troy Trojans @ UL Monroe Warhawks,22.7,26.4,-3.7,49.1,4.833333333333333,45.666666666666664,-23.0,51.0
+2025,8,Purdue Boilermakers @ Northwestern Wildcats,28.3,21.3,7.0,49.5,-3.3333333333333335,47.0,19.0,19.0
+2025,8,UNLV Rebels @ Boise State Broncos,33.7,26.9,6.8,60.6,-13.0,61.0,25.0,87.0
+2025,8,Wyoming Cowboys @ Air Force Falcons,28.0,20.5,7.6,48.5,-3.8333333333333335,56.5,3.0,45.0
+2025,8,SMU Mustangs @ Clemson Tigers,29.7,25.7,4.0,55.3,-4.166666666666667,49.666666666666664,-11.0,59.0
+2025,8,Old Dominion Monarchs @ James Madison Dukes,29.8,20.6,9.3,50.4,-3.1666666666666665,47.5,36.0,90.0
+2025,8,Texas State Bobcats @ Marshall Thundering Herd,32.5,27.9,4.7,60.4,2.8333333333333335,65.66666666666667,3.0,77.0
+2025,8,Temple Owls @ Charlotte 49ers,27.5,26.5,1.0,54.0,9.666666666666666,47.333333333333336,-35.0,63.0
+2025,8,Akron Zips @ Ball State Cardinals,27.8,23.6,4.3,51.4,1.0,44.0,14.0,70.0
+2025,8,Northern Illinois Huskies @ Ohio Bobcats,26.9,18.1,8.8,44.9,-10.833333333333334,41.833333333333336,27.0,69.0
+2025,8,Michigan State Spartans @ Indiana Hoosiers,34.6,19.9,14.8,54.5,-26.5,49.5,25.0,51.0
+2025,8,Ohio State Buckeyes @ Wisconsin Badgers,16.7,28.5,-11.7,45.2,24.5,41.333333333333336,-34.0,34.0
+2025,8,Coastal Carolina Chanticleers @ App State Mountaineers,31.1,24.0,7.1,55.2,-10.5,48.0,-8.0,82.0
+2025,8,Ole Miss Rebels @ Georgia Bulldogs,30.3,24.3,6.0,54.7,-7.5,56.5,8.0,78.0
+2025,8,Memphis Tigers @ UAB Blazers,27.5,36.1,-8.7,63.6,23.5,59.5,7.0,55.0
+2025,8,Texas Tech Red Raiders @ Arizona State Sun Devils,29.2,29.6,-0.4,58.8,8.0,52.333333333333336,4.0,48.0
+2025,8,UTSA Roadrunners @ North Texas Mean Green,34.5,32.7,1.8,67.2,-3.8333333333333335,64.0,38.0,72.0
+2025,8,Mississippi State Bulldogs @ Florida Gators,29.7,22.5,7.2,52.2,-9.5,51.0,2.0,44.0
+2025,8,Southern Miss Golden Eagles @ Louisiana Ragin' Cajuns,33.3,22.1,11.2,55.4,4.333333333333333,54.5,-12.0,32.0
+2025,8,Texas A&M Aggies @ Arkansas Razorbacks,28.2,28.2,-0.0,56.4,7.666666666666667,57.5,-3.0,87.0
+2025,8,Washington State Cougars @ Virginia Cavaliers,31.0,26.8,4.2,57.8,-16.5,56.5,2.0,42.0
+2025,8,Oregon Ducks @ Rutgers Scarlet Knights,25.8,32.6,-6.8,58.4,17.833333333333332,62.0,-46.0,66.0
+2025,8,Penn State Nittany Lions @ Iowa Hawkeyes,21.9,22.9,-1.0,44.8,-3.1666666666666665,41.333333333333336,1.0,49.0
+2025,8,Hawai'i Rainbow Warriors @ Colorado State Rams,27.2,22.4,4.8,49.6,-2.6666666666666665,53.5,-12.0,50.0
+2025,8,Georgia State Panthers @ Georgia Southern Eagles,33.8,26.1,7.6,59.9,-6.5,58.666666666666664,17.0,65.0
+2025,8,Texas Longhorns @ Kentucky Wildcats,20.8,27.2,-6.4,48.1,12.666666666666666,45.333333333333336,-3.0,29.0
+2025,8,Maryland Terrapins @ UCLA Bruins,27.0,23.8,3.2,50.7,-4.0,52.5,3.0,37.0
+2025,8,Tennessee Volunteers @ Alabama Crimson Tide,32.6,26.5,6.1,59.1,-8.666666666666666,60.833333333333336,17.0,57.0
+2025,8,USC Trojans @ Notre Dame Fighting Irish,36.4,26.3,10.1,62.6,-10.666666666666666,60.5,10.0,58.0
+2025,8,Florida Atlantic Owls @ South Florida Bulls,35.5,26.4,9.0,61.9,-20.5,72.5,35.0,61.0
+2025,8,Pittsburgh Panthers @ Syracuse Orange,29.9,28.7,1.2,58.6,9.166666666666666,54.5,-17.0,43.0
+2025,8,Missouri Tigers @ Auburn Tigers,25.4,24.1,1.3,49.5,1.5,43.666666666666664,-6.0,40.0
+2025,8,Cincinnati Bearcats @ Oklahoma State Cowboys,26.3,29.0,-2.7,55.3,23.666666666666668,57.666666666666664,-32.0,66.0
+2025,8,Utah Utes @ BYU Cougars,26.3,23.6,2.7,49.8,4.5,49.5,3.0,45.0
+2025,8,Nevada Wolf Pack @ New Mexico Lobos,31.4,23.7,7.6,55.1,-14.166666666666666,49.5,2.0,46.0
+2025,8,Florida State Seminoles @ Stanford Cardinal,24.2,29.5,-5.3,53.7,17.5,55.333333333333336,7.0,33.0
+2025,9,Kennesaw State Owls @ Florida International Panthers,25.9,22.0,3.9,48.0,2.8333333333333335,48.833333333333336,-19.0,71.0
+2025,9,Western Kentucky Hilltoppers @ Louisiana Tech Bulldogs,25.8,25.6,0.2,51.4,-5.0,49.333333333333336,-1.0,55.0
+2025,9,Middle Tennessee Blue Raiders @ Delaware Blue Hens,32.1,21.4,10.8,53.5,-8.666666666666666,55.333333333333336,3.0,59.0
+2025,9,Missouri State Bears @ New Mexico State Aggies,26.5,25.8,0.7,52.3,2.5,51.5,-7.0,41.0
+2025,9,South Alabama Jaguars @ Georgia State Panthers,26.5,30.0,-3.5,56.5,5.833333333333333,54.0,-7.0,69.0
+2025,9,North Texas Mean Green @ Charlotte 49ers,27.3,35.9,-8.6,63.2,25.333333333333332,60.833333333333336,-34.0,74.0
+2025,9,California Golden Bears @ Virginia Tech Hokies,26.8,22.5,4.3,49.3,-6.166666666666667,50.666666666666664,8.0,76.0
+2025,9,Boise State Broncos @ Nevada Wolf Pack,21.4,31.5,-10.1,52.9,20.833333333333332,50.833333333333336,-21.0,27.0
+2025,9,South Florida Bulls @ Memphis Tigers,36.0,27.3,8.7,63.3,3.5,58.833333333333336,3.0,65.0
+2025,9,Ohio Bobcats @ Eastern Michigan Eagles,24.5,28.8,-4.3,53.3,12.333333333333334,60.333333333333336,-7.0,49.0
+2025,9,Virginia Cavaliers @ North Carolina Tar Heels,30.0,26.6,3.4,56.6,11.666666666666666,50.833333333333336,-1.0,33.0
+2025,9,Rutgers Scarlet Knights @ Purdue Boilermakers,27.5,28.5,-1.0,56.0,-2.5,60.333333333333336,-3.0,51.0
+2025,9,SMU Mustangs @ Wake Forest Demon Deacons,26.6,30.9,-4.3,57.5,5.5,52.666666666666664,1.0,25.0
+2025,9,Northwestern Wildcats @ Nebraska Cornhuskers,25.9,18.1,7.8,44.0,-7.166666666666667,44.5,7.0,49.0
+2025,9,Kansas State Wildcats @ Kansas Jayhawks,30.1,27.7,2.4,57.7,-3.5,55.666666666666664,-25.0,59.0
+2025,9,Bowling Green Falcons @ Kent State Golden Flashes,23.2,30.0,-6.8,53.1,7.5,47.333333333333336,3.0,45.0
+2025,9,App State Mountaineers @ Old Dominion Monarchs,31.5,26.2,5.3,57.6,-13.166666666666666,61.833333333333336,3.0,45.0
+2025,9,Ole Miss Rebels @ Oklahoma Sooners,27.3,26.4,0.9,53.6,-5.5,52.5,-8.0,60.0
+2025,9,UCLA Bruins @ Indiana Hoosiers,31.9,21.0,10.9,52.8,-27.166666666666668,53.5,50.0,62.0
+2025,9,Syracuse Orange @ Georgia Tech Yellow Jackets,31.9,24.5,7.4,56.5,-17.5,52.833333333333336,25.0,57.0
+2025,9,Auburn Tigers @ Arkansas Razorbacks,28.5,24.9,3.6,53.5,-2.5,56.0,-9.0,57.0
+2025,9,Akron Zips @ Buffalo Bulls,30.5,20.5,10.1,51.0,-10.166666666666666,48.666666666666664,-8.0,40.0
+2025,9,Utah State Aggies @ New Mexico Lobos,34.0,31.7,2.3,65.6,-2.8333333333333335,61.0,19.0,47.0
+2025,9,UConn Huskies @ Rice Owls,25.2,26.3,-1.1,51.5,10.0,48.5,3.0,71.0
+2025,9,Western Michigan Broncos @ Miami (OH) RedHawks,27.4,19.5,7.9,46.9,-2.5,40.333333333333336,9.0,43.0
+2025,9,Massachusetts Minutemen @ Central Michigan Chippewas,33.1,19.9,13.2,53.0,-16.833333333333332,46.5,25.0,51.0
+2025,9,San Diego State Aztecs @ Fresno State Bulldogs,26.9,21.3,5.6,48.2,3.1666666666666665,46.0,-23.0,23.0
+2025,9,UL Monroe Warhawks @ Southern Miss Golden Eagles,28.3,23.0,5.3,51.4,-13.833333333333334,48.666666666666664,28.0,70.0
+2025,9,Minnesota Golden Gophers @ Iowa Hawkeyes,24.1,17.1,7.0,41.2,-7.333333333333333,39.166666666666664,38.0,44.0
+2025,9,Toledo Rockets @ Washington State Cougars,27.7,27.2,0.5,55.0,1.6666666666666667,44.833333333333336,21.0,35.0
+2025,9,NC State Wolfpack @ Pittsburgh Panthers,31.3,25.0,6.3,56.2,-5.0,52.666666666666664,19.0,87.0
+2025,9,Ball State Cardinals @ Northern Illinois Huskies,28.5,20.1,8.4,48.6,-6.5,42.0,14.0,28.0
+2025,9,Temple Owls @ Tulsa Golden Hurricane,29.0,27.5,1.4,56.5,4.333333333333333,52.5,-1.0,75.0
+2025,9,Florida Atlantic Owls @ Navy Midshipmen,32.4,21.5,10.9,53.8,-14.5,63.5,10.0,74.0
+2025,9,Illinois Fighting Illini @ Washington Huskies,29.8,24.4,5.5,54.2,-3.3333333333333335,54.5,17.0,67.0
+2025,9,BYU Cougars @ Iowa State Cyclones,27.1,23.5,3.6,50.6,-2.5,49.0,-14.0,68.0
+2025,9,Missouri Tigers @ Vanderbilt Commodores,27.7,27.7,-0.0,55.4,-3.1666666666666665,52.5,7.0,27.0
+2025,9,Alabama Crimson Tide @ South Carolina Gamecocks,22.9,26.8,-3.9,49.7,11.833333333333334,47.666666666666664,-7.0,51.0
+2025,9,Baylor Bears @ Cincinnati Bearcats,31.5,26.8,4.7,58.3,-3.5,68.83333333333333,21.0,61.0
+2025,9,Oklahoma State Cowboys @ Texas Tech Red Raiders,38.5,23.3,15.2,61.8,-37.0,56.333333333333336,42.0,42.0
+2025,9,Texas Longhorns @ Mississippi State Bulldogs,21.8,29.3,-7.4,51.1,8.333333333333334,48.833333333333336,-7.0,83.0
+2025,9,TCU Horned Frogs @ West Virginia Mountaineers,28.3,31.4,-3.1,59.7,16.5,55.5,-6.0,40.0
+2025,9,Louisiana Ragin' Cajuns @ Troy Trojans,28.8,23.1,5.8,51.9,-7.166666666666667,47.333333333333336,12.0,58.0
+2025,9,Georgia Southern Eagles @ Arkansas State Red Wolves,30.2,28.5,1.7,58.7,0.3333333333333333,59.5,10.0,58.0
+2025,9,Stanford Cardinal @ Miami Hurricanes,36.5,18.9,17.6,55.4,-29.0,45.666666666666664,35.0,49.0
+2025,9,Wisconsin Badgers @ Oregon Ducks,34.1,17.0,17.1,51.1,-31.333333333333332,45.0,14.0,28.0
+2025,9,Colorado State Rams @ Wyoming Cowboys,25.2,20.1,5.1,45.4,-5.666666666666667,46.5,28.0,28.0
+2025,9,Michigan Wolverines @ Michigan State Spartans,19.2,28.8,-9.6,47.9,13.5,47.5,-11.0,51.0
+2025,9,Boston College Eagles @ Louisville Cardinals,34.7,20.6,14.1,55.3,-25.5,54.5,14.0,62.0
+2025,9,Texas A&M Aggies @ LSU Tigers,28.7,25.4,3.3,54.1,1.5,50.166666666666664,-24.0,74.0
+2025,9,Tennessee Volunteers @ Kentucky Wildcats,25.9,29.3,-3.4,55.2,7.5,55.0,-22.0,90.0
+2025,9,Houston Cougars @ Arizona State Sun Devils,26.9,21.4,5.5,48.2,-7.333333333333333,47.0,-8.0,40.0
+2025,9,Colorado Buffaloes @ Utah Utes,30.6,20.5,10.1,51.2,-14.166666666666666,50.0,46.0,60.0
+2025,10,UTEP Miners @ Kennesaw State Owls,26.4,21.0,5.4,47.4,-12.166666666666666,53.0,13.0,53.0
+2025,10,James Madison Dukes @ Texas State Bobcats,28.1,29.8,-1.7,57.9,7.333333333333333,55.333333333333336,-32.0,72.0
+2025,10,Jacksonville State Gamecocks @ Middle Tennessee Blue Raiders,24.9,30.9,-6.1,55.8,4.333333333333333,54.0,-3.0,45.0
+2025,10,Florida International Panthers @ Missouri State Bears,30.2,21.4,8.8,51.6,-3.1666666666666665,50.0,7.0,49.0
+2025,10,Tulane Green Wave @ UTSA Roadrunners,29.0,27.8,1.2,56.8,5.833333333333333,54.333333333333336,22.0,74.0
+2025,10,Marshall Thundering Herd @ Coastal Carolina Chanticleers,27.0,28.3,-1.2,55.3,7.166666666666667,55.166666666666664,17.0,71.0
+2025,10,Memphis Tigers @ Rice Owls,23.8,31.4,-7.6,55.2,13.833333333333334,48.333333333333336,-24.0,52.0
+2025,10,North Carolina Tar Heels @ Syracuse Orange,29.7,26.2,3.6,55.9,-1.5,45.5,-17.0,37.0
+2025,10,Sam Houston Bearkats @ Louisiana Tech Bulldogs,27.0,20.8,6.1,47.8,-16.5,48.0,41.0,69.0
+2025,10,West Virginia Mountaineers @ Houston Cougars,28.4,21.9,6.5,50.3,-13.0,48.833333333333336,-10.0,80.0
+2025,10,Navy Midshipmen @ North Texas Mean Green,33.1,28.7,4.4,61.9,-6.5,68.5,14.0,48.0
+2025,10,Army Black Knights @ Air Force Falcons,25.2,23.8,1.5,49.0,1.3333333333333333,48.5,-3.0,37.0
+2025,10,UAB Blazers @ UConn Huskies,34.3,25.7,8.6,60.1,-10.333333333333334,61.5,19.0,57.0
+2025,10,UCF Knights @ Baylor Bears,30.6,27.9,2.7,58.4,-3.1666666666666665,58.5,27.0,33.0
+2025,10,Duke Blue Devils @ Clemson Tigers,30.1,22.4,7.7,52.5,-4.166666666666667,55.0,-1.0,91.0
+2025,10,Rutgers Scarlet Knights @ Illinois Fighting Illini,31.4,24.0,7.3,55.4,-13.0,63.5,22.0,48.0
+2025,10,Buffalo Bulls @ Bowling Green Falcons,27.1,22.4,4.7,49.5,-2.5,44.333333333333336,-25.0,31.0
+2025,10,Penn State Nittany Lions @ Ohio State Buckeyes,29.9,20.1,9.8,50.0,-17.666666666666668,45.5,24.0,52.0
+2025,10,Miami Hurricanes @ SMU Mustangs,30.8,27.4,3.4,58.2,7.833333333333333,49.166666666666664,6.0,46.0
+2025,10,Vanderbilt Commodores @ Texas Longhorns,32.6,19.9,12.7,52.5,-3.5,48.5,3.0,65.0
+2025,10,Arizona State Sun Devils @ Iowa State Cyclones,28.7,21.9,6.9,50.6,-7.833333333333333,48.5,-5.0,43.0
+2025,10,East Carolina Pirates @ Temple Owls,25.2,28.2,-3.0,53.4,5.333333333333333,58.333333333333336,-31.0,59.0
+2025,10,Louisville Cardinals @ Virginia Tech Hokies,25.6,28.5,-2.8,54.1,10.5,52.5,-12.0,44.0
+2025,10,New Mexico Lobos @ UNLV Rebels,36.8,26.5,10.4,63.3,-3.8333333333333335,61.166666666666664,-5.0,75.0
+2025,10,Notre Dame Fighting Irish @ Boston College Eagles,21.3,34.3,-13.1,55.6,31.0,55.333333333333336,-15.0,35.0
+2025,10,Pittsburgh Panthers @ Stanford Cardinal,24.7,31.3,-6.6,56.0,13.5,51.833333333333336,-15.0,55.0
+2025,10,Michigan State Spartans @ Minnesota Golden Gophers,28.6,19.1,9.5,47.7,-4.5,44.5,3.0,43.0
+2025,10,Delaware Blue Hens @ Liberty Flames,29.5,23.7,5.8,53.2,-3.5,52.333333333333336,29.0,89.0
+2025,10,Indiana Hoosiers @ Maryland Terrapins,25.8,28.9,-3.2,54.7,21.166666666666668,50.666666666666664,-45.0,65.0
+2025,10,Georgia Bulldogs @ Florida Gators,19.0,28.2,-9.2,47.2,6.833333333333333,50.333333333333336,-4.0,44.0
+2025,10,Fresno State Bulldogs @ Boise State Broncos,32.5,21.3,11.1,53.8,-17.5,47.666666666666664,-23.0,37.0
+2025,10,Old Dominion Monarchs @ UL Monroe Warhawks,24.3,28.4,-4.2,52.7,16.666666666666668,55.5,-25.0,37.0
+2025,10,Louisiana Ragin' Cajuns @ South Alabama Jaguars,30.1,25.0,5.1,55.1,-3.5,52.666666666666664,-9.0,53.0
+2025,10,Texas Tech Red Raiders @ Kansas State Wildcats,31.4,28.4,3.0,59.8,7.333333333333333,51.666666666666664,-23.0,63.0
+2025,10,New Mexico State Aggies @ Western Kentucky Hilltoppers,32.4,21.6,10.8,54.0,-7.5,53.833333333333336,19.0,51.0
+2025,10,Virginia Cavaliers @ California Golden Bears,27.9,24.7,3.2,52.6,6.166666666666667,52.333333333333336,-10.0,52.0
+2025,10,Mississippi State Bulldogs @ Arkansas Razorbacks,33.0,26.5,6.4,59.5,-5.333333333333333,66.5,-3.0,73.0
+2025,10,Oklahoma State Cowboys @ Kansas Jayhawks,35.5,23.1,12.5,58.6,-24.666666666666668,54.166666666666664,17.0,59.0
+2025,10,Central Michigan Chippewas @ Western Michigan Broncos,28.3,23.0,5.3,51.2,-5.666666666666667,43.333333333333336,3.0,45.0
+2025,10,Arizona Wildcats @ Colorado Buffaloes,29.1,26.0,3.1,55.2,3.6666666666666665,52.166666666666664,-35.0,69.0
+2025,10,Purdue Boilermakers @ Michigan Wolverines,34.3,15.3,19.0,49.6,-21.5,48.666666666666664,5.0,37.0
+2025,10,South Carolina Gamecocks @ Ole Miss Rebels,31.5,20.6,10.9,52.1,-13.0,55.833333333333336,16.0,44.0
+2025,10,Wyoming Cowboys @ San Diego State Aztecs,24.5,17.7,6.8,42.2,-10.0,42.0,17.0,31.0
+2025,10,Kentucky Wildcats @ Auburn Tigers,26.6,19.6,7.0,46.3,-11.666666666666666,44.5,-7.0,13.0
+2025,10,Wake Forest Demon Deacons @ Florida State Seminoles,29.7,23.1,6.7,52.8,-12.666666666666666,50.666666666666664,35.0,49.0
+2025,10,Washington State Cougars @ Oregon State Beavers,27.6,27.4,0.2,55.0,3.3333333333333335,47.5,3.0,17.0
+2025,10,Oklahoma Sooners @ Tennessee Volunteers,32.3,25.8,6.5,58.1,-2.8333333333333335,55.666666666666664,-6.0,60.0
+2025,10,Georgia Tech Yellow Jackets @ NC State Wolfpack,28.7,27.5,1.2,56.1,4.333333333333333,58.5,12.0,84.0
+2025,10,USC Trojans @ Nebraska Cornhuskers,28.5,29.7,-1.2,58.2,4.5,59.333333333333336,-4.0,38.0
+2025,10,Arkansas State Red Wolves @ Troy Trojans,31.5,21.2,10.4,52.7,-7.666666666666667,52.5,-13.0,33.0
+2025,10,Cincinnati Bearcats @ Utah Utes,29.1,21.5,7.6,50.6,-10.666666666666666,57.833333333333336,31.0,59.0
+2025,10,Hawai'i Rainbow Warriors @ San José State Spartans,29.5,23.3,6.2,52.8,-2.5,55.666666666666664,7.0,83.0
+2025,11,Massachusetts Minutemen @ Akron Zips,30.9,21.2,9.6,52.1,-12.166666666666666,51.333333333333336,34.0,54.0
+2025,11,Miami (OH) RedHawks @ Ohio Bobcats,25.9,20.9,4.9,46.8,-2.6666666666666665,50.666666666666664,4.0,44.0
+2025,11,Kent State Golden Flashes @ Ball State Cardinals,32.0,23.6,8.4,55.7,-3.1666666666666665,48.333333333333336,4.0,30.0
+2025,11,Northern Illinois Huskies @ Toledo Rockets,28.4,18.2,10.2,46.6,-15.166666666666666,42.0,39.0,45.0
+2025,11,Georgia Southern Eagles @ App State Mountaineers,32.9,27.1,5.8,60.0,-4.666666666666667,61.833333333333336,-2.0,48.0
+2025,11,UTSA Roadrunners @ South Florida Bulls,34.1,30.7,3.5,64.8,-13.833333333333334,67.0,32.0,78.0
+2025,11,Houston Cougars @ UCF Knights,27.5,21.4,6.1,48.9,-1.3333333333333333,47.5,-3.0,57.0
+2025,11,Northwestern Wildcats @ USC Trojans,33.5,20.6,12.9,54.1,-14.5,54.333333333333336,21.0,55.0
+2025,11,Tulane Green Wave @ Memphis Tigers,31.4,24.7,6.7,56.2,-3.1666666666666665,53.666666666666664,-6.0,70.0
+2025,11,Temple Owls @ Army Black Knights,30.8,18.7,12.1,49.4,-7.166666666666667,45.333333333333336,1.0,27.0
+2025,11,Southern Miss Golden Eagles @ Arkansas State Red Wolves,29.7,24.8,5.0,54.5,6.5,54.666666666666664,-6.0,48.0
+2025,11,Colorado Buffaloes @ West Virginia Mountaineers,30.7,26.4,4.3,57.0,-6.5,51.5,7.0,51.0
+2025,11,SMU Mustangs @ Boston College Eagles,24.4,31.2,-6.8,55.6,10.5,54.5,-32.0,58.0
+2025,11,BYU Cougars @ Texas Tech Red Raiders,32.0,26.3,5.7,58.3,-13.5,50.25,22.0,36.0
+2025,11,James Madison Dukes @ Marshall Thundering Herd,25.8,28.7,-2.9,54.4,13.5,53.166666666666664,-12.0,58.0
+2025,11,Georgia Bulldogs @ Mississippi State Bulldogs,24.0,31.6,-7.5,55.6,9.5,56.5,-20.0,62.0
+2025,11,Indiana Hoosiers @ Penn State Nittany Lions,29.9,25.4,4.5,55.4,14.0,50.166666666666664,-3.0,51.0
+2025,11,Missouri State Bears @ Liberty Flames,29.3,22.4,7.0,51.7,-7.666666666666667,51.5,-4.0,38.0
+2025,11,Ohio State Buckeyes @ Purdue Boilermakers,16.6,34.4,-17.8,51.0,29.666666666666668,49.666666666666664,-24.0,44.0
+2025,11,Bowling Green Falcons @ Eastern Michigan Eagles,26.4,25.1,1.3,51.5,-3.1666666666666665,49.333333333333336,6.0,48.0
+2025,11,UAB Blazers @ Rice Owls,30.4,26.7,3.6,57.1,-0.3333333333333333,51.5,7.0,41.0
+2025,11,Maryland Terrapins @ Rutgers Scarlet Knights,28.7,25.6,3.1,54.3,-1.5,56.666666666666664,15.0,55.0
+2025,11,Louisiana Tech Bulldogs @ Delaware Blue Hens,28.5,25.7,2.8,54.3,5.5,56.833333333333336,1.0,49.0
+2025,11,Tulsa Golden Hurricane @ Florida Atlantic Owls,33.1,26.0,7.1,59.1,-4.5,60.833333333333336,19.0,61.0
+2025,11,Charlotte 49ers @ East Carolina Pirates,35.5,17.6,17.9,53.1,-28.333333333333332,56.5,26.0,70.0
+2025,11,Jacksonville State Gamecocks @ UTEP Miners,24.2,29.2,-5.0,53.4,1.5,46.5,-3.0,57.0
+2025,11,Florida International Panthers @ Middle Tennessee Blue Raiders,27.2,24.2,3.1,51.4,-1.6666666666666667,50.666666666666664,-26.0,86.0
+2025,11,Iowa State Cyclones @ TCU Horned Frogs,30.4,25.2,5.2,55.6,-7.5,58.333333333333336,-3.0,37.0
+2025,11,Kansas Jayhawks @ Arizona Wildcats,30.2,27.4,2.8,57.6,-5.833333333333333,56.5,4.0,44.0
+2025,11,Duke Blue Devils @ UConn Huskies,28.1,27.6,0.5,55.7,7.666666666666667,63.0,3.0,71.0
+2025,11,Syracuse Orange @ Miami Hurricanes,34.9,21.5,13.4,56.5,-28.5,46.833333333333336,28.0,48.0
+2025,11,Texas A&M Aggies @ Missouri Tigers,27.9,25.7,2.2,53.6,6.833333333333333,48.333333333333336,-21.0,55.0
+2025,11,Oregon Ducks @ Iowa Hawkeyes,23.6,25.7,-2.1,49.3,4.5,41.666666666666664,-2.0,34.0
+2025,11,Auburn Tigers @ Vanderbilt Commodores,26.4,22.9,3.5,49.3,-5.833333333333333,46.333333333333336,7.0,83.0
+2025,11,Kennesaw State Owls @ New Mexico State Aggies,25.9,23.5,2.3,49.4,11.166666666666666,52.333333333333336,-3.0,45.0
+2025,11,Georgia State Panthers @ Coastal Carolina Chanticleers,32.6,24.5,8.1,57.0,-7.166666666666667,56.666666666666664,13.0,67.0
+2025,11,Washington Huskies @ Wisconsin Badgers,23.1,25.1,-2.0,48.2,10.5,44.5,3.0,23.0
+2025,11,Stanford Cardinal @ North Carolina Tar Heels,31.8,20.8,10.9,52.6,-8.5,41.666666666666664,5.0,35.0
+2025,11,Texas State Bobcats @ Louisiana Ragin' Cajuns,32.0,28.8,3.2,60.7,3.5,63.166666666666664,3.0,81.0
+2025,11,Air Force Falcons @ San José State Spartans,28.7,26.6,2.1,55.3,-6.166666666666667,67.83333333333333,-10.0,42.0
+2025,11,Florida State Seminoles @ Clemson Tigers,30.1,23.2,6.9,53.3,-1.5,56.833333333333336,14.0,34.0
+2025,11,Wake Forest Demon Deacons @ Virginia Cavaliers,29.8,23.8,6.0,53.6,-7.166666666666667,48.5,-7.0,25.0
+2025,11,California Golden Bears @ Louisville Cardinals,32.6,20.6,12.0,53.1,-18.333333333333332,49.0,-3.0,55.0
+2025,11,Florida Gators @ Kentucky Wildcats,24.5,22.6,1.9,47.1,4.833333333333333,44.5,31.0,45.0
+2025,11,Nevada Wolf Pack @ Utah State Aggies,32.9,24.2,8.6,57.1,-9.833333333333334,52.333333333333336,37.0,65.0
+2025,11,LSU Tigers @ Alabama Crimson Tide,31.9,22.5,9.4,54.3,-10.166666666666666,49.5,11.0,29.0
+2025,11,Navy Midshipmen @ Notre Dame Fighting Irish,34.3,18.4,16.0,52.7,-30.5,54.666666666666664,39.0,59.0
+2025,11,Nebraska Cornhuskers @ UCLA Bruins,24.5,23.2,1.4,47.7,-2.0,45.666666666666664,-7.0,49.0
+2025,11,UNLV Rebels @ Colorado State Rams,26.8,30.5,-3.6,57.3,5.166666666666667,61.0,-32.0,52.0
+2025,11,Sam Houston Bearkats @ Oregon State Beavers,29.2,21.5,7.7,50.7,-21.166666666666668,52.166666666666664,-4.0,38.0
+2025,11,San Diego State Aztecs @ Hawai'i Rainbow Warriors,23.4,24.4,-1.0,47.8,6.5,48.0,32.0,44.0
+2025,12,Kent State Golden Flashes @ Akron Zips,31.0,22.2,8.9,53.2,-7.5,49.5,-7.0,77.0
+2025,12,Ohio Bobcats @ Western Michigan Broncos,24.6,25.9,-1.3,50.5,-1.5,47.0,4.0,30.0
+2025,12,Northern Illinois Huskies @ Massachusetts Minutemen,20.6,27.3,-6.7,47.9,9.166666666666666,43.333333333333336,-42.0,48.0
+2025,12,Toledo Rockets @ Miami (OH) RedHawks,24.4,23.1,1.3,47.4,5.833333333333333,44.333333333333336,-21.0,27.0
+2025,12,Buffalo Bulls @ Central Michigan Chippewas,26.4,24.2,2.2,50.7,-2.3333333333333335,44.666666666666664,19.0,57.0
+2025,12,Troy Trojans @ Old Dominion Monarchs,27.4,23.5,3.9,50.9,-9.666666666666666,53.333333333333336,33.0,33.0
+2025,12,Clemson Tigers @ Louisville Cardinals,29.3,25.0,4.3,54.3,-1.8333333333333333,50.666666666666664,-1.0,39.0
+2025,12,Minnesota Golden Gophers @ Oregon Ducks,33.1,18.3,14.9,51.4,-26.666666666666668,46.0,29.0,55.0
+2025,12,Michigan Wolverines @ Northwestern Wildcats,17.7,24.9,-7.2,42.6,10.166666666666666,42.0,-2.0,46.0
+2025,12,Eastern Michigan Eagles @ Ball State Cardinals,27.7,26.2,1.5,53.9,2.6666666666666665,48.666666666666664,-15.0,33.0
+2025,12,UTSA Roadrunners @ Charlotte 49ers,25.5,34.9,-9.4,60.4,17.0,57.5,-21.0,35.0
+2025,12,Air Force Falcons @ UConn Huskies,29.3,25.3,4.0,54.7,-7.5,64.5,10.0,42.0
+2025,12,Kansas State Wildcats @ Oklahoma State Cowboys,25.0,32.0,-7.0,57.0,19.5,50.333333333333336,-8.0,20.0
+2025,12,Arizona Wildcats @ Cincinnati Bearcats,29.8,24.5,5.3,54.3,-6.0,56.333333333333336,-6.0,54.0
+2025,12,South Florida Bulls @ Navy Midshipmen,30.5,28.3,2.2,58.8,8.833333333333334,62.666666666666664,3.0,79.0
+2025,12,Notre Dame Fighting Irish @ Pittsburgh Panthers,25.7,32.3,-6.6,57.9,12.666666666666666,55.0,-22.0,52.0
+2025,12,South Carolina Gamecocks @ Texas A&M Aggies,29.9,20.7,9.2,50.6,-16.5,49.5,1.0,61.0
+2025,12,Wisconsin Badgers @ Indiana Hoosiers,31.2,17.3,13.9,48.5,-28.0,43.5,24.0,38.0
+2025,12,Arkansas Razorbacks @ LSU Tigers,32.8,25.7,7.1,58.6,-4.166666666666667,58.333333333333336,1.0,45.0
+2025,12,West Virginia Mountaineers @ Arizona State Sun Devils,30.4,23.4,6.9,53.8,-9.833333333333334,46.5,2.0,48.0
+2025,12,Oregon State Beavers @ Tulsa Golden Hurricane,26.9,28.3,-1.3,55.2,-1.3333333333333333,50.5,17.0,45.0
+2025,12,Marshall Thundering Herd @ Georgia State Panthers,27.2,31.5,-4.3,58.8,9.5,59.833333333333336,-12.0,48.0
+2025,12,North Texas Mean Green @ UAB Blazers,31.4,36.0,-4.5,67.4,17.5,69.0,-29.0,77.0
+2025,12,UTEP Miners @ Missouri State Bears,28.7,20.0,8.8,48.7,-6.833333333333333,48.166666666666664,14.0,62.0
+2025,12,Colorado State Rams @ New Mexico Lobos,30.7,23.8,6.9,54.6,-15.333333333333334,53.666666666666664,3.0,37.0
+2025,12,Oklahoma Sooners @ Alabama Crimson Tide,29.5,21.3,8.2,50.9,-6.5,45.833333333333336,-2.0,44.0
+2025,12,App State Mountaineers @ James Madison Dukes,34.0,20.5,13.5,54.5,-20.666666666666668,53.833333333333336,48.0,68.0
+2025,12,Texas State Bobcats @ Southern Miss Golden Eagles,29.7,31.2,-1.5,60.9,-3.1666666666666665,65.66666666666667,-27.0,55.0
+2025,12,Penn State Nittany Lions @ Michigan State Spartans,20.9,30.7,-9.7,51.6,6.833333333333333,49.0,-18.0,38.0
+2025,12,UCF Knights @ Texas Tech Red Raiders,33.4,23.8,9.6,57.1,-24.333333333333332,48.5,39.0,57.0
+2025,12,Iowa Hawkeyes @ USC Trojans,29.0,23.8,5.2,52.8,-6.5,48.5,5.0,47.0
+2025,12,Georgia Tech Yellow Jackets @ Boston College Eagles,26.3,29.5,-3.2,55.9,16.5,61.333333333333336,-2.0,70.0
+2025,12,Maryland Terrapins @ Illinois Fighting Illini,30.5,22.6,7.9,53.1,-16.166666666666668,51.666666666666664,18.0,30.0
+2025,12,Middle Tennessee Blue Raiders @ Western Kentucky Hilltoppers,33.8,20.4,13.4,54.2,-13.5,51.833333333333336,16.0,68.0
+2025,12,South Alabama Jaguars @ UL Monroe Warhawks,23.7,28.7,-4.9,52.4,4.0,49.833333333333336,-12.0,40.0
+2025,12,San José State Spartans @ Nevada Wolf Pack,24.4,26.7,-2.3,51.1,9.666666666666666,49.5,45.0,65.0
+2025,12,Virginia Cavaliers @ Duke Blue Devils,30.8,24.4,6.4,55.2,-5.333333333333333,60.0,-17.0,51.0
+2025,12,NC State Wolfpack @ Miami Hurricanes,34.3,23.2,11.1,57.5,-16.166666666666668,54.666666666666664,34.0,48.0
+2025,12,Memphis Tigers @ East Carolina Pirates,28.4,28.2,0.2,56.6,-2.8333333333333335,57.0,4.0,58.0
+2025,12,Florida Atlantic Owls @ Tulane Green Wave,34.1,21.6,12.4,55.7,-16.833333333333332,60.833333333333336,11.0,59.0
+2025,12,New Mexico State Aggies @ Tennessee Volunteers,39.1,19.8,19.3,59.0,-41.5,60.0,33.0,51.0
+2025,12,North Carolina Tar Heels @ Wake Forest Demon Deacons,27.3,24.2,3.1,51.6,-3.5,37.666666666666664,16.0,40.0
+2025,12,Liberty Flames @ Florida International Panthers,25.3,27.8,-2.5,53.0,3.1666666666666665,52.166666666666664,7.0,61.0
+2025,12,Coastal Carolina Chanticleers @ Georgia Southern Eagles,30.9,27.1,3.8,58.1,-3.1666666666666665,59.166666666666664,5.0,85.0
+2025,12,Utah Utes @ Baylor Bears,27.0,28.4,-1.5,55.4,9.5,60.833333333333336,-27.0,83.0
+2025,12,Florida Gators @ Ole Miss Rebels,32.3,20.3,12.0,52.5,-10.833333333333334,53.5,10.0,58.0
+2025,12,Purdue Boilermakers @ Washington Huskies,34.1,20.0,14.0,54.1,-14.833333333333334,51.333333333333336,36.0,62.0
+2025,12,Delaware Blue Hens @ Sam Houston Bearkats,27.5,26.4,1.1,53.9,12.166666666666666,56.333333333333336,3.0,49.0
+2025,12,Utah State Aggies @ UNLV Rebels,38.2,29.3,8.9,67.5,-4.666666666666667,68.5,3.0,55.0
+2025,12,Texas Longhorns @ Georgia Bulldogs,28.6,23.7,5.0,52.3,-3.6666666666666665,50.5,25.0,45.0
+2025,12,Virginia Tech Hokies @ Florida State Seminoles,29.2,22.3,7.0,51.5,-14.0,54.666666666666664,20.0,48.0
+2025,12,UCLA Bruins @ Ohio State Buckeyes,34.9,13.5,21.4,48.4,-33.0,46.5,38.0,58.0
+2025,12,Mississippi State Bulldogs @ Missouri Tigers,31.9,22.7,9.2,54.5,-7.333333333333333,50.333333333333336,22.0,76.0
+2025,12,Kennesaw State Owls @ Jacksonville State Gamecocks,31.6,21.2,10.4,52.8,3.6666666666666665,56.0,9.0,61.0
+2025,12,Louisiana Tech Bulldogs @ Washington State Cougars,29.0,22.2,6.7,51.2,-10.166666666666666,43.5,25.0,31.0
+2025,12,TCU Horned Frogs @ BYU Cougars,29.8,25.9,3.9,55.8,-2.8333333333333335,51.666666666666664,31.0,57.0
+2025,12,Boise State Broncos @ San Diego State Aztecs,23.3,26.1,-2.8,49.4,-2.0,42.166666666666664,10.0,24.0
+2025,12,Wyoming Cowboys @ Fresno State Bulldogs,26.4,18.6,7.7,45.0,-2.8333333333333335,40.5,21.0,27.0
+2025,13,Akron Zips @ Bowling Green Falcons,28.8,20.5,8.3,49.4,-2.3333333333333335,47.666666666666664,-3.0,35.0
+2025,13,Western Michigan Broncos @ Northern Illinois Huskies,24.5,21.1,3.4,45.5,6.833333333333333,39.166666666666664,-16.0,54.0
+2025,13,Massachusetts Minutemen @ Ohio Bobcats,36.8,15.0,21.8,51.8,-33.833333333333336,53.333333333333336,28.0,56.0
+2025,13,Central Michigan Chippewas @ Kent State Golden Flashes,25.2,29.7,-4.4,54.9,7.5,50.5,-12.0,44.0
+2025,13,Miami (OH) RedHawks @ Buffalo Bulls,23.3,22.9,0.4,46.2,2.5,38.5,-17.0,57.0
+2025,13,Louisiana Ragin' Cajuns @ Arkansas State Red Wolves,27.4,27.8,-0.3,55.2,-2.5,54.333333333333336,-4.0,64.0
+2025,13,Florida State Seminoles @ NC State Wolfpack,27.8,26.8,1.0,54.6,6.666666666666667,58.833333333333336,10.0,32.0
+2025,13,Hawai'i Rainbow Warriors @ UNLV Rebels,34.7,24.6,10.1,59.3,-2.5,64.5,28.0,48.0
+2025,13,Minnesota Golden Gophers @ Northwestern Wildcats,22.1,20.7,1.3,42.8,-4.166666666666667,41.0,3.0,73.0
+2025,13,Tulsa Golden Hurricane @ Army Black Knights,31.7,18.4,13.3,50.1,-9.833333333333334,43.5,-1.0,51.0
+2025,13,Miami Hurricanes @ Virginia Tech Hokies,24.1,29.7,-5.6,53.8,17.833333333333332,49.0,-17.0,51.0
+2025,13,Louisville Cardinals @ SMU Mustangs,30.8,25.5,5.3,56.3,-3.8333333333333335,49.833333333333336,32.0,44.0
+2025,13,Kansas Jayhawks @ Iowa State Cyclones,29.8,24.3,5.5,54.1,-3.3333333333333335,55.5,24.0,52.0
+2025,13,Delaware Blue Hens @ Wake Forest Demon Deacons,30.5,23.6,6.9,54.1,-17.5,49.166666666666664,38.0,66.0
+2025,13,Rutgers Scarlet Knights @ Ohio State Buckeyes,37.1,15.5,21.7,52.6,-28.666666666666668,54.333333333333336,33.0,51.0
+2025,13,Missouri Tigers @ Oklahoma Sooners,28.2,22.8,5.4,51.1,-4.5,42.5,11.0,23.0
+2025,13,Charlotte 49ers @ Georgia Bulldogs,41.5,12.7,28.8,54.2,-42.5,53.333333333333336,32.0,38.0
+2025,13,Old Dominion Monarchs @ Georgia Southern Eagles,28.4,28.9,-0.5,57.2,10.166666666666666,62.0,-35.0,55.0
+2025,13,Baylor Bears @ Arizona Wildcats,31.7,27.7,4.0,59.4,-6.5,61.166666666666664,24.0,58.0
+2025,13,Washington State Cougars @ James Madison Dukes,31.8,20.8,11.0,52.5,-15.333333333333334,44.833333333333336,4.0,44.0
+2025,13,Missouri State Bears @ Kennesaw State Owls,24.9,24.0,0.9,48.8,-6.5,54.333333333333336,7.0,75.0
+2025,13,Ball State Cardinals @ Toledo Rockets,33.8,16.8,17.0,50.6,-29.166666666666668,45.5,29.0,47.0
+2025,13,Nevada Wolf Pack @ Wyoming Cowboys,25.7,17.9,7.8,43.6,-6.333333333333333,39.833333333333336,-6.0,20.0
+2025,13,Marshall Thundering Herd @ App State Mountaineers,29.2,28.7,0.5,57.9,3.8333333333333335,56.833333333333336,2.0,50.0
+2025,13,New Mexico State Aggies @ UTEP Miners,26.9,23.0,3.9,50.0,-4.166666666666667,44.833333333333336,-3.0,65.0
+2025,13,Sam Houston Bearkats @ Middle Tennessee Blue Raiders,26.2,24.9,1.3,51.1,-6.666666666666667,53.5,14.0,48.0
+2025,13,South Florida Bulls @ UAB Blazers,30.4,35.5,-5.1,65.9,21.666666666666668,68.66666666666667,-30.0,66.0
+2025,13,Liberty Flames @ Louisiana Tech Bulldogs,25.4,24.2,1.2,49.6,1.3333333333333333,45.333333333333336,6.0,62.0
+2025,13,UConn Huskies @ Florida Atlantic Owls,28.5,28.6,-0.1,57.1,5.833333333333333,64.0,-3.0,93.0
+2025,13,Southern Miss Golden Eagles @ South Alabama Jaguars,32.0,22.0,10.0,53.9,2.5,53.333333333333336,7.0,77.0
+2025,13,Duke Blue Devils @ North Carolina Tar Heels,27.8,26.7,1.1,54.5,6.833333333333333,50.333333333333336,-7.0,57.0
+2025,13,Michigan State Spartans @ Iowa Hawkeyes,29.3,15.0,14.3,44.3,-17.5,43.0,3.0,37.0
+2025,13,USC Trojans @ Oregon Ducks,36.0,27.0,9.0,63.0,-11.333333333333334,59.666666666666664,15.0,69.0
+2025,13,Syracuse Orange @ Notre Dame Fighting Irish,38.0,17.1,20.9,55.1,-36.666666666666664,51.0,63.0,77.0
+2025,13,Arkansas Razorbacks @ Texas Longhorns,34.0,22.1,11.9,56.2,-9.166666666666666,58.0,15.0,89.0
+2025,13,East Carolina Pirates @ UTSA Roadrunners,30.3,27.2,3.0,57.5,2.0,62.166666666666664,34.0,82.0
+2025,13,Kentucky Wildcats @ Vanderbilt Commodores,28.5,23.7,4.8,52.2,-6.833333333333333,53.5,28.0,62.0
+2025,13,Jacksonville State Gamecocks @ Florida International Panthers,26.7,30.3,-3.5,57.0,-2.5,56.0,6.0,48.0
+2025,13,Tulane Green Wave @ Temple Owls,23.8,29.9,-6.0,53.7,7.5,54.333333333333336,-24.0,50.0
+2025,13,Georgia State Panthers @ Troy Trojans,32.1,20.9,11.2,53.0,-9.833333333333334,51.0,12.0,50.0
+2025,13,Michigan Wolverines @ Maryland Terrapins,21.1,26.8,-5.7,47.8,13.833333333333334,46.5,-25.0,65.0
+2025,13,TCU Horned Frogs @ Houston Cougars,27.0,26.8,0.2,53.8,1.5,55.833333333333336,-3.0,31.0
+2025,13,Kansas State Wildcats @ Utah Utes,30.1,22.2,7.9,52.3,-17.833333333333332,52.5,4.0,98.0
+2025,13,Oklahoma State Cowboys @ UCF Knights,32.4,21.1,11.2,53.5,-13.166666666666666,47.5,3.0,31.0
+2025,13,Coastal Carolina Chanticleers @ South Carolina Gamecocks,31.3,20.5,10.8,51.8,-24.0,50.0,44.0,58.0
+2025,13,UL Monroe Warhawks @ Texas State Bobcats,36.2,22.1,14.1,58.3,-20.5,59.833333333333336,17.0,45.0
+2025,13,Pittsburgh Panthers @ Georgia Tech Yellow Jackets,31.4,28.0,3.4,59.4,-2.5,61.0,-14.0,70.0
+2025,13,Nebraska Cornhuskers @ Penn State Nittany Lions,30.4,18.5,11.9,48.9,-7.166666666666667,45.333333333333336,27.0,47.0
+2025,13,New Mexico Lobos @ Air Force Falcons,31.7,24.8,6.9,56.4,3.5,53.166666666666664,-17.0,23.0
+2025,13,Colorado State Rams @ Boise State Broncos,33.3,17.6,15.6,50.9,-17.333333333333332,45.833333333333336,28.0,70.0
+2025,13,Tennessee Volunteers @ Florida Gators,27.2,30.0,-2.8,57.2,3.3333333333333335,57.666666666666664,-20.0,42.0
+2025,13,Illinois Fighting Illini @ Wisconsin Badgers,22.3,22.9,-0.7,45.2,8.833333333333334,42.0,17.0,37.0
+2025,13,California Golden Bears @ Stanford Cardinal,24.3,26.6,-2.3,50.8,4.5,47.5,21.0,41.0
+2025,13,North Texas Mean Green @ Rice Owls,27.5,32.7,-5.3,60.2,18.5,57.0,-32.0,80.0
+2025,13,Western Kentucky Hilltoppers @ LSU Tigers,31.5,23.0,8.5,54.5,-24.833333333333332,52.666666666666664,3.0,23.0
+2025,13,Arizona State Sun Devils @ Colorado Buffaloes,26.7,26.3,0.4,52.9,6.833333333333333,47.5,-25.0,59.0
+2025,13,BYU Cougars @ Cincinnati Bearcats,26.6,26.1,0.4,52.7,2.5,56.833333333333336,-12.0,40.0
+2025,13,Utah State Aggies @ Fresno State Bulldogs,32.6,25.6,7.0,58.2,-1.6666666666666667,50.333333333333336,-11.0,45.0
+2025,13,San José State Spartans @ San Diego State Aztecs,28.2,20.7,7.5,49.0,-9.833333333333334,51.166666666666664,22.0,28.0
+2025,13,Washington Huskies @ UCLA Bruins,24.8,27.8,-3.0,52.5,10.666666666666666,51.333333333333336,-34.0,62.0
+2025,14,Bowling Green Falcons @ Massachusetts Minutemen,21.1,29.2,-8.1,50.3,14.166666666666666,44.5,-31.0,59.0
+2025,14,Western Michigan Broncos @ Eastern Michigan Eagles,26.5,25.8,0.7,52.3,9.833333333333334,49.333333333333336,-10.0,52.0
+2025,14,Navy Midshipmen @ Memphis Tigers,32.8,23.8,9.1,56.6,-3.6666666666666665,57.5,-11.0,45.0
+2025,14,Kent State Golden Flashes @ Northern Illinois Huskies,31.0,18.7,12.3,49.7,-5.0,44.666666666666664,-4.0,66.0
+2025,14,Ole Miss Rebels @ Mississippi State Bulldogs,25.8,32.4,-6.6,58.2,7.333333333333333,62.666666666666664,-19.0,57.0
+2025,14,Utah Utes @ Kansas Jayhawks,26.7,29.4,-2.7,56.1,10.166666666666666,60.166666666666664,-10.0,52.0
+2025,14,Iowa Hawkeyes @ Nebraska Cornhuskers,20.8,21.2,-0.5,42.0,5.666666666666667,38.833333333333336,-24.0,56.0
+2025,14,Ohio Bobcats @ Buffalo Bulls,24.2,26.0,-1.8,50.2,7.166666666666667,44.833333333333336,-5.0,57.0
+2025,14,Air Force Falcons @ Colorado State Rams,24.1,25.4,-1.3,49.5,2.5,47.5,-21.0,63.0
+2025,14,Temple Owls @ North Texas Mean Green,39.1,24.5,14.7,63.6,-20.333333333333332,65.5,27.0,77.0
+2025,14,Georgia Bulldogs @ Georgia Tech Yellow Jackets,20.9,31.3,-10.4,52.1,16.166666666666668,59.833333333333336,-7.0,25.0
+2025,14,San Diego State Aztecs @ New Mexico Lobos,25.2,24.0,1.2,49.2,1.3333333333333333,41.5,6.0,40.0
+2025,14,Boise State Broncos @ Utah State Aggies,29.3,32.6,-3.3,61.9,1.6666666666666667,54.666666666666664,-1.0,49.0
+2025,14,Indiana Hoosiers @ Purdue Boilermakers,22.1,33.7,-11.5,55.8,28.5,54.166666666666664,-53.0,59.0
+2025,14,Texas A&M Aggies @ Texas Longhorns,29.8,23.8,6.0,53.6,2.5,54.5,10.0,44.0
+2025,14,Arizona Wildcats @ Arizona State Sun Devils,28.2,24.2,3.9,52.4,2.0,48.166666666666664,-16.0,30.0
+2025,14,Ball State Cardinals @ Miami (OH) RedHawks,30.2,16.3,13.9,46.5,-16.666666666666668,40.5,21.0,69.0
+2025,14,Ohio State Buckeyes @ Michigan Wolverines,21.4,25.5,-4.1,47.0,9.5,43.0,-18.0,36.0
+2025,14,Texas Tech Red Raiders @ West Virginia Mountaineers,27.0,32.9,-5.9,59.8,24.333333333333332,53.333333333333336,-49.0,49.0
+2025,14,Toledo Rockets @ Central Michigan Chippewas,23.4,27.5,-4.1,50.9,11.166666666666666,46.5,-18.0,24.0
+2025,14,East Carolina Pirates @ Florida Atlantic Owls,27.5,29.9,-2.3,57.4,6.833333333333333,66.33333333333333,-39.0,45.0
+2025,14,Iowa State Cyclones @ Oklahoma State Cowboys,22.5,28.9,-6.4,51.4,13.833333333333334,46.833333333333336,-7.0,33.0
+2025,14,Colorado Buffaloes @ Kansas State Wildcats,34.1,22.7,11.4,56.8,-16.5,49.833333333333336,10.0,38.0
+2025,14,Houston Cougars @ Baylor Bears,29.9,25.1,4.8,55.0,-2.5,57.0,-7.0,55.0
+2025,14,Miami Hurricanes @ Pittsburgh Panthers,28.6,29.9,-1.3,58.5,6.5,49.0,-31.0,45.0
+2025,14,Clemson Tigers @ South Carolina Gamecocks,25.7,23.8,1.9,49.5,-2.5,45.666666666666664,-14.0,42.0
+2025,14,Kentucky Wildcats @ Louisville Cardinals,29.2,21.1,8.1,50.3,0.6666666666666666,45.5,41.0,41.0
+2025,14,Florida International Panthers @ Sam Houston Bearkats,26.9,24.1,2.8,51.0,10.5,50.666666666666664,-40.0,72.0
+2025,14,UCF Knights @ BYU Cougars,30.0,20.6,9.4,50.6,-17.5,46.5,20.0,62.0
+2025,14,UTEP Miners @ Delaware Blue Hens,30.5,24.3,6.2,54.7,-4.5,55.5,30.0,92.0
+2025,14,Georgia Southern Eagles @ Marshall Thundering Herd,34.2,25.1,9.0,59.3,-10.333333333333334,62.166666666666664,-5.0,43.0
+2025,14,Georgia State Panthers @ Old Dominion Monarchs,34.7,20.7,14.0,55.4,-28.666666666666668,58.5,17.0,37.0
+2025,14,Western Kentucky Hilltoppers @ Jacksonville State Gamecocks,30.3,26.1,4.2,56.5,1.5,56.5,3.0,71.0
+2025,14,Louisiana Tech Bulldogs @ Missouri State Bears,27.5,22.8,4.6,50.3,-2.5,45.333333333333336,-12.0,72.0
+2025,14,Arkansas State Red Wolves @ App State Mountaineers,31.4,25.0,6.4,56.4,0.6666666666666666,54.5,-1.0,59.0
+2025,14,UAB Blazers @ Tulsa Golden Hurricane,32.4,28.7,3.7,61.2,-9.333333333333334,56.5,-7.0,55.0
+2025,14,Middle Tennessee Blue Raiders @ New Mexico State Aggies,29.1,23.6,5.6,52.7,-3.3333333333333335,52.0,-7.0,55.0
+2025,14,UL Monroe Warhawks @ Louisiana Ragin' Cajuns,32.5,19.7,12.8,52.2,-11.0,47.5,3.0,57.0
+2025,14,South Alabama Jaguars @ Texas State Bobcats,33.1,28.1,5.0,61.2,-9.666666666666666,62.5,23.0,75.0
+2025,14,Boston College Eagles @ Syracuse Orange,30.5,25.2,5.3,55.6,2.8333333333333335,54.0,-22.0,46.0
+2025,14,Wisconsin Badgers @ Minnesota Golden Gophers,23.4,18.5,4.8,41.9,2.5,38.5,10.0,24.0
+2025,14,Vanderbilt Commodores @ Tennessee Volunteers,35.9,26.1,9.8,62.1,-2.3333333333333335,66.5,-21.0,69.0
+2025,14,Army Black Knights @ UTSA Roadrunners,29.2,23.6,5.6,52.8,-8.5,50.333333333333336,-3.0,51.0
+2025,14,Troy Trojans @ Southern Miss Golden Eagles,24.6,26.3,-1.7,50.9,-6.833333333333333,50.333333333333336,-10.0,46.0
+2025,14,LSU Tigers @ Oklahoma Sooners,27.7,21.6,6.1,49.3,-11.5,36.333333333333336,4.0,30.0
+2025,14,Oregon Ducks @ Washington Huskies,27.6,29.9,-2.2,57.5,6.666666666666667,51.333333333333336,-12.0,40.0
+2025,14,Kennesaw State Owls @ Liberty Flames,29.6,21.4,8.1,51.0,2.5,55.5,-6.0,90.0
+2025,14,Missouri Tigers @ Arkansas Razorbacks,29.2,28.5,0.7,57.7,4.5,54.5,-14.0,48.0
+2025,14,Cincinnati Bearcats @ TCU Horned Frogs,31.0,24.9,6.2,55.9,-3.1666666666666665,58.5,22.0,68.0
+2025,14,Penn State Nittany Lions @ Rutgers Scarlet Knights,23.2,30.5,-7.3,53.7,14.166666666666666,55.5,-4.0,76.0
+2025,14,Wake Forest Demon Deacons @ Duke Blue Devils,29.9,23.9,6.0,53.8,-2.5,53.666666666666664,17.0,81.0
+2025,14,James Madison Dukes @ Coastal Carolina Chanticleers,23.1,31.6,-8.4,54.7,24.0,54.166666666666664,-49.0,69.0
+2025,14,Florida State Seminoles @ Florida Gators,25.9,23.1,2.8,49.0,1.3333333333333333,49.0,19.0,61.0
+2025,14,Oregon State Beavers @ Washington State Cougars,30.3,21.1,9.2,51.5,-14.166666666666666,42.5,24.0,40.0
+2025,14,Virginia Tech Hokies @ Virginia Cavaliers,28.9,23.1,5.8,52.0,-8.666666666666666,52.833333333333336,20.0,34.0
+2025,14,Maryland Terrapins @ Michigan State Spartans,22.3,24.7,-2.4,47.0,-4.166666666666667,49.166666666666664,10.0,66.0
+2025,14,Rice Owls @ South Florida Bulls,36.2,22.4,13.8,58.6,-28.333333333333332,57.5,49.0,55.0
+2025,14,Charlotte 49ers @ Tulane Green Wave,36.8,16.1,20.7,52.9,-31.0,52.166666666666664,27.0,27.0
+2025,14,North Carolina Tar Heels @ NC State Wolfpack,29.7,24.3,5.3,54.0,-7.166666666666667,49.0,23.0,61.0
+2025,14,Alabama Crimson Tide @ Auburn Tigers,22.7,26.4,-3.7,49.1,6.833333333333333,48.333333333333336,-7.0,47.0
+2025,14,UCLA Bruins @ USC Trojans,36.1,22.6,13.5,58.6,-21.333333333333332,59.0,19.0,39.0
+2025,14,Northwestern Wildcats @ Illinois Fighting Illini,28.2,19.2,9.0,47.4,-7.166666666666667,44.333333333333336,7.0,33.0
+2025,14,SMU Mustangs @ California Golden Bears,23.8,29.8,-6.0,53.6,13.5,53.166666666666664,3.0,73.0
+2025,14,UNLV Rebels @ Nevada Wolf Pack,24.8,31.0,-6.2,55.8,7.5,52.666666666666664,-25.0,59.0
+2025,14,Notre Dame Fighting Irish @ Stanford Cardinal,17.9,35.3,-17.4,53.3,32.833333333333336,49.833333333333336,-29.0,69.0
+2025,14,Fresno State Bulldogs @ San José State Spartans,25.5,26.3,-0.8,51.8,3.3333333333333335,45.333333333333336,-27.0,55.0
+2025,14,Wyoming Cowboys @ Hawai'i Rainbow Warriors,24.7,20.7,4.0,45.5,-8.5,44.666666666666664,20.0,34.0
+2025,15,Troy Trojans @ James Madison Dukes,31.5,18.2,13.2,49.7,-24.0,47.5,17.0,45.0
+2025,15,Kennesaw State Owls @ Jacksonville State Gamecocks,32.1,23.2,8.8,55.3,1.875,61.5,-4.0,34.0
+2025,15,North Texas Mean Green @ Tulane Green Wave,33.1,29.4,3.7,62.4,1.625,66.75,13.0,55.0
+2025,15,UNLV Rebels @ Boise State Broncos,33.2,27.3,5.9,60.5,-5.375,59.125,17.0,59.0
+2025,15,Miami (OH) RedHawks @ Western Michigan Broncos,20.1,23.2,-3.1,43.2,-2.375,44.125,10.0,36.0
+2025,15,BYU Cougars @ Texas Tech Red Raiders,28.0,25.0,3.0,53.1,-12.75,50.125,27.0,41.0
+2025,15,Georgia Bulldogs @ Alabama Crimson Tide,23.3,24.7,-1.4,47.9,1.75,48.25,-21.0,35.0
+2025,15,Indiana Hoosiers @ Ohio State Buckeyes,28.1,20.9,7.2,49.0,-4.0,46.375,-3.0,23.0
+2025,15,Duke Blue Devils @ Virginia Cavaliers,25.2,26.4,-1.3,51.6,-3.5,58.5,-7.0,47.0
+2025,16,Army Black Knights @ Navy Midshipmen,21.5,21.2,0.2,42.7,-5.5,38.125,1.0,33.0

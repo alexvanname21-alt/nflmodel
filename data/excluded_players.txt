@@ -1,0 +1,7 @@
+# Manual player exclusion list for prop projections.
+# One full name per line, exact match to how they appear in nflverse rosters
+# (e.g. "Alvin Kamara", not "A. Kamara"). Use this for real-time moves
+# (IR, suspension, trade) that the automated weekly roster/injury data
+# hasn't caught up to yet — those sources update on their own weekly
+# cadence and can lag an actual transaction by a few days.
+# Lines starting with # are comments and blank lines are ignored.
