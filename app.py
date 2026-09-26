@@ -727,13 +727,15 @@ def summarize(rows: list[dict]) -> dict:
 
 
 def stat_bar(s: dict) -> None:
+    win_rate = "—" if s["win_rate"] is None else f"{s['win_rate']:.1%}"
+    beat_close = "—" if s["beat_close"] is None else f"{s['beat_close']:.0%}"
     render(
         '<div class="stat-row">'
         f'<div class="stat-item"><b>{s["wins"]}-{s["losses"]}-{s["pushes"]}</b>Record</div>'
-        f'<div class="stat-item"><b>{f"{s["win_rate"]:.1%}" if s["win_rate"] is not None else "—"}</b>Win rate</div>'
+        f'<div class="stat-item"><b>{win_rate}</b>Win rate</div>'
         f'<div class="stat-item"><b>{s["pending"]}</b>Pending</div>'
         f'<div class="stat-item"><b>{fmt_stat(s["avg_clv"])}</b>Avg CLV</div>'
-        f'<div class="stat-item"><b>{f"{s["beat_close"]:.0%}" if s["beat_close"] is not None else "—"}</b>Beat closing line</div>'
+        f'<div class="stat-item"><b>{beat_close}</b>Beat closing line</div>'
         '</div>'
     )
 
