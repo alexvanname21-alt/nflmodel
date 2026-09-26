@@ -1,13 +1,57 @@
 from __future__ import annotations
 
+import re
 import sqlite3
 from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path
 
-from config import DB_PATH, PICK_STABILITY_THRESHOLD
+from config import DATABASE_URL, DB_PATH, PICK_STABILITY_THRESHOLD
 
 SCHEMA_PATH = Path(__file__).parent / "schema.sql"
+SCHEMA_PATH_PG = Path(__file__).parent / "schema_postgres.sql"
+
+# Postgres (e.g. a free Supabase project) is used instead of local SQLite
+# whenever DATABASE_URL is set — see config.py. This keeps the Track Record
+# ledger alive across Streamlit Cloud redeploys, which wipe local disk.
+USE_POSTGRES = bool(DATABASE_URL)
+
+if USE_POSTGRES:
+    import psycopg2
+    import psycopg2.extras
+
+_NAMED_PARAM = re.compile(r":(\w+)")
+
+
+def _to_pg_sql(sql: str) -> str:
+    """Translate this file's sqlite-style placeholders (?, :name) to
+    psycopg2's (%s, %(name)s), so every query here and in pipeline/track_picks.py
+    is written once and runs unmodified on both backends."""
+    return _NAMED_PARAM.sub(r"%(\1)s", sql).replace("?", "%s")
+
+
+class _PGConn:
+    """Wraps a psycopg2 connection with the same conn.execute(...) /
+    conn.executescript(...) convenience methods sqlite3.Connection provides,
+    since every call site here and in track_picks.py relies on those existing
+    directly on the connection object, not just on a cursor."""
+
+    def __init__(self, raw):
+        self._raw = raw
+
+    def execute(self, sql: str, params=None):
+        cur = self._raw.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
+        cur.execute(_to_pg_sql(sql), params)
+        return cur
+
+    def executescript(self, sql: str) -> None:
+        self._raw.cursor().execute(sql)
+
+    def commit(self) -> None:
+        self._raw.commit()
+
+    def close(self) -> None:
+        self._raw.close()
 
 
 def now_iso() -> str:
@@ -16,9 +60,12 @@ def now_iso() -> str:
 
 @contextmanager
 def get_conn():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    conn.execute("PRAGMA foreign_keys = ON")
+    if USE_POSTGRES:
+        conn = _PGConn(psycopg2.connect(DATABASE_URL))
+    else:
+        conn = sqlite3.connect(DB_PATH)
+        conn.row_factory = sqlite3.Row
+        conn.execute("PRAGMA foreign_keys = ON")
     try:
         yield conn
         conn.commit()
@@ -28,6 +75,13 @@ def get_conn():
 
 def init_db() -> None:
     with get_conn() as conn:
+        if USE_POSTGRES:
+            # A fresh Supabase project always starts from this file with every
+            # column already present, so none of the sqlite ALTER-migrations
+            # below are needed on that path.
+            conn.executescript(SCHEMA_PATH_PG.read_text())
+            return
+
         conn.executescript(SCHEMA_PATH.read_text())
         # CREATE TABLE IF NOT EXISTS won't add columns to tables that already
         # exist on disk, so add the college 'sport' column to older databases.
@@ -63,18 +117,36 @@ def upsert_game(conn, game: dict) -> None:
     )
 
 
+_SAVE_RATINGS_SQL = (
+    """
+    INSERT INTO team_ratings
+        (season, computed_at, team, off_epa_pass, off_epa_rush,
+         def_epa_pass, def_epa_rush, off_epa_total, def_epa_total,
+         net_epa, games_sampled)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ON CONFLICT (season, computed_at, team) DO UPDATE SET
+        off_epa_pass=excluded.off_epa_pass, off_epa_rush=excluded.off_epa_rush,
+        def_epa_pass=excluded.def_epa_pass, def_epa_rush=excluded.def_epa_rush,
+        off_epa_total=excluded.off_epa_total, def_epa_total=excluded.def_epa_total,
+        net_epa=excluded.net_epa, games_sampled=excluded.games_sampled
+    """
+    if USE_POSTGRES else
+    """
+    INSERT OR REPLACE INTO team_ratings
+        (season, computed_at, team, off_epa_pass, off_epa_rush,
+         def_epa_pass, def_epa_rush, off_epa_total, def_epa_total,
+         net_epa, games_sampled)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    """
+)
+
+
 def save_team_ratings(conn, season: int, ratings_df, computed_at: str | None = None) -> None:
     computed_at = computed_at or now_iso()
     rows = ratings_df.to_dict("records")
     for r in rows:
         conn.execute(
-            """
-            INSERT OR REPLACE INTO team_ratings
-                (season, computed_at, team, off_epa_pass, off_epa_rush,
-                 def_epa_pass, def_epa_rush, off_epa_total, def_epa_total,
-                 net_epa, games_sampled)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            """,
+            _SAVE_RATINGS_SQL,
             (
                 season, computed_at, r["team"], r["off_epa_pass"], r["off_epa_rush"],
                 r["def_epa_pass"], r["def_epa_rush"], r["off_epa_total"], r["def_epa_total"],
@@ -294,21 +366,32 @@ def deactivate_props_for_players(conn, player_names: set[str]) -> int:
 # Pick tracking / grading — the live "is the model actually good" ledger.
 # ---------------------------------------------------------------------------
 
+_LOCK_PICK_SQL = (
+    """
+    INSERT INTO tracked_picks
+        (sport, pick_type, game_id, season, week, kickoff, description, player_name,
+         market, side, open_line, close_line, clv, model_projection, confidence, locked_at)
+    VALUES (:sport, :pick_type, :game_id, :season, :week, :kickoff, :description, :player_name,
+            :market, :side, :open_line, :close_line, :clv, :model_projection, :confidence, :locked_at)
+    ON CONFLICT (pick_type, game_id, player_name, market) DO NOTHING
+    """
+    if USE_POSTGRES else
+    """
+    INSERT OR IGNORE INTO tracked_picks
+        (sport, pick_type, game_id, season, week, kickoff, description, player_name,
+         market, side, open_line, close_line, clv, model_projection, confidence, locked_at)
+    VALUES (:sport, :pick_type, :game_id, :season, :week, :kickoff, :description, :player_name,
+            :market, :side, :open_line, :close_line, :clv, :model_projection, :confidence, :locked_at)
+    """
+)
+
+
 def lock_pick(conn, pick: dict) -> bool:
     """Snapshots a pick into the permanent tracked_picks ledger. No-ops if
     this exact pick (type + game + player + market) is already locked, since
-    UNIQUE + INSERT OR IGNORE makes this safe to call repeatedly. Returns
-    True if a new row was actually inserted."""
-    cur = conn.execute(
-        """
-        INSERT OR IGNORE INTO tracked_picks
-            (sport, pick_type, game_id, season, week, kickoff, description, player_name,
-             market, side, open_line, close_line, clv, model_projection, confidence, locked_at)
-        VALUES (:sport, :pick_type, :game_id, :season, :week, :kickoff, :description, :player_name,
-                :market, :side, :open_line, :close_line, :clv, :model_projection, :confidence, :locked_at)
-        """,
-        {"sport": "nfl", **pick},
-    )
+    the UNIQUE constraint + INSERT-if-absent makes this safe to call
+    repeatedly. Returns True if a new row was actually inserted."""
+    cur = conn.execute(_LOCK_PICK_SQL, {"sport": "nfl", **pick})
     return cur.rowcount > 0
 
 

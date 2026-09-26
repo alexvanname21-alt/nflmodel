@@ -6,3 +6,4 @@ nfl_data_py>=0.3.2
 python-dotenv>=1.0
 plotly>=5.22
 scikit-learn>=1.5
+psycopg2-binary>=2.9

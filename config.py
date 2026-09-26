@@ -21,6 +21,12 @@ ODDS_API_KEY = os.environ.get("ODDS_API_KEY", "")
 
 DB_PATH = ROOT_DIR / "storage" / "nfl_model.db"
 
+# When set (e.g. on Streamlit Community Cloud, pointed at a free Supabase
+# Postgres project), storage/db.py uses Postgres instead of the local SQLite
+# file, so the Track Record survives cloud redeploys. Unset = local SQLite,
+# unchanged from before.
+DATABASE_URL = os.environ.get("DATABASE_URL", "")
+
 # How many past seasons feed the ratings model.
 HISTORY_SEASONS = 5
 
